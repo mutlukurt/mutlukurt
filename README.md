@@ -1,34 +1,48 @@
-# Hi, I'm Mutlu Kurt! 👋
+# Hi, I'm Mutlu Kurt 👋
 
-Welcome to my GitHub profile.  
-I'm passionate about the intersection of **AI** and **no-code development**—constantly improving my skills in creative automation and workflow design.
+Welcome to my GitHub profile!
 
----
-
-## 🚀 What I’m Working On
-
-- **Vibe Coding:** I enjoy delivering solutions with a "vibe"—using innovative tools and approaches to simplify complex problems.
-- **Cursor AI:** Actively leveraging advanced code editors to boost productivity and creativity.
-- **Note Taking App:** My flagship project—an intuitive, AI-powered note-taking application to streamline information management. Check it out [here](https://github.com/mutlukurt/Note-taking-app) <!-- Add your repo link here -->
+I'm a junior developer passionate about **AI**, **no-code/low-code development**, and **interdisciplinary problem solving**. With a background in Labor Economics and Management Information Systems, I enjoy building intuitive applications that merge tech with real-world insight—making technology more accessible, purposeful, and human-centered.
 
 ---
 
-## 💡 Skills & Interests
+## 🚀 What I'm Working On
 
-- **No-code & Low-code Platforms:** Lovable.dev, Bolt.new, Bubble, Zapier, Retool, and more
-- **AI Integration:** Experimenting with tools like Cursor AI, ChatGPT
-- **Productivity Tools:** Workflow automation, note-taking, and rapid prototyping
-
----
-
-## 📫 Connect with Me
-
-- [LinkedIn: mutlukurt](https://www.linkedin.com/in/mutlukurt)
-- [Twitter: @mutlukurtio](https://twitter.com/mutlukurtio)
+- **No-Code & Low-Code Development:** Building functional apps with platforms like **Cursor AI**, **Lovable.dev**, and **Bolt.new**.
+- **AI-Powered Projects:** Exploring the power of **prompt engineering** and automation for smarter solutions.
+- **Note-Taking App:** A clean and efficient note-taking experience powered by no-code tools.  
+  → [Try the app here](https://github.com/mutlukurt/Note-taking-app)
 
 ---
 
-## ✨ A Bit More About Me
+## 💡 Skills & Focus Areas
 
-I love creating practical solutions without heavy coding—making tech accessible and enjoyable for everyone.  
-Always open to collaboration, feedback, and new ideas!
+- **Platforms:** Lovable.dev · Bolt.new · Bubble · Zapier · Retool  
+- **Tools:** Cursor AI · ChatGPT · GitHub · Notion  
+- **Areas of Interest:**  
+  - Prompt Engineering  
+  - Workflow Automation  
+  - User-Centered App Design  
+  - Lifelong Learning & Productivity  
+
+---
+
+## 🎓 Academic Path
+
+- 🎓 Labor Economics (Senior), Çankırı Karatekin University  
+- 💻 Management Information Systems (Student), Istanbul University  
+- 🏛 Intern at SGK (SSI/BAĞ-KUR), supporting administrative and documentation processes in a public sector setting
+
+---
+
+## 🤝 Let’s Connect
+
+- 🌐 [LinkedIn](https://www.linkedin.com/in/mutlukurt)  
+- 🐦 [Twitter](https://twitter.com/mutlukurtio)
+
+---
+
+## ✨ More About Me
+
+I believe in building meaningful solutions with the tools available—whether through code, prompts, or visual platforms. My aim is to bridge **social sciences and technology** to create impact-driven applications.  
+Open to collaboration, learning, and sharing ideas with the community!
