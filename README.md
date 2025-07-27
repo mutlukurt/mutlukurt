@@ -9,7 +9,7 @@ I'm passionate about the intersection of **AI** and **no-code development**—co
 
 - **Vibe Coding:** I enjoy delivering solutions with a "vibe"—using innovative tools and approaches to simplify complex problems.
 - **Cursor AI:** Actively leveraging advanced code editors to boost productivity and creativity.
-- **Note Taking App:** My flagship project—an intuitive, AI-powered note-taking application to streamline information management. Check it out [here](#) <!-- Add your repo link here -->
+- **Note Taking App:** My flagship project—an intuitive, AI-powered note-taking application to streamline information management. Check it out [here](https://github.com/mutlukurt/Note-taking-app) <!-- Add your repo link here -->
 
 ---
 
