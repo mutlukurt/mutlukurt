@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm Mutlu Kurt! 👋
 
-<!--
-**mutlukurt/mutlukurt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile.  
+I'm passionate about the intersection of **AI** and **no-code development**—constantly improving my skills in creative automation and workflow design.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I’m Working On
+
+- **Vibe Coding:** I enjoy delivering solutions with a "vibe"—using innovative tools and approaches to simplify complex problems.
+- **Cursor AI:** Actively leveraging advanced code editors to boost productivity and creativity.
+- **Note Taking App:** My flagship project—an intuitive, AI-powered note-taking application to streamline information management. Check it out [here](#) <!-- Add your repo link here -->
+
+---
+
+## 💡 Skills & Interests
+
+- **No-code & Low-code Platforms:** Bubble, Zapier, Retool, and more
+- **AI Integration:** Experimenting with tools like ChatGPT
+- **Productivity Tools:** Workflow automation, note-taking, and rapid prototyping
+
+---
+
+## 📫 Connect with Me
+
+- [LinkedIn: mutlukurt](https://www.linkedin.com/in/mutlukurt)
+- [Twitter: @mutlukurtio](https://twitter.com/mutlukurtio)
+
+---
+
+## ✨ A Bit More About Me
+
+I love creating practical solutions without heavy coding—making tech accessible and enjoyable for everyone.  
+Always open to collaboration, feedback, and new ideas!
