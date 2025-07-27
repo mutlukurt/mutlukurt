@@ -15,8 +15,8 @@ I'm passionate about the intersection of **AI** and **no-code development**—co
 
 ## 💡 Skills & Interests
 
-- **No-code & Low-code Platforms:** Bubble, Zapier, Retool, and more
-- **AI Integration:** Experimenting with tools like ChatGPT
+- **No-code & Low-code Platforms:** Lovable.dev, Bolt.new, Bubble, Zapier, Retool, and more
+- **AI Integration:** Experimenting with tools like Cursor AI, ChatGPT
 - **Productivity Tools:** Workflow automation, note-taking, and rapid prototyping
 
 ---
