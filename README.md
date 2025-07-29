@@ -30,8 +30,7 @@ I'm a junior developer passionate about **AI**, **no-code/low-code development**
 ## 🎓 Academic Path
 
 - 🎓 Labor Economics (Senior), Çankırı Karatekin University  
-- 💻 Management Information Systems (Student), Istanbul University  
-- 🏛 Intern at SGK (SSI/BAĞ-KUR), supporting administrative and documentation processes in a public sector setting
+- 💻 Management Information Systems (Student), Istanbul University
 
 ---
 
