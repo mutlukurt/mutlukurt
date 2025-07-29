@@ -29,8 +29,10 @@ I'm a junior developer passionate about **AI**, **no-code/low-code development**
 
 ## 🎓 Academic Path
 
-- 🎓 Labor Economics (Senior), Çankırı Karatekin University  
 - 💻 Management Information Systems (Student), Istanbul University
+- 🎓 Labor Economics (Senior), Çankırı Karatekin University
+- 🖥️ Web Design and Coding (Graduate), Anadolu University
+
 
 ---
 
