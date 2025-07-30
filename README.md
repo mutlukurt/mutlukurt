@@ -56,7 +56,6 @@ I’m a **junior developer** passionate about **AI**, **prompt-based coding**, a
 
 - [LinkedIn](https://www.linkedin.com/in/mutlukurt)  
 - [Twitter](https://twitter.com/mutlukurtio)  
-- [My Website](https://mutlukurt.github.io/)
 
 ---
 
