@@ -1,49 +1,64 @@
 # Hi, I'm Mutlu Kurt 👋
 
-Welcome to my GitHub profile!
-
-I'm a junior developer passionate about **AI**, **no-code/low-code development**, and **interdisciplinary problem solving**. With a background in Labor Economics and Management Information Systems, I enjoy building intuitive applications that merge tech with real-world insight—making technology more accessible, purposeful, and human-centered.
-
----
-
-## 🚀 What I'm Working On
-
-- **No-Code & Low-Code Development:** Building functional apps with platforms like **Cursor AI**, **Lovable.dev**, and **Bolt.new**.
-- **AI-Powered Projects:** Exploring the power of **prompt engineering** and automation for smarter solutions.
-- **Note-Taking App:** A clean and efficient note-taking experience powered by no-code tools.  
-  → [Try the app here](https://github.com/mutlukurt/Note-taking-app)
+Welcome to my GitHub profile!  
+I’m a **junior developer** passionate about **AI**, **prompt-based coding**, and **no-code/low-code development**. I specialize in building clean, responsive, and user-focused applications—whether through code or creative automation tools.
 
 ---
 
-## 💡 Skills & Focus Areas
+## 🚀 Current Focus
 
-- **Platforms:** Lovable.dev · Bolt.new · Bubble · Zapier · Retool  
-- **Tools:** Cursor AI · ChatGPT · GitHub · Notion  
-- **Areas of Interest:**  
-  - Prompt Engineering  
-  - Workflow Automation  
-  - User-Centered App Design  
-  - Lifelong Learning & Productivity  
+- **Prompt-Based Development**  
+  Crafting solutions using tools like **Cursor AI** and **ChatGPT** with intelligent prompt engineering.
 
----
+- **No-Code / Low-Code Projects**  
+  Developing web apps using platforms such as **Lovable.dev**, **Bolt.new**, and **Bubble.io**.
 
-## 🎓 Academic Path
-
-- 💻 Management Information Systems (Student), Istanbul University
-- 🎓 Labor Economics (Senior), Çankırı Karatekin University
-- 🖥️ Web Design and Coding (Graduate), Anadolu University
-
+- **Frontend & UI Design**  
+  Creating responsive and intuitive user interfaces with **HTML**, **CSS**, **JavaScript**, and modern UI patterns.
 
 ---
 
-## 🤝 Let’s Connect
+## 💻 Projects
 
-- 🌐 [LinkedIn](https://www.linkedin.com/in/mutlukurt)  
-- 🐦 [Twitter](https://twitter.com/mutlukurtio)
+- **📝 Note-Taking Web App**  
+  A fast, responsive, and clean interface for structured note-taking.  
+  → [Live Demo](https://github.com/mutlukurt/Note-taking-app)
+
+- **🧠 Neural Notes (Markdown App)**  
+  Lightweight markdown-based note app, styled with custom UI and no frameworks.  
+  → [Explore Project](https://github.com/mutlukurt/neuralnotes)
+
+- **🌐 Landing Page (No-Code Demo)**  
+  A modern UI landing page, fully responsive and built with no-code tools.  
+  → [View Demo](https://mutlukurt.github.io/landingpage)
 
 ---
 
-## ✨ More About Me
+## 🛠️ Tools & Technologies
 
-I believe in building meaningful solutions with the tools available—whether through code, prompts, or visual platforms. My aim is to bridge **social sciences and technology** to create impact-driven applications.  
-Open to collaboration, learning, and sharing ideas with the community!
+- **Frontend:** HTML · CSS · JavaScript · Responsive Design · UI Design · GitHub  
+- **No-Code / Low-Code:** Cursor AI · Lovable.dev · Bolt.new · Bubble · Zapier · Retool  
+- **AI & Productivity:** ChatGPT · GPTs · Notion · Replit · Figma
+
+---
+
+## 🎯 Skills & Strengths
+
+- Prompt Engineering & Smart Automation  
+- Responsive Web Design & Layout Systems  
+- User-Centered Interface Development  
+- Clean Code Practices (Vanilla JS, Semantic HTML5, Flexbox & Grid)  
+- Rapid Prototyping with AI & No-Code Tools
+
+---
+
+## 🌐 Let’s Connect
+
+- [LinkedIn](https://www.linkedin.com/in/mutlukurt)  
+- [Twitter](https://twitter.com/mutlukurtio)  
+- [My Website](https://mutlukurt.github.io/)
+
+---
+
+### ⚡ “Design with intent. Build with clarity.”  
+From no-code tools to handwritten JavaScript, I’m here to simplify, enhance, and deliver digital solutions that feel natural to use.
