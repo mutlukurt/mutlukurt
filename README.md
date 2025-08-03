@@ -7,44 +7,43 @@ I'm a **Web Developer** focused on building clean, responsive, and user-centered
 
 ## 🚀 Current Focus
 
-- **Frontend Development**  
-  Building structured and scalable interfaces using **HTML**, **CSS**, and **JavaScript**.
+- **Frontend Development:**  
+  Building structured and scalable interfaces using **HTML**, **CSS**, **JavaScript**, and **React**.
 
-- **Responsive UI Design**  
-  Crafting mobile-first layouts with **Flexbox**, **Grid**, and semantic HTML.
+- **Responsive UI Design:**  
+  Creating mobile-first layouts with **Flexbox**, **Grid**, **Tailwind CSS**, and semantic HTML.
 
-- **Performance & Accessibility**  
-  Writing clean, maintainable code with an emphasis on usability and efficiency.
+- **Performance & Accessibility:**  
+  Writing clean, maintainable code with a focus on usability and efficiency.
 
 ---
 
 ## 💻 Featured Projects
 
-- **📝 Note-Taking Web App**  
-  A fast, clean interface for structured digital notes.  
-  → [Live Demo](https://github.com/mutlukurt/Note-taking-app)
+- [Note-Taking Web App](https://github.com/mutlukurt/Note-taking-app)  
+  Fast, clean interface for structured digital notes.
 
-- **🧠 Neural Notes (Markdown App)**  
-  A lightweight markdown-based note app with custom UI—no frameworks used.  
-  → [Explore Project](https://github.com/mutlukurt/neuralnotes)
+- [Neural Notes (Markdown App)](https://github.com/mutlukurt/neuralnotes)  
+  Lightweight markdown-based note app with custom UI (no frameworks).
 
-- **🌐 Landing Page Demo**  
-  A fully responsive and modern landing page developed with HTML, CSS, and JavaScript.  
-  → [View Demo](https://mutlukurt.github.io/landingpage)
+- [Landing Page Demo](https://mutlukurt.github.io/landingpage)  
+  Fully responsive and modern landing page developed with HTML, CSS, and JavaScript.
 
-- **📁 Responsive Portfolio Website**  
-  A mobile-first portfolio site showcasing clean design and layout skills.  
-  → [View Live](https://mutlukurt.github.io/responsive-portfolio-web)
+- [Responsive Portfolio Website (HTML, CSS, JS)](https://mutlukurt.github.io/responsive-portfolio-web)  
+  Mobile-first portfolio site showcasing clean design and layout skills.
+
+- [Responsive Portfolio Website (React, Tailwind)](https://mutlukurt.github.io/portfolio-web-site)  
+  Modern, interactive, and fully responsive portfolio built with React, Tailwind CSS, and Framer Motion.
 
 ---
 
 ## 🛠️ Tools & Technologies
 
 **Frontend:**  
-HTML · CSS · JavaScript · Responsive Design · UI/UX · Git · GitHub  
+HTML · CSS · JavaScript · React · Tailwind CSS · Responsive Design · UI/UX · Git · GitHub
 
-**Development Workflow:**  
-Semantic HTML5 · CSS Architecture · Mobile-First Design · Version Control  
+**Workflow:**  
+Semantic HTML5 · CSS Architecture · Mobile-First Design · Version Control
 
 **Other Skills:**  
 Accessibility · Clean Code Practices · Page Structure & Layout · Debugging
@@ -62,11 +61,10 @@ Accessibility · Clean Code Practices · Page Structure & Layout · Debugging
 
 ## 🌐 Let’s Connect
 
-- [LinkedIn](https://www.linkedin.com/in/mutlukurt)  
+- [LinkedIn](https://www.linkedin.com/in/mutlukurt)
 - [Twitter](https://twitter.com/mutlukurtio)
 
 ---
 
-### ⚡ “Design with intent. Build with clarity.”
-
-I create functional and aesthetic web solutions — from idea to browser.
+> “Design with intent. Build with clarity.”  
+> I create functional and aesthetic web solutions — from idea to browser.
