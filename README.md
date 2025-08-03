@@ -1,20 +1,20 @@
 # Hi, I'm Mutlu Kurt 👋
 
 Welcome to my GitHub profile!  
-I'm a **Web Developer** passionate about **AI tools**, **prompt-based development**, and **no-code/low-code systems**. I specialize in building clean, responsive, and user-centered applications—whether through traditional code or modern automation platforms.
+I'm a **Web Developer** focused on building clean, responsive, and user-centered web applications with modern technologies and strong design principles.
 
 ---
 
 ## 🚀 Current Focus
 
-- **Prompt-Based Development**  
-  Crafting intelligent solutions using **Cursor AI**, **ChatGPT**, and smart prompt workflows.
+- **Frontend Development**  
+  Building structured and scalable interfaces using **HTML**, **CSS**, and **JavaScript**.
 
-- **No-Code / Low-Code Web Apps**  
-  Building with platforms like **Bubble.io**, **Lovable.dev**, **Bolt.new**, and more.
+- **Responsive UI Design**  
+  Crafting mobile-first layouts with **Flexbox**, **Grid**, and semantic HTML.
 
-- **Frontend & UI Design**  
-  Creating responsive interfaces using **HTML**, **CSS**, **JavaScript**, and modern layout techniques.
+- **Performance & Accessibility**  
+  Writing clean, maintainable code with an emphasis on usability and efficiency.
 
 ---
 
@@ -28,12 +28,12 @@ I'm a **Web Developer** passionate about **AI tools**, **prompt-based developmen
   A lightweight markdown-based note app with custom UI—no frameworks used.  
   → [Explore Project](https://github.com/mutlukurt/neuralnotes)
 
-- **🌐 No-Code Landing Page Demo**  
-  A fully responsive modern landing page built with automation tools.  
+- **🌐 Landing Page Demo**  
+  A fully responsive and modern landing page developed with HTML, CSS, and JavaScript.  
   → [View Demo](https://mutlukurt.github.io/landingpage)
 
 - **📁 Responsive Portfolio Website**  
-  A mobile-first portfolio site developed with HTML, CSS, and JavaScript.  
+  A mobile-first portfolio site showcasing clean design and layout skills.  
   → [View Live](https://mutlukurt.github.io/responsive-portfolio-web)
 
 ---
@@ -41,23 +41,22 @@ I'm a **Web Developer** passionate about **AI tools**, **prompt-based developmen
 ## 🛠️ Tools & Technologies
 
 **Frontend:**  
-HTML · CSS · JavaScript · Responsive Design · UI Design · GitHub  
+HTML · CSS · JavaScript · Responsive Design · UI/UX · Git · GitHub  
 
-**No-Code / Low-Code:**  
-Cursor AI · Bubble.io · Lovable.dev · Bolt.new · Zapier · Retool  
+**Development Workflow:**  
+Semantic HTML5 · CSS Architecture · Mobile-First Design · Version Control  
 
-**AI & Productivity:**  
-ChatGPT · GPTs · Replit · Notion · Figma
+**Other Skills:**  
+Accessibility · Clean Code Practices · Page Structure & Layout · Debugging
 
 ---
 
-## 🎯 Skills & Strengths
+## 🎯 Strengths
 
-- Prompt Engineering & Smart Automation  
-- Responsive Web Design & Layout Systems  
-- User-Centered UI Development  
-- Clean Code Practices (Semantic HTML5, Flexbox, Grid)  
-- Rapid Prototyping with AI & No-Code Tools
+- Focused on usability and design clarity  
+- Strong understanding of frontend structure and styling  
+- Ability to turn concepts into functional, elegant interfaces  
+- Consistent, well-organized, and maintainable codebase practices
 
 ---
 
@@ -70,4 +69,4 @@ ChatGPT · GPTs · Replit · Notion · Figma
 
 ### ⚡ “Design with intent. Build with clarity.”
 
-From no-code platforms to handwritten code, I simplify, enhance, and deliver intuitive digital solutions.
+I create functional and aesthetic web solutions — from idea to browser.
