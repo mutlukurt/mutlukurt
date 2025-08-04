@@ -20,10 +20,10 @@ I'm a **Web Developer** focused on building clean, responsive, and user-centered
 
 ## 💻 Featured Projects
 
-- [Note-Taking Web App](https://github.com/mutlukurt/Note-taking-app)  
+- [Note-Taking Web App](https://mutlukurt.github.io/Note-taking-app)  
   Fast, clean interface for structured digital notes.
 
-- [Neural Notes (Markdown App)](https://github.com/mutlukurt/neuralnotes)  
+- [Neural Notes (Markdown App)](https://mutlukurt.github.io/neuralnotes)  
   Lightweight markdown-based note app with custom UI (no frameworks).
 
 - [Landing Page Demo](https://mutlukurt.github.io/landingpage)  
