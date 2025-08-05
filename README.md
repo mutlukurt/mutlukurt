@@ -1,39 +1,58 @@
 # Hi, I'm Mutlu Kurt 👋
 
 Welcome to my GitHub profile!  
-I'm a **Web Developer & No-Code/Low-Code Builder** focused on building clean, responsive, and scalable digital products using both traditional frontend tools and modern AI-powered platforms.
+I'm a **No-Code/Low-Code Developer** and **Prompt Engineer** focused on building clean, scalable, and user-friendly digital products using modern visual development platforms and AI-powered workflows.
+
+Instead of relying solely on traditional hand-coding, I use tools like **Cursor AI**, **Bubble.io**, **Lovable.dev**, and **Bolt.new** to bring projects to life — fast, accessible, and future-ready.
 
 ---
 
-## 🚀 Current Focus
+## 🧠 What is Prompt Engineering?
 
-- **Frontend Development:**  
-  Building structured interfaces using **HTML**, **CSS**, **JavaScript**, and **React (via Cursor AI)**.
+Prompt Engineering is the art and science of communicating effectively with AI models to get accurate, useful, and creative results.  
+As a **Prompt Engineer**, I design precise instructions (prompts) that guide tools like **Cursor AI** to:
+- Generate working code structures
+- Automate repetitive tasks
+- Build complex logic visually
+- Prototype apps without manual coding
 
-- **No-Code & Low-Code Development:**  
-  Creating smart applications with tools like **Cursor AI**, **Bubble.io**, **Bolt.new**, and **Lovable.dev** — ideal for MVPs and rapid prototyping.
-
-- **AI-Enhanced Workflows:**  
-  Using **prompt engineering** to automate and optimize development inside no-code platforms.
+This allows faster development cycles, better scalability, and smarter interfaces — ideal for startups, MVPs, and lean teams.
 
 ---
 
-## 💻 Featured Projects
+## 🚀 What I Do
 
-- **Neural Notes (Markdown App)**  
-  Markdown-based note-taking app with custom UI. Built using Cursor AI.
+- **No-Code Development:**  
+  Build full-featured web apps, landing pages, and tools without writing code manually
 
-- **Responsive Portfolio Website (Cursor AI, React)**  
-  Modern, interactive portfolio with smooth UI/UX.
+- **Prompt-Based Development:**  
+  Use AI tools like Cursor AI to structure frontend layouts, components, and logic visually
 
-- **Landing Page Demo (HTML, CSS, JS)**  
-  Fully responsive and fast-loading landing page.
+- **Frontend (Low-Code) Integration:**  
+  Add custom functionality using **HTML**, **CSS**, **JavaScript**, or **React** where needed
 
-- **Note-Taking App (No-Code Style)**  
-  Lightweight app with structured layout and clean design.
+- **Rapid Prototyping & MVP Building:**  
+  Deliver scalable solutions quickly for testing and feedback
 
-- **Responsive Portfolio Website (Pure HTML, CSS, JS)**  
-  Mobile-first personal portfolio highlighting layout and structure.
+---
+
+## 💼 Featured Projects
+
+- **Neural Notes**  
+  Markdown-based note-taking app with internal linking and clean design  
+  🔗 [View Project](https://mutlukurt.github.io/neuralnotes)
+
+- **Responsive Portfolio (Cursor AI + React)**  
+  Interactive portfolio with modern UI and mobile-first layout  
+  🔗 [View Project](https://mutlukurt.github.io/portfolio-web-site)
+
+- **Landing Page (HTML, CSS, JS)**  
+  Lightweight, fast-loading demo for layout showcasing  
+  🔗 [View Project](https://mutlukurt.github.io/landingpage)
+
+- **Note-Taking App (No-Code)**  
+  Clean interface with local storage, built using visual tools  
+  🔗 [View Project](https://mutlukurt.github.io/Note-taking-app)
 
 ---
 
@@ -52,29 +71,29 @@ I'm a **Web Developer & No-Code/Low-Code Builder** focused on building clean, re
 ![Bolt.new](https://img.shields.io/badge/Bolt.new-FF9900?style=for-the-badge&logo=zapier&logoColor=white)
 ![Lovable.dev](https://img.shields.io/badge/Lovable.dev-6F42C1?style=for-the-badge&logo=webcomponents.org&logoColor=white)
 
-### 📦 Other Tools
+### 🧰 Other Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
 
-## 🎯 Strengths
+## 🎯 My Strengths
 
-- Bridging classic frontend development with modern no-code solutions  
-- Strong eye for design clarity and usability  
-- Fast development without sacrificing structure or performance  
-- Building adaptable systems powered by AI-enhanced logic
+- Building clean & scalable UIs using visual development tools  
+- Structuring smart logic with AI prompts  
+- Bridging no-code solutions with traditional frontend when needed  
+- Delivering fast, responsive MVPs and prototypes  
+- Strong UI/UX mindset with accessibility and performance in mind
 
 ---
 
-## 🌐 Let’s Connect
+## 🌐 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/mutlukurt)
 - [Twitter](https://twitter.com/mutlukurtio)
+- [GitHub Projects](https://github.com/mutlukurt)
 
 ---
 
-> “Design with intent. Build with clarity.”  
-> I create functional and aesthetic web solutions — from idea to browser.  
-> Whether with code or no-code, the goal is the same: clean, accessible, and scalable results.
+> _“I build smarter, faster, and cleaner — using the power of AI and no-code ecosystems.”_
