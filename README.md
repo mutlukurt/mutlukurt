@@ -1,9 +1,9 @@
-# Hi, I'm Mutlu Kurt 
+# Hi, I'm Mutlu Kurt
 
 Welcome to my GitHub profile!  
 I'm a **No-Code/Low-Code Developer** and **Prompt Engineer** focused on building clean, scalable, and user-friendly digital products using modern visual development platforms and AI-powered workflows.
 
-Instead of relying solely on traditional hand-coding, I use tools like **Cursor AI**, **Bubble.io**, **Lovable.dev**, and **Bolt.new** to bring projects to life — fast, accessible, and future-ready.
+Instead of relying solely on traditional hand-coding, I use tools like **Cursor AI**, **Bubble.io**, **Lovable.dev**, **Bolt.new**, **Framer**, and **Notion** to bring projects to life — fast, accessible, and future-ready.
 
 ---
 
@@ -38,7 +38,7 @@ This enables faster development cycles, better scalability, and smarter interfac
 
 ##  Featured Projects
 
-###  [Appointmently – AI-Powered Booking App](https://mutlukurt.github.io/Appointmently/)
+### [Appointmently – AI-Powered Booking App](https://mutlukurt.github.io/Appointmently/)
 An elegant and responsive **appointment booking web app** that allows users to:
 - Select services with varying prices  
 - Pick date and time via a smooth calendar UI  
@@ -47,23 +47,23 @@ Built using **Cursor AI** and **vanilla frontend technologies**, styled to match
 
 ---
 
-###  [Neural Notes](https://mutlukurt.github.io/neuralnotes)  
+### [Neural Notes](https://mutlukurt.github.io/neuralnotes)  
 Markdown-based note-taking app with internal linking, local storage, and a clean interface.  
 Built using visual tools + minimal custom code.
 
 ---
 
-###  [Responsive Portfolio (Cursor AI + React)](https://mutlukurt.github.io/portfolio-web-site)  
+### [Responsive Portfolio (Cursor AI + React)](https://mutlukurt.github.io/portfolio-web-site)  
 Interactive portfolio website with mobile-first layout, smooth UI, and component-based design.
 
 ---
 
-###  [Landing Page Demo](https://mutlukurt.github.io/landingpage)  
+### [Landing Page Demo](https://mutlukurt.github.io/landingpage)  
 Lightweight, fast-loading landing page with modern layout — built using HTML, CSS, and JavaScript to demonstrate frontend structure and styling.
 
 ---
 
-###  [Note-Taking App (No-Code)](https://mutlukurt.github.io/Note-taking-app)  
+### [Note-Taking App (No-Code)](https://mutlukurt.github.io/Note-taking-app)  
 Minimalist note-taking tool built with no-code methods. Clean UI, supports local storage.
 
 ---
@@ -82,6 +82,8 @@ Minimalist note-taking tool built with no-code methods. Clean UI, supports local
 ![Bubble.io](https://img.shields.io/badge/Bubble.io-1B1F23?style=for-the-badge&logo=bubble&logoColor=white)
 ![Bolt.new](https://img.shields.io/badge/Bolt.new-FF9900?style=for-the-badge&logo=zapier&logoColor=white)
 ![Lovable.dev](https://img.shields.io/badge/Lovable.dev-6F42C1?style=for-the-badge&logo=webcomponents.org&logoColor=white)
+![Framer (text)](https://img.shields.io/badge/Framer-0055FF?style=for-the-badge)
+![Notion (text)](https://img.shields.io/badge/Notion-000000?style=for-the-badge)
 
 ### Other Tools  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
