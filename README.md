@@ -1,4 +1,4 @@
-# Hi, I'm Mutlu Kurt 👋
+# Hi, I'm Mutlu Kurt 
 
 Welcome to my GitHub profile!  
 I'm a **Vibe Coder**, **Prompt Engineer**, and **AI-Enhanced Developer** who builds fast, scalable, and clean digital products using **vibe coding editors**, structured prompts, and modern frontend tools.
@@ -8,21 +8,21 @@ With **vibe coding**, I combine the flow of creativity with the structure of eng
 
 ---
 
-## 🌀 What is Vibe Coding?
+##  What is Vibe Coding?
 
 **Vibe Coding** is a hybrid approach to building software — not quite no-code, not fully traditional coding.  
 It’s about communicating with AI or visual tools through logic, structure, and flow — enabling developers to create real, scalable applications at high speed.
 
 As a **Vibe Coder**, I use modern AI-powered or visual-first platforms to:
 
-- ✨ Generate frontend code and logic via prompts or flow editors  
-- ⚡ Build MVPs, tools, dashboards, and mobile apps faster than hand-coding  
-- 🧠 Focus on usability, accessibility, and clarity — not syntax  
-- 🎯 Bridge creativity with technical execution  
+-  Generate frontend code and logic via prompts or flow editors  
+-  Build MVPs, tools, dashboards, and mobile apps faster than hand-coding  
+-  Focus on usability, accessibility, and clarity — not syntax  
+-  Bridge creativity with technical execution  
 
 ---
 
-## 🧠 What is Prompt Engineering?
+##  What is Prompt Engineering?
 
 **Prompt Engineering** is the practice of crafting structured instructions that guide AI to perform developer-level tasks.  
 Instead of writing every line of code manually, I:
@@ -34,7 +34,7 @@ Instead of writing every line of code manually, I:
 
 ---
 
-## 💻 What I Do
+##  What I Do
 
 - **Vibe Coding:**  
   Building full-stack apps with modern AI/logic editors like **Cursor AI**, **Bubble**, **Lovable.dev**, and **Bolt.new**.
@@ -53,28 +53,28 @@ Instead of writing every line of code manually, I:
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
-### [🗓 Appointmently – AI-Powered Booking App](https://mutlukurt.github.io/Appointmently/)  
+### [ Appointmently – AI-Powered Booking App](https://mutlukurt.github.io/Appointmently/)  
 Responsive booking platform with calendar UI, service logic, and booking summary — built with **Cursor AI** and vanilla frontend code.
 
-### [🧠 Neural Notes](https://mutlukurt.github.io/neuralnotes)  
+### [ Neural Notes](https://mutlukurt.github.io/neuralnotes)  
 Markdown-based note app with internal linking and local storage — built using visual development tools and smart layouts.
 
-### [🌐 Responsive Portfolio (Cursor AI + React)](https://mutlukurt.github.io/portfolio-web-site)  
+### [ Responsive Portfolio (Cursor AI + React)](https://mutlukurt.github.io/portfolio-web-site)  
 Mobile-first portfolio showcasing projects and smooth frontend components.
 
-### [📄 Landing Page Demo](https://mutlukurt.github.io/landingpage)  
+### [ Landing Page Demo](https://mutlukurt.github.io/landingpage)  
 Clean, lightweight landing page built with HTML, CSS, and JavaScript.
 
-### [📝 Note-Taking App (No-Code)](https://mutlukurt.github.io/Note-taking-app)  
+### [ Note-Taking App (No-Code)](https://mutlukurt.github.io/Note-taking-app)  
 Minimal note app built entirely with no-code logic and visual structure.
 
 ---
 
-## 🔧 Tools & Technologies
+##  Tools & Technologies
 
-### 🧩 Vibe Coding Editors  
+###  Vibe Coding Editors  
 > Platforms I use to build with logic, flow, and AI-powered speed.
 
 ![Cursor AI](https://img.shields.io/badge/Cursor%20AI-000000?style=for-the-badge&logo=OpenAI&logoColor=white)
@@ -84,7 +84,7 @@ Minimal note app built entirely with no-code logic and visual structure.
 
 ---
 
-### 💡 Frontend & Mobile  
+###  Frontend & Mobile  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -95,7 +95,7 @@ Minimal note app built entirely with no-code logic and visual structure.
 
 ---
 
-### 🧠 Other Tools  
+###  Other Tools  
 ![Framer](https://img.shields.io/badge/Framer-0055FF?style=for-the-badge)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -104,7 +104,7 @@ Minimal note app built entirely with no-code logic and visual structure.
 
 ---
 
-## 🔗 Connect With Me
+##  Connect With Me
 
 - [LinkedIn](https://www.linkedin.com/in/mutlukurt)  
 - [Twitter / X](https://twitter.com/mutlukurtio)  
