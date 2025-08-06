@@ -7,20 +7,20 @@ Instead of relying solely on traditional hand-coding, I use tools like **Cursor 
 
 ---
 
-##  What is Prompt Engineering?
+## What is Prompt Engineering?
 
 Prompt Engineering is the art and science of communicating effectively with AI models to get accurate, useful, and creative results.  
 As a **Prompt Engineer**, I design precise instructions (prompts) that guide tools like **Cursor AI** to:
-- Generate working code structures
-- Automate repetitive tasks
-- Build complex logic visually
-- Prototype apps without manual coding
+- Generate working code structures  
+- Automate repetitive tasks  
+- Build complex logic visually  
+- Prototype apps without manual coding  
 
 This enables faster development cycles, better scalability, and smarter interfaces — ideal for startups, MVPs, and lean teams.
 
 ---
 
-##  What I Do
+## What I Do
 
 - **No-Code Development:**  
   Build full-featured web apps, landing pages, and tools without writing code manually
@@ -31,12 +31,15 @@ This enables faster development cycles, better scalability, and smarter interfac
 - **Frontend (Low-Code) Integration:**  
   Add custom functionality using **HTML**, **CSS**, **JavaScript**, or **React** where needed
 
+- **Mobile App Development:**  
+  Build cross-platform mobile applications using **React Native** and **Expo**
+
 - **Rapid Prototyping & MVP Building:**  
   Deliver scalable solutions quickly for testing and feedback
 
 ---
 
-##  Featured Projects
+## Featured Projects
 
 ### [Appointmently – AI-Powered Booking App](https://mutlukurt.github.io/Appointmently/)
 An elegant and responsive **appointment booking web app** that allows users to:
@@ -68,7 +71,7 @@ Minimalist note-taking tool built with no-code methods. Clean UI, supports local
 
 ---
 
-##  Tools & Technologies
+## Tools & Technologies
 
 ### Frontend  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -77,13 +80,17 @@ Minimalist note-taking tool built with no-code methods. Clean UI, supports local
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
+### Mobile Development  
+![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
+
 ### No-Code / Low-Code  
 ![Cursor AI](https://img.shields.io/badge/Cursor%20AI-000000?style=for-the-badge&logo=OpenAI&logoColor=white)
 ![Bubble.io](https://img.shields.io/badge/Bubble.io-1B1F23?style=for-the-badge&logo=bubble&logoColor=white)
 ![Bolt.new](https://img.shields.io/badge/Bolt.new-FF9900?style=for-the-badge&logo=zapier&logoColor=white)
 ![Lovable.dev](https://img.shields.io/badge/Lovable.dev-6F42C1?style=for-the-badge&logo=webcomponents.org&logoColor=white)
-![Framer (text)](https://img.shields.io/badge/Framer-0055FF?style=for-the-badge)
-![Notion (text)](https://img.shields.io/badge/Notion-000000?style=for-the-badge)
+![Framer](https://img.shields.io/badge/Framer-0055FF?style=for-the-badge)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge)
 
 ### Other Tools  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -92,7 +99,7 @@ Minimalist note-taking tool built with no-code methods. Clean UI, supports local
 
 ---
 
-##  My Strengths
+## My Strengths
 
 - Building clean & scalable UIs using visual development tools  
 - Structuring smart logic with AI prompts  
@@ -102,7 +109,7 @@ Minimalist note-taking tool built with no-code methods. Clean UI, supports local
 
 ---
 
-##  Connect with Me
+## Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/mutlukurt)
 - [Twitter](https://twitter.com/mutlukurtio)
