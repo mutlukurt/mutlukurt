@@ -61,6 +61,9 @@ Responsive booking platform with calendar UI, service logic, and booking summary
 ### [ Responsive Portfolio (Cursor AI + React)](https://mutlukurt.github.io/portfolio-web-site)  
 Mobile-first portfolio showcasing projects and smooth frontend components.
 
+### [ Responsive Portfolio – HTML/CSS Version](https://mutlukurt.github.io/responsive-portfolio-web/)  
+Clean portfolio site built with semantic HTML, responsive layout, and custom styling
+
 ### [ Landing Page Demo](https://mutlukurt.github.io/landingpage)  
 Clean, lightweight landing page built with HTML, CSS, and JavaScript.
 
