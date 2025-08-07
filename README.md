@@ -58,14 +58,14 @@ Instead of writing every line of code manually, I:
 ### [ Appointmently – AI-Powered Booking App](https://mutlukurt.github.io/Appointmently/)  
 Responsive booking platform with calendar UI, service logic, and booking summary — built with **Cursor AI** and vanilla frontend code.
 
-### [ Neural Notes](https://mutlukurt.github.io/neuralnotes)  
-Markdown-based note app with internal linking and local storage — built using visual development tools and smart layouts.
-
 ### [ Responsive Portfolio (Cursor AI + React)](https://mutlukurt.github.io/portfolio-web-site)  
 Mobile-first portfolio showcasing projects and smooth frontend components.
 
 ### [ Landing Page Demo](https://mutlukurt.github.io/landingpage)  
 Clean, lightweight landing page built with HTML, CSS, and JavaScript.
+
+### [ Neural Notes](https://mutlukurt.github.io/neuralnotes)  
+Markdown-based note app with internal linking and local storage — built using visual development tools and smart layouts.
 
 ### [ Note-Taking App (No-Code)](https://mutlukurt.github.io/Note-taking-app)  
 Minimal note app built entirely with no-code logic and visual structure.
