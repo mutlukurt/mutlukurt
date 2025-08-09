@@ -1,17 +1,16 @@
 # Hi, I'm Mutlu Kurt 👋
 
-I’m Mutlu — a **Vibe Coder** who blends structured thinking with creative flow to build products that are fast, clean, and scalable.  
-Instead of relying only on manual coding or drag-and-drop tools, I work side-by-side with AI to bring ideas to life quickly — without sacrificing quality.
+I’m a **Vibe Coder** — blending structured thinking with creative flow to build products that are fast ⚡, clean ✨, and scalable 📈.  
+Instead of writing every line by hand, I work side-by-side with AI 🤖 to turn ideas into real, polished applications — quickly and without sacrificing quality.
 
-I specialize in:
-- **React Native (Expo)** for mobile apps  
-- **Tailwind CSS** for sleek, responsive UIs  
-- **Prompt Engineering** to guide AI in writing code, logic, and design  
+On this GitHub, you’ll find:
+- Mobile apps built with **React Native (Expo)**
+- Sleek, responsive UIs with **Tailwind CSS**
+- AI-assisted development workflows for speed and precision
+- Projects focused on usability, performance, and design
 
-For me, development isn’t just about code — it’s about turning concepts into real, usable products that people enjoy using.  
-I’m currently building my own projects and always open to collaborations that value creativity, innovation, and speed.
-
-If you’ve got something ambitious in mind, let’s make it happen.
+For me, building software isn’t just about code — it’s about creating experiences people love to use ❤️.  
+I’m currently focused on developing my own products 🚀 and collaborating on projects that value creativity, innovation, and speed.
 
 ---
 
@@ -41,9 +40,8 @@ I use it to:
 
 ## 🛠 What I Do
 
-- **Vibe Coding:** Building full-stack apps with **Cursor AI**, **Bubble**, **Lovable.dev**, and **Bolt.new**
+- **Vibe Coding:** Building full-stack apps with **Cursor AI**, **Bolt.new**, and other AI-assisted tools
 - **Prompt-Based Development:** Using natural language to generate and refine production-ready code
-- **No-Code/Low-Code Solutions:** Designing fast, user-friendly apps without reinventing the wheel
 - **Frontend + Mobile:** Using **React**, **React Native**, **Expo**, **Tailwind CSS**, **HTML**, **CSS**, and **JavaScript** for custom UI/UX
 - **Rapid Prototyping & MVPs:** Turning ideas into polished, testable products in record time
 
@@ -66,8 +64,8 @@ Clean, lightweight landing page built with HTML, CSS, and JavaScript.
 ### [Neural Notes](https://mutlukurt.github.io/neuralnotes)
 Markdown-based note app with internal linking and local storage — built using visual development tools.
 
-### [Note-Taking App (No-Code)](https://mutlukurt.github.io/Note-taking-app)
-Minimal note app built entirely with no-code logic and visual structure.
+### [Note-Taking App](https://mutlukurt.github.io/Note-taking-app)
+Minimal note app with clean UI and smooth user experience.
 
 ---
 
@@ -75,8 +73,6 @@ Minimal note app built entirely with no-code logic and visual structure.
 
 ### Vibe Coding Editors
 ![Cursor AI](https://img.shields.io/badge/Cursor%20AI-000000?style=for-the-badge&logo=OpenAI&logoColor=white)
-![Bubble.io](https://img.shields.io/badge/Bubble.io-1B1F23?style=for-the-badge&logo=bubble&logoColor=white)
-![Lovable.dev](https://img.shields.io/badge/Lovable.dev-6F42C1?style=for-the-badge&logo=webcomponents.org&logoColor=white)
 ![Bolt.new](https://img.shields.io/badge/Bolt.new-FF9900?style=for-the-badge&logo=zapier&logoColor=white)
 
 ### Frontend & Mobile
