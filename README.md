@@ -1,17 +1,37 @@
-# Hi, I'm Mutlu Kurt 👋
+# Hi, I’m Mutlu Kurt
 
-I create fast, clean, and scalable web & mobile applications using modern frontend technologies.
+I’m a Modern Web & Frontend Developer building fast, scalable, and user-focused digital products. My work combines traditional coding, AI-assisted workflows, and no-code/low-code platforms to deliver solutions that are both technically robust and visually engaging.
+
+What I Do
+	•	Web Development → Responsive websites & apps (HTML, CSS, JavaScript, React)
+	•	Frontend Engineering → Clean, accessible, and performance-driven UIs
+	•	UI/UX Design → Prototyping and design with Figma & Framer
+	•	Prompt Engineering → Writing effective instructions for AI to generate code, content, and workflows
+	•	No-Code/Low-Code Development → Rapid prototyping & deployment with Cursor, Bolt, and Lovable
+
+What is Prompt Engineering?
+
+Prompt engineering is the practice of designing clear, structured instructions for AI systems to produce accurate, reliable, and usable outputs. I apply this in software development by guiding AI tools to generate production-ready code, optimized UI elements, and automated workflows—making development faster without sacrificing quality.
+
+No-Code & Low-Code Development
+
+Using modern platforms like Framer, Bolt, and Lovable, I accelerate the development of MVPs and digital products. This approach reduces time-to-market, ensures scalability, and allows businesses to validate ideas quickly while keeping technical flexibility.
+
+My Goal
+
+To build products that are not only functional but also delightful to use—merging code, design, and AI into clean, professional, and scalable digital experiences.
+
 
 ---
 
-## 📌 Featured Project
+## Featured Project
 
 ### [LinguaLearn Landing](https://mutlukurt.github.io/lingualearn-landing)  
 A responsive landing page for a language learning platform, featuring clean UI, smooth animations, and mobile-first design.
 
 ---
 
-## 🧰 Tools & Technologies
+## Tools & Technologies
 
 ### Development
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
