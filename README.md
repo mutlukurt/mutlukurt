@@ -24,8 +24,6 @@ To build products that are not only functional but also delightful to use—merg
 
 ---
 
----
-
 ## Featured Projects
 
 ### [LinguaLearn Landing](https://mutlukurt.github.io/lingualearn-landing)  
