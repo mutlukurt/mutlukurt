@@ -24,10 +24,24 @@ To build products that are not only functional but also delightful to use—merg
 
 ---
 
-## Featured Project
+---
+
+## Featured Projects
 
 ### [LinguaLearn Landing](https://mutlukurt.github.io/lingualearn-landing)  
 A responsive landing page for a language learning platform, featuring clean UI, smooth animations, and mobile-first design.
+
+### [TravelSite v1](https://mutlukurt.github.io/travelsitev1/)  
+A modern travel and tourism website built with **HTML, CSS, and JavaScript**, designed to showcase destinations, trips, and booking options.  
+Key highlights:
+- **Responsive design** for desktop, tablet, and mobile  
+- **Hero section** with clean navigation and call-to-action  
+- **About section** introducing the travel brand  
+- **Destinations grid** for exploring trips visually  
+- **Contact & booking UI** with fields for date, adults, and children (non-functional prototype)  
+- Deployed live via **GitHub Pages**  
+
+This project represents a **fully deployed frontend prototype**, built end-to-end with free tools and agents, demonstrating strong problem-solving and practical deployment skills.
 
 ---
 
