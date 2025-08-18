@@ -35,6 +35,13 @@ A responsive landing page for a language learning platform, featuring clean UI, 
 ### [TravelSite v1](https://mutlukurt.github.io/travelsitev1/)  
 A modern travel and tourism website built with **HTML, CSS, and JavaScript**, designed to showcase destinations, trips, and booking options.  
 
+![FoodFun Preview](https://raw.githubusercontent.com/mutlukurt/foodfun/main/docs/screen-menu.png)
+### [FoodFun — Restaurant Landing](https://mutlukurt.github.io/foodfun/)
+Vite + Vanilla JS + HTML + CSS ile geliştirilmiş, **dark/light tema**, **mobil-öncelikli** ve **performans odaklı** restoran landing sayfası.  
+Öne çıkanlar: sticky navbar & hamburger, organik hero şekilleri, **Menu carousel**, **Testimonials slider**, scroll reveal, toast bildirimleri, localStorage (tema, cart, subscribe) ve GitHub Pages deploy.
+
+🔗 [Repository](https://github.com/mutlukurt/foodfun)
+
 ---
 
 ## 📊 Tools & Technologies  
