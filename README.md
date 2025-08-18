@@ -49,7 +49,7 @@ Built with **Vite, Vanilla JS, HTML, and CSS**, this is a **dark/light themed, m
 - LocalStorage (theme, cart, subscribe)  
 - GitHub Pages deployment  
 
-![FoodFun Screenshot](https://raw.githubusercontent.com/mutlukurt/foodfun/main/screen-menu.png)
+![FoodFun Preview](https://raw.githubusercontent.com/mutlukurt/foodfun/main/docs/screen-menu.png)
 
 ---
 
