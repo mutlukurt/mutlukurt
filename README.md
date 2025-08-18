@@ -29,8 +29,6 @@ I’m a **Modern Web & Frontend Developer** building fast, scalable, and user-fo
 
 ## 🛠 Featured Projects  
 
-## 🛠 Featured Projects  
-
 ### [LinguaLearn Landing](https://mutlukurt.github.io/lingualearn-landing)  
 A responsive landing page for a language learning platform, featuring clean UI, smooth animations, and mobile-first design.  
 **Value Proposition:** A modern template tailored for language learning platforms, helping educators and startups launch engaging online courses quickly.  
