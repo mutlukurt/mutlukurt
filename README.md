@@ -58,8 +58,26 @@ Built with **Vite, Vanilla JS, HTML, and CSS**, this is a **dark/light themed, m
 An interactive, mobile-first restaurant landing page that gives restaurants a modern online presence with engaging menus, testimonials, and easy customization.  
 
 **Preview Screenshots:**  
-![FoodFun Light Preview](./docs/foodfun-light.png)  
-![FoodFun Dark Preview](./docs/foodfun-dark.png)  
+
+**Homepage**  
+Light | Dark  
+:-------------------------:|:-------------------------:  
+![Homepage Light](./docs/home-light.png) | ![Homepage Dark](./docs/home-dark.png)  
+
+**Menu**  
+Light | Dark  
+:-------------------------:|:-------------------------:  
+![Menu Light](./docs/menu-light.png) | ![Menu Dark](./docs/menu-dark.png)  
+
+**Reviews**  
+Light | Dark  
+:-------------------------:|:-------------------------:  
+![Reviews Light](./docs/reviews-light.png) | ![Reviews Dark](./docs/reviews-dark.png)  
+
+**Subscribe Section**  
+Light | Dark  
+:-------------------------:|:-------------------------:  
+![Subscribe Light](./docs/subscribe-light.png) | ![Subscribe Dark](./docs/subscribe-dark.png)  
 
 ---
 
