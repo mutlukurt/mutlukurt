@@ -33,9 +33,13 @@ I’m a **Modern Web & Frontend Developer** building fast, scalable, and user-fo
 A responsive landing page for a language learning platform, featuring clean UI, smooth animations, and mobile-first design.  
 **Value Proposition:** A modern template tailored for language learning platforms, helping educators and startups launch engaging online courses quickly.  
 
+---
+
 ### [TravelSite v1](https://mutlukurt.github.io/travelsitev1/)  
 A modern travel and tourism website built with **HTML, CSS, and JavaScript**, designed to showcase destinations, trips, and booking options.  
 **Value Proposition:** Perfect for travel agencies and tour operators looking to highlight destinations and streamline booking with a clean, responsive design.  
+
+---
 
 ### [FoodFun — Restaurant Landing](https://mutlukurt.github.io/foodfun/)  
 Built with **Vite, Vanilla JS, HTML, and CSS**, this is a **dark/light themed, mobile-first, and performance-focused** restaurant landing page.  
@@ -48,17 +52,14 @@ Built with **Vite, Vanilla JS, HTML, and CSS**, this is a **dark/light themed, m
 - Scroll reveal effects  
 - Toast notifications  
 - LocalStorage (theme, cart, subscribe)  
-- GitHub Pages deployment
+- GitHub Pages deployment  
 
-**Value Proposition:** An interactive, mobile-first restaurant landing page that gives restaurants a modern online presence with engaging menus, testimonials, and easy customization.  
+**Value Proposition:**  
+An interactive, mobile-first restaurant landing page that gives restaurants a modern online presence with engaging menus, testimonials, and easy customization.  
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mutlukurt/foodfun/main/docs/screenshot-light.png" width="700" alt="FoodFun Light Preview" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mutlukurt/foodfun/main/docs/screenshot-dark.png" width="700" alt="FoodFun Dark Preview" />
-</p>
+**Preview Screenshots:**  
+![FoodFun Light Preview](./docs/foodfun-light.png)  
+![FoodFun Dark Preview](./docs/foodfun-dark.png)  
 
 ---
 
