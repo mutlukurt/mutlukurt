@@ -52,7 +52,13 @@ Built with **Vite, Vanilla JS, HTML, and CSS**, this is a **dark/light themed, m
 
 **Value Proposition:** An interactive, mobile-first restaurant landing page that gives restaurants a modern online presence with engaging menus, testimonials, and easy customization.  
 
-![FoodFun Preview](https://raw.githubusercontent.com/mutlukurt/foodfun/main/docs/screen-menu.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mutlukurt/foodfun/main/docs/screenshot-light.png" width="700" alt="FoodFun Light Preview" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mutlukurt/foodfun/main/docs/screenshot-dark.png" width="700" alt="FoodFun Dark Preview" />
+</p>
 
 ---
 
