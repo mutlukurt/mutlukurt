@@ -46,22 +46,12 @@ Built with **Vite, Vanilla JS, HTML, and CSS**, this is a **dark/light themed, m
 
 ---
 
-## 📷 Örnek Çalışmalarım  
-
-**NexaFlow Landing Page**  
-![NexaFlow Landing](./docs/Screenshot-2025-08-21-at-6.37.09 PM.png)  
-
-**NexaFlow Pricing Page**  
-![NexaFlow Pricing](./docs/Screenshot-2025-08-21-at-6.37.25 PM.png)  
-
-**DashPro Dashboard**  
-![DashPro Dashboard](./docs/Screenshot-2025-08-21-at-6.37.52 PM.png)  
-
-**LearnHub Platform**  
-![LearnHub Platform](./docs/Screenshot-2025-08-21-at-6.38.47 PM.png)  
-
-**FoodFun Menu Page**  
-![FoodFun Menu](./docs/Screenshot-2025-08-21-at-6.39.50 PM.png)  
+## 📷 Örnek Çalışmalarım
+<p><img src="./docs/nexa-landing.png" alt="NexaFlow Landing Page" width="900" /></p>
+<p><img src="./docs/nexa-pricing.png" alt="NexaFlow Pricing Page" width="900" /></p>
+<p><img src="./docs/dashpro-dashboard.png" alt="DashPro Dashboard" width="900" /></p>
+<p><img src="./docs/learnhub-hero.png" alt="LearnHub Platform" width="900" /></p>
+<p><img src="./docs/foodfun-menu.png" alt="FoodFun Menu Page" width="900" /></p>
 
 ---
 
