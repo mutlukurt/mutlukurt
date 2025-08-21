@@ -44,22 +44,24 @@ A modern travel and tourism website built with **HTML, CSS, and JavaScript**, de
 ### [FoodFun — Restaurant Landing](https://mutlukurt.github.io/foodfun/)  
 Built with **Vite, Vanilla JS, HTML, and CSS**, this is a **dark/light themed, mobile-first, and performance-focused** restaurant landing page.  
 
-**Highlights:**  
-- Sticky navbar & hamburger menu  
-- Organic hero shapes  
-- Menu carousel  
-- Testimonials slider  
-- Scroll reveal effects  
-- Toast notifications  
-- LocalStorage (theme, cart, subscribe)  
-- GitHub Pages deployment  
+---
 
-**Value Proposition:**  
-An interactive, mobile-first restaurant landing page that gives restaurants a modern online presence with engaging menus, testimonials, and easy customization.  
+## 📷 Örnek Çalışmalarım  
 
-**Preview Screenshots:**  
-![FoodFun Light Preview](./docs/foodfun-light.png)  
-![FoodFun Dark Preview](./docs/foodfun-dark.png)  
+**NexaFlow Landing Page**  
+![NexaFlow Landing](./docs/Screenshot-2025-08-21-at-6.37.09 PM.png)  
+
+**NexaFlow Pricing Page**  
+![NexaFlow Pricing](./docs/Screenshot-2025-08-21-at-6.37.25 PM.png)  
+
+**DashPro Dashboard**  
+![DashPro Dashboard](./docs/Screenshot-2025-08-21-at-6.37.52 PM.png)  
+
+**LearnHub Platform**  
+![LearnHub Platform](./docs/Screenshot-2025-08-21-at-6.38.47 PM.png)  
+
+**FoodFun Menu Page**  
+![FoodFun Menu](./docs/Screenshot-2025-08-21-at-6.39.50 PM.png)  
 
 ---
 
