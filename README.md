@@ -48,20 +48,19 @@ Built with **Vite, Vanilla JS, HTML, and CSS**, this is a **dark/light themed, m
 
 # Proje Ekran Görüntüleri
 
-## DashPro
-![DashPro](./docs/dashpro.png)
+<p align="center">
+  <img src="./docs/dashpro.png" width="45%" />
+  <img src="./docs/foodfun.png" width="45%" />
+</p>
 
-## Foodfun
-![Foodfun](./docs/foodfun.png)
+<p align="center">
+  <img src="./docs/learnhub.png" width="45%" />
+  <img src="./docs/nexaflow.png" width="45%" />
+</p>
 
-## LearnHub
-![LearnHub](./docs/learnhub.png)
-
-## NexaFlow
-![NexaFlow](./docs/nexaflow.png)
-
-## NexaFlow v2
-![NexaFlow v2](./docs/nexaflow2.png)
+<p align="center">
+  <img src="./docs/nexaflow2.png" width="45%" />
+</p>
 
 ---
 
