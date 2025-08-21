@@ -46,12 +46,22 @@ Built with **Vite, Vanilla JS, HTML, and CSS**, this is a **dark/light themed, m
 
 ---
 
-## 📷 Örnek Çalışmalarım
-<p><img src="./docs/nexa-landing.png" alt="NexaFlow Landing Page" width="900" /></p>
-<p><img src="./docs/nexa-pricing.png" alt="NexaFlow Pricing Page" width="900" /></p>
-<p><img src="./docs/dashpro-dashboard.png" alt="DashPro Dashboard" width="900" /></p>
-<p><img src="./docs/learnhub-hero.png" alt="LearnHub Platform" width="900" /></p>
-<p><img src="./docs/foodfun-menu.png" alt="FoodFun Menu Page" width="900" /></p>
+# Proje Ekran Görüntüleri
+
+## DashPro
+![DashPro](./docs/dashpro.png)
+
+## Foodfun
+![Foodfun](./docs/foodfun.png)
+
+## LearnHub
+![LearnHub](./docs/learnhub.png)
+
+## NexaFlow
+![NexaFlow](./docs/nexaflow.png)
+
+## NexaFlow v2
+![NexaFlow v2](./docs/nexaflow2.png)
 
 ---
 
