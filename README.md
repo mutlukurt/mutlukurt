@@ -25,33 +25,24 @@ I’m a **Modern Web & Frontend Developer** building fast, scalable, and user-fo
   <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,figma,github,git,notion" />
 </p>
 
----
-
-## 🛠 Featured Projects  
-
-### [LinguaLearn Landing](https://mutlukurt.github.io/lingualearn-landing)  
-A responsive landing page for a language learning platform, featuring clean UI, smooth animations, and mobile-first design.  
-**Value Proposition:** A modern template tailored for language learning platforms, helping educators and startups launch engaging online courses quickly.  
 
 ---
 
-### [TravelSite v1](https://mutlukurt.github.io/travelsitev1/)  
-A modern travel and tourism website built with **HTML, CSS, and JavaScript**, designed to showcase destinations, trips, and booking options.  
-**Value Proposition:** Perfect for travel agencies and tour operators looking to highlight destinations and streamline booking with a clean, responsive design.  
+# Featured Projects
 
----
+<p align="center">
+  <img src="./docs/dashpro.png" width="45%" />
+  <img src="./docs/foodfun.png" width="45%" />
+</p>
 
-### [FoodFun — Restaurant Landing](https://mutlukurt.github.io/foodfun/)  
-Built with **Vite, Vanilla JS, HTML, and CSS**, this is a **dark/light themed, mobile-first, and performance-focused** restaurant landing page.  
+<p align="center">
+  <img src="./docs/learnhub.png" width="45%" />
+  <img src="./docs/nexaflow.png" width="45%" />
+</p>
 
----
-
-## 📷 Örnek Çalışmalarım
-<p><img src="./docs/nexa-landing.png" alt="NexaFlow Landing Page" width="900" /></p>
-<p><img src="./docs/nexa-pricing.png" alt="NexaFlow Pricing Page" width="900" /></p>
-<p><img src="./docs/dashpro-dashboard.png" alt="DashPro Dashboard" width="900" /></p>
-<p><img src="./docs/learnhub-hero.png" alt="LearnHub Platform" width="900" /></p>
-<p><img src="./docs/foodfun-menu.png" alt="FoodFun Menu Page" width="900" /></p>
+<p align="center">
+  <img src="./docs/nexaflow2.png" width="45%" />
+</p>
 
 ---
 
