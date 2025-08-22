@@ -36,7 +36,7 @@ I’m a **Modern Web & Frontend Developer** building fast, scalable, and user-fo
 </p>
 
 <p align="center">
-  <img src="./docs/learnhub.png" width="45%" />
+  <img src="./docs/learnhub.png?v=2" width="45%" />
   <img src="./docs/nexaflow.png" width="45%" />
 </p>
 
