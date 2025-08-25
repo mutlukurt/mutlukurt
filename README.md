@@ -62,14 +62,14 @@ I’m a **Modern Web & Frontend Developer** building fast, scalable, and user-fo
   <img src="https://github-readme-stats.vercel.app/api?username=mutlukurt&show_icons=true&theme=radical" alt="Mutlu's GitHub stats" />
 </p>
 
+<!-- STREAK (FIXED DOMAIN) -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mutlukurt&theme=radical" alt="Mutlu's GitHub streak" />
+  <img src="https://streak-stats.demolab.com?user=mutlukurt&theme=radical&hide_border=true&v=1" alt="Mutlu's GitHub streak" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mutlukurt&layout=compact&theme=radical" alt="Top Langs" />
 </p>
-
 ---
 
 ## 🌐 Connect With Me  
