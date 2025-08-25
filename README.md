@@ -25,7 +25,6 @@ I’m a **Modern Web & Frontend Developer** building fast, scalable, and user-fo
   <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,figma,github,git,notion" />
 </p>
 
-
 ---
 
 # Featured Projects
@@ -65,6 +64,10 @@ I’m a **Modern Web & Frontend Developer** building fast, scalable, and user-fo
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mutlukurt&theme=radical" alt="Mutlu's GitHub streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mutlukurt&layout=compact&theme=radical" alt="Top Langs" />
 </p>
 
 ---
