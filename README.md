@@ -67,9 +67,9 @@ I’m a **Modern Web & Frontend Developer** building fast, scalable, and user-fo
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mutlukurt&layout=compact&theme=radical&langs_count=8" alt="Top Langs" />
 </p>
 
-<!-- TROPHY -->
+<!-- ACTIVITY GRAPH -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mutlukurt&theme=radical&no-frame=true&margin-w=10&margin-h=10" alt="GitHub Trophies" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mutlukurt&theme=react-dark&hide_border=true&v=1" alt="Contribution Activity Graph" />
 </p>
 ---
 
