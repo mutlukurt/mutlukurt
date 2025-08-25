@@ -71,7 +71,6 @@ I’m a **Modern Web & Frontend Developer** building fast, scalable, and user-fo
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mutlukurt&theme=react-dark&hide_border=true&v=1" alt="Contribution Activity Graph" />
 </p>
----
 
 ## 🌐 Connect With Me  
 
