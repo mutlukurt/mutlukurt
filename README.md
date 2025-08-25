@@ -62,13 +62,14 @@ I’m a **Modern Web & Frontend Developer** building fast, scalable, and user-fo
   <img src="https://github-readme-stats.vercel.app/api?username=mutlukurt&show_icons=true&theme=radical" alt="Mutlu's GitHub stats" />
 </p>
 
-<!-- STREAK (FIXED DOMAIN) -->
+<!-- TOP LANGUAGES -->
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=mutlukurt&theme=radical&hide_border=true&v=1" alt="Mutlu's GitHub streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mutlukurt&layout=compact&theme=radical&langs_count=8" alt="Top Langs" />
 </p>
 
+<!-- TROPHY -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mutlukurt&layout=compact&theme=radical" alt="Top Langs" />
+  <img src="https://github-profile-trophy.vercel.app/?username=mutlukurt&theme=radical&no-frame=true&margin-w=10&margin-h=10" alt="GitHub Trophies" />
 </p>
 ---
 
