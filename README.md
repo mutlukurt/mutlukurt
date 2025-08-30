@@ -1,6 +1,14 @@
 # Hi, I’m Mutlu Kurt  
 
-I’m a **Modern Web & Frontend Developer** building fast, scalable, and user-focused digital products. My work combines traditional coding, AI-assisted workflows, and no-code/low-code platforms to deliver solutions that are both technically robust and visually engaging.  
+I'm a **Modern Web & Frontend Developer** specializing in **fast**, **scalable**, and **user-focused** digital products. 
+
+My work combines traditional coding with AI-assisted workflows and no-code/low-code platforms to deliver solutions that are both technically robust and visually engaging. Using tools like **Cursor, Bolt, Lovable, and emergent.sh for rapid development**, combined with Figma and Framer for seamless design workflows.
+
+Core expertise:
+- Rapid MVP development & prototyping
+- Scalable, maintainable web applications  
+- UI/UX solutions aligned with business objectives
+- AI-powered development workflows
 
 ---
 
@@ -12,11 +20,21 @@ I’m a **Modern Web & Frontend Developer** building fast, scalable, and user-fo
 ---
 
 ## 🚀 What I Do
-- **Web Development** → Responsive websites & apps (HTML, CSS, JavaScript, React)  
-- **Frontend Engineering** → Clean, accessible, and performance-driven UIs  
-- **UI/UX Design** → Prototyping and design with Figma & Framer  
-- **Prompt Engineering** → Writing effective instructions for AI to generate code, content, and workflows  
-- **No-Code/Low-Code Development** → Rapid prototyping & deployment with Cursor, Bolt, and Lovable  
+
+- Web Development  
+  → Responsive websites & apps (HTML, CSS, JavaScript, React)
+
+- Frontend Engineering  
+  → Clean, accessible, and performance-driven UIs
+
+- UI/UX Design  
+  → Prototyping and design with Figma & Framer
+
+- AI-First Development  
+  → Rapid prototyping & deployment with Cursor, Bolt, and Lovable
+
+- Prompt Engineering  
+  → Writing effective instructions for AI to generate code, content, and workflows
 
 ---
 
