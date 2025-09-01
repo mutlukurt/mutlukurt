@@ -1,51 +1,44 @@
-# Hi, I’m Mutlu Kurt  
+# Hi, I’m Mutlu Kurt 👋  
 
-I'm a **Modern Web & Frontend Developer** specializing in **fast**, **scalable**, and **user-focused** digital products. 
-
-My work combines traditional coding with AI-assisted workflows and no-code/low-code platforms to deliver solutions that are both technically robust and visually engaging. Using tools like **Cursor, Bolt, Lovable, and emergent.sh for rapid development**, combined with Figma and Framer for seamless design workflows.
-
-Core expertise:
-- Rapid MVP development & prototyping
-- Scalable, maintainable web applications  
-- UI/UX solutions aligned with business objectives
-- AI-powered development workflows
+💡 I'm an **AI-First Developer** crafting **modern, scalable, and user-focused** digital products.  
+⚡ My approach blends **AI-native workflows**, **no-code/low-code platforms**, and **modern frontend engineering** to deliver apps that are fast, clean, and future-proof.  
 
 ---
 
-<!-- GÖRSEL BANNER -->
+<!-- GÖRSEL: AI x Coding GIF -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="400" alt="Coding animation" />
+  <img src="https://i.gifer.com/3o7W.gif" width="400" alt="AI + Code animation" />
 </p>
 
 ---
 
-## 🚀 What I Do
+## 🚀 What I Do  
 
-- Web Development  
-  → Responsive websites & apps (HTML, CSS, JavaScript, React)
+- **AI-First Development**  
+  → Rapid prototyping & deployment with Rork, Cursor, Bolt, Lovable & Emergent  
 
-- Frontend Engineering  
-  → Clean, accessible, and performance-driven UIs
+- **Web Development**  
+  → Responsive websites & scalable apps (React, Next.js, Tailwind)  
 
-- UI/UX Design  
-  → Prototyping and design with Figma & Framer
+- **Mobile Apps**  
+  → React Native + Expo for cross-platform experiences  
 
-- AI-First Development  
-  → Rapid prototyping & deployment with Cursor, Bolt, and Lovable
+- **UI/UX Design**  
+  → Prototyping with Figma & Framer  
 
-- Prompt Engineering  
-  → Writing effective instructions for AI to generate code, content, and workflows
+- **Prompt Engineering**  
+  → Writing precise AI instructions to generate code & workflows  
 
 ---
 
 <!-- TEKNOLOJİ GÖRSELİ -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,figma,github,git,notion" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,typescript,figma,github,git,notion" />
 </p>
 
 ---
 
-# Featured Projects
+# 🌟 Featured Projects  
 
 <p align="center">
   <img src="./docs/dashpro.png" width="45%" />
@@ -65,17 +58,26 @@ Core expertise:
 
 ## 📊 Tools & Technologies  
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![AI-First](https://img.shields.io/badge/AI--First-4B0082?style=for-the-badge&logo=claude&logoColor=white)  
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)  
 ![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)  
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)  
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)  
+![Figma](https://img.shields.io/badge/Figma-0ACF83?style=for-the-badge&logo=figma&logoColor=white)  
 
 ---
 
-<!-- DİNAMİK GÖRSEL: GITHUB İSTATİSTİKLERİ -->
+<!-- DİNAMİK GÖRSELLER -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="350" alt="Coding animation" />
+  <img src="https://i.pinimg.com/originals/06/64/2f/06642f5b2a3adf1db8d14fb0bb1a2f3c.gif" width="350" alt="AI futuristic animation" />
+</p>
+
+---
+
+<!-- GITHUB İSTATİSTİKLERİ -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mutlukurt&show_icons=true&theme=radical" alt="Mutlu's GitHub stats" />
 </p>
@@ -89,6 +91,8 @@ Core expertise:
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mutlukurt&theme=react-dark&hide_border=true&v=1" alt="Contribution Activity Graph" />
 </p>
+
+---
 
 ## 🌐 Connect With Me  
 
