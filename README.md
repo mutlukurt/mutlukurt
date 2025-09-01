@@ -5,10 +5,9 @@
 
 ---
 
-<!-- GÖRSEL: AI x Coding GIF -->
-<!-- GÖRSEL: AI x Coding GIF -->
+<!-- GÖRSEL: Futuristic AI x Code -->
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTgyazU4c2Z5bjZ6Z3g3b2VxaXQ0a3phOXJya2Y5cDVvdnN2Z2lvbCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="AI + Code animation" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWl1aGZubnVjM3I4a21rMzlyNmd5eDVrZGZ4dzA2dDA5YjdoYW1jYyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l3vR85PnGsBwu1PFK/giphy.gif" width="400" alt="Futuristic AI & Code animation" />
 </p>
 
 ---
