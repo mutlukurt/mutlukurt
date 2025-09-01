@@ -68,12 +68,10 @@
 
 ---
 
-<!-- DİNAMİK GÖRSELLER -->
+<!-- DİNAMİK GÖRSEL: AI + Coding -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="350" alt="Coding animation" />
-  <img src="https://i.pinimg.com/originals/06/64/2f/06642f5b2a3adf1db8d14fb0bb1a2f3c.gif" width="350" alt="AI futuristic animation" />
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzhlcHY4azQ1ZDJiYnc2aGJrb3JiaTVmMmx4OTkxa3RpNXBhcHdwYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" width="400" alt="AI + Coding Futuristic Animation" />
 </p>
-
 ---
 
 <!-- GITHUB İSTATİSTİKLERİ -->
