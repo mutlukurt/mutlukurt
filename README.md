@@ -11,17 +11,26 @@
 </p>
 
 
-## 🚀 What I Do
-	•	AI-First Development
-→ End-to-end product creation using Rork, Cursor, Bolt, Lovable, and Emergent — transforming ideas into production-ready apps in hours, not months.
-	•	Web Development
-→ Crafting responsive, high-performance web applications with React, Next.js, Tailwind CSS, and TypeScript, optimized for scalability and clean maintainability.
-	•	Mobile Applications
-→ Building cross-platform apps with React Native + Expo, leveraging AI-assisted workflows to accelerate delivery without compromising quality.
-	•	UI/UX Design Integration
-→ Prototyping and design handoff with Figma and Framer, ensuring seamless alignment between concept, design, and final product.
-	•	Prompt Engineering
-→ Designing precise AI prompts to generate effective code, streamline workflows, and bridge human creativity with AI capabilities.  
+## 🚀 What I Do  
+
+- **AI-First Development**  
+  → End-to-end product creation using **Rork, Cursor, Bolt, Lovable, and Emergent** — transforming ideas into production-ready apps in hours, not months.  
+
+- **Web Development**  
+  → Crafting responsive, high-performance web applications with **React, Next.js, Tailwind CSS, and TypeScript**, optimized for scalability and clean maintainability.  
+
+- **Mobile Applications**  
+  → Building cross-platform apps with **React Native + Expo**, leveraging AI-assisted workflows to accelerate delivery without compromising quality.  
+
+- **UI/UX Design Integration**  
+  → Prototyping and design handoff with **Figma and Framer**, ensuring seamless alignment between concept, design, and final product.  
+
+- **Prompt Engineering**  
+  → Designing precise AI prompts to generate effective code, streamline workflows, and bridge human creativity with AI capabilities.  
+
+---
+
+✨ *My mission is to push the boundaries of software development through **AI-native practices**, delivering digital products that are clean, efficient, and built for the future.*  
 
 ---
 
