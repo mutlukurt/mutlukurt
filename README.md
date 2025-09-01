@@ -9,7 +9,7 @@
 <p align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGU1anZ4dzRraXFhdWZoczQ4ZTBtNDd4anA3em5obXYzOW4zcmdiMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hKdDwtTZ6gD0AS7etL/giphy.gif" width="400" alt="AI + Coding futuristic animation" />
 </p>
----
+
 
 ## 🚀 What I Do  
 
