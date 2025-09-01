@@ -1,7 +1,7 @@
 # Hi, I’m Mutlu Kurt 👋  
 
-💡 I'm an **AI-First Developer** crafting **modern, scalable, and user-focused** digital products.  
-⚡ My approach blends **AI-native workflows**, **no-code/low-code platforms**, and **modern frontend engineering** to deliver apps that are fast, clean, and future-proof.  
+💡 I’m an AI-First Developer dedicated to building modern, scalable, and user-focused digital products.
+⚡ My workflow blends AI-native development, no-code/low-code acceleration, and modern frontend engineering, enabling me to deliver apps that are fast, reliable, and future-proof.
 
 ---
 
@@ -11,22 +11,17 @@
 </p>
 
 
-## 🚀 What I Do  
-
-- **AI-First Development**  
-  → Rapid prototyping & deployment with Rork, Cursor, Bolt, Lovable & Emergent  
-
-- **Web Development**  
-  → Responsive websites & scalable apps (React, Next.js, Tailwind)  
-
-- **Mobile Apps**  
-  → React Native + Expo for cross-platform experiences  
-
-- **UI/UX Design**  
-  → Prototyping with Figma & Framer  
-
-- **Prompt Engineering**  
-  → Writing precise AI instructions to generate code & workflows  
+## 🚀 What I Do
+	•	AI-First Development
+→ End-to-end product creation using Rork, Cursor, Bolt, Lovable, and Emergent — transforming ideas into production-ready apps in hours, not months.
+	•	Web Development
+→ Crafting responsive, high-performance web applications with React, Next.js, Tailwind CSS, and TypeScript, optimized for scalability and clean maintainability.
+	•	Mobile Applications
+→ Building cross-platform apps with React Native + Expo, leveraging AI-assisted workflows to accelerate delivery without compromising quality.
+	•	UI/UX Design Integration
+→ Prototyping and design handoff with Figma and Framer, ensuring seamless alignment between concept, design, and final product.
+	•	Prompt Engineering
+→ Designing precise AI prompts to generate effective code, streamline workflows, and bridge human creativity with AI capabilities.  
 
 ---
 
