@@ -5,11 +5,10 @@
 
 ---
 
-<!-- GÖRSEL: Futuristic AI x Code -->
+<!-- GÖRSEL: Modern AI + Code Animation -->
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWl1aGZubnVjM3I4a21rMzlyNmd5eDVrZGZ4dzA2dDA5YjdoYW1jYyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l3vR85PnGsBwu1PFK/giphy.gif" width="400" alt="Futuristic AI & Code animation" />
+  <img src="https://i.imgur.com/your_image.gif" width="400" alt="Futuristic AI & Code animation" />
 </p>
-
 ---
 
 ## 🚀 What I Do  
