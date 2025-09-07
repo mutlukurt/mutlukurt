@@ -36,7 +36,6 @@ Currently, I focus on **AI-Native workflows with Bolt.new & Spline.design**, com
 ![AI-First](https://img.shields.io/badge/AI--First-4B0082?style=for-the-badge&logo=claude&logoColor=white)  
 ![Bolt.new](https://img.shields.io/badge/Bolt.new-000000?style=for-the-badge&logo=vercel&logoColor=white)  
 ![Spline.design](https://img.shields.io/badge/Spline.design-FF69B4?style=for-the-badge&logo=webgl&logoColor=white)  
-![Claude CLI](https://img.shields.io/badge/Claude%20Code-000000?style=for-the-badge&logo=anthropic&logoColor=white)  
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
 ![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)  
