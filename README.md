@@ -30,4 +30,3 @@ Currently, I focus on **AI-Native workflows with Bolt.new & Spline.design**, com
 ---
 
 ✨ *Mission: push the boundaries of software development with **AI-Native** practices—shipping clean, efficient, future-proof products.*
- buradaki emoji olanları profesyonel svg iconlarla değiştir.
