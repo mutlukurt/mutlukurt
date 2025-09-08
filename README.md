@@ -10,40 +10,59 @@ Currently, I focus on **AI-Native workflows with Bolt.new & Spline.design**, com
 <table>
   <tr>
     <td width="25%" align="center" valign="top">
-      <div><b>Finora</b></div>
-      <a href="./docs/finora.png">
-        <img src="./docs/finora.png" alt="Finora – finance tracker UI" width="220">
-      </a>
-      <br>
-      <sub>Mobile-first finance tracker UI</sub>
+      <div style="border:1px solid #333; border-bottom:none; padding:6px; font-weight:bold;">
+        Finora
+      </div>
+      <div style="border:1px solid #333; border-top:none; border-bottom:none; padding:6px;">
+        <a href="./docs/finora.png">
+          <img src="./docs/finora.png" alt="Finora – finance tracker UI" width="220">
+        </a>
+      </div>
+      <div style="border:1px solid #333; border-top:none; padding:6px;">
+        <sub>Mobile-first finance tracker UI</sub>
+      </div>
     </td>
     <td width="25%" align="center" valign="top">
-      <div><b>Cookify</b></div>
-      <a href="./docs/cookify.png">
-        <img src="./docs/cookify.png" alt="Cookify – recipe app UI" width="220">
-      </a>
-      <br>
-      <sub>Dark style recipe browser</sub>
+      <div style="border:1px solid #333; border-bottom:none; padding:6px; font-weight:bold;">
+        Cookify
+      </div>
+      <div style="border:1px solid #333; border-top:none; border-bottom:none; padding:6px;">
+        <a href="./docs/cookify.png">
+          <img src="./docs/cookify.png" alt="Cookify – recipe app UI" width="220">
+        </a>
+      </div>
+      <div style="border:1px solid #333; border-top:none; padding:6px;">
+        <sub>Dark style recipe browser</sub>
+      </div>
     </td>
     <td width="25%" align="center" valign="top">
-      <div><b>FinanceHub</b></div>
-      <a href="./docs/financehub.png">
-        <img src="./docs/financehub.png" alt="FinanceHub – banking dashboard UI" width="220">
-      </a>
-      <br>
-      <sub>Modern financial dashboard</sub>
+      <div style="border:1px solid #333; border-bottom:none; padding:6px; font-weight:bold;">
+        FinanceHub
+      </div>
+      <div style="border:1px solid #333; border-top:none; border-bottom:none; padding:6px;">
+        <a href="./docs/financehub.png">
+          <img src="./docs/financehub.png" alt="FinanceHub – banking dashboard UI" width="220">
+        </a>
+      </div>
+      <div style="border:1px solid #333; border-top:none; padding:6px;">
+        <sub>Modern financial dashboard</sub>
+      </div>
     </td>
     <td width="25%" align="center" valign="top">
-      <div><b>FitVibe</b></div>
-      <a href="./docs/fitvibe.png">
-        <img src="./docs/fitvibe.png" alt="FitVibe – fitness tracker UI" width="220">
-      </a>
-      <br>
-      <sub>Dark theme fitness & activity tracker</sub>
+      <div style="border:1px solid #333; border-bottom:none; padding:6px; font-weight:bold;">
+        FitVibe
+      </div>
+      <div style="border:1px solid #333; border-top:none; border-bottom:none; padding:6px;">
+        <a href="./docs/fitvibe.png">
+          <img src="./docs/fitvibe.png" alt="FitVibe – fitness tracker UI" width="220">
+        </a>
+      </div>
+      <div style="border:1px solid #333; border-top:none; padding:6px;">
+        <sub>Dark theme fitness & activity tracker</sub>
+      </div>
     </td>
   </tr>
 </table>
-
 ## 🌐 Connect  
 
 - [LinkedIn](https://www.linkedin.com/in/mutlukurt)  
