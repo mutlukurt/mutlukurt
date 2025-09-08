@@ -8,77 +8,43 @@ Currently, I focus on **AI-Native workflows with Bolt.new & Spline.design**, com
 
 ## 📂 Featured Projects  
 
-<div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 30px; margin: 30px 0; max-width: 1200px;">
+### 🔗 Project 1
 
-<div style="border: 2px solid #2d3748; border-radius: 12px; padding: 0; background: #1a1a1a; color: white;">
-<div style="padding: 15px; border-bottom: 1px solid #333; text-align: center;">
-<h4 style="margin: 0; color: #888; font-size: 14px; font-weight: normal;">Project 1</h4>
-</div>
-<div style="padding: 20px;">
-<img src="docs/finora.png" alt="Finora App" style="width: 100%; height: 300px; object-fit: cover; border-radius: 8px; margin-bottom: 20px;">
-</div>
-<div style="padding: 0 20px 20px 20px; text-align: center;">
-<h3 style="margin: 0; color: white; font-size: 18px; font-weight: bold;">Finora - Personal Finance Tracker</h3>
-<div style="display: flex; gap: 10px; margin-top: 15px; justify-content: center;">
-<a href="https://finora-personal-fina-hwth.bolt.host/" style="background: #4299e1; color: white; padding: 10px 20px; border-radius: 25px; text-decoration: none; font-weight: 500; font-size: 14px;">Live</a>
-<a href="https://github.com/mutlukurt/finora-personal-finance-tracker-mobile-app" style="background: #2d3748; color: white; padding: 10px 20px; border-radius: 25px; text-decoration: none; font-weight: 500; font-size: 14px;">Repo</a>
-</div>
-</div>
-</div>
+![Finora App](docs/finora.png)
 
-<div style="border: 2px solid #2d3748; border-radius: 12px; padding: 0; background: #1a1a1a; color: white;">
-<div style="padding: 15px; border-bottom: 1px solid #333; text-align: center;">
-<h4 style="margin: 0; color: #888; font-size: 14px; font-weight: normal;">Project 2</h4>
-</div>
-<div style="padding: 20px;">
-<img src="docs/financehub.png" alt="FinanceHub App" style="width: 100%; height: 300px; object-fit: cover; border-radius: 8px; margin-bottom: 20px;">
-</div>
-<div style="padding: 0 20px 20px 20px; text-align: center;">
-<h3 style="margin: 0; color: white; font-size: 18px; font-weight: bold;">FinanceHub - Modern Financial Dashboard</h3>
-<div style="display: flex; gap: 10px; margin-top: 15px; justify-content: center;">
-<a href="https://modern-financial-das-gd0a.bolt.host/" style="background: #4299e1; color: white; padding: 10px 20px; border-radius: 25px; text-decoration: none; font-weight: 500; font-size: 14px;">Live</a>
-<a href="https://github.com/mutlukurt/financehub" style="background: #2d3748; color: white; padding: 10px 20px; border-radius: 25px; text-decoration: none; font-weight: 500; font-size: 14px;">Repo</a>
-</div>
-</div>
-</div>
+**Finora - Personal Finance Tracker**
 
-<div style="border: 2px solid #2d3748; border-radius: 12px; padding: 0; background: #1a1a1a; color: white;">
-<div style="padding: 15px; border-bottom: 1px solid #333; text-align: center;">
-<h4 style="margin: 0; color: #888; font-size: 14px; font-weight: normal;">Project 3</h4>
-</div>
-<div style="padding: 20px;">
-<img src="docs/cookify.png" alt="Cookify App" style="width: 100%; height: 300px; object-fit: cover; border-radius: 8px; margin-bottom: 20px;">
-</div>
-<div style="padding: 0 20px 20px 20px; text-align: center;">
-<h3 style="margin: 0; color: white; font-size: 18px; font-weight: bold;">Cookify Recipe App</h3>
-<div style="display: flex; gap: 10px; margin-top: 15px; justify-content: center;">
-<a href="https://mutlukurt.github.io/cookify-recipe-app/" style="background: #4299e1; color: white; padding: 10px 20px; border-radius: 25px; text-decoration: none; font-weight: 500; font-size: 14px;">Live</a>
-<a href="https://github.com/mutlukurt/cookify-recipe-app" style="background: #2d3748; color: white; padding: 10px 20px; border-radius: 25px; text-decoration: none; font-weight: 500; font-size: 14px;">Repo</a>
-</div>
-</div>
-</div>
+[Live](https://finora-personal-fina-hwth.bolt.host/) | [Repo](https://github.com/mutlukurt/finora-personal-finance-tracker-mobile-app)
 
-</div>
+---
 
-<div style="display: grid; grid-template-columns: 1fr; gap: 30px; margin: 30px 0; max-width: 400px; margin-left: auto; margin-right: auto;">
+### 🔗 Project 2
 
-<div style="border: 2px solid #2d3748; border-radius: 12px; padding: 0; background: #1a1a1a; color: white;">
-<div style="padding: 15px; border-bottom: 1px solid #333; text-align: center;">
-<h4 style="margin: 0; color: #888; font-size: 14px; font-weight: normal;">Project 4</h4>
-</div>
-<div style="padding: 20px;">
-<img src="docs/fitvibe.png" alt="FitVibe App" style="width: 100%; height: 300px; object-fit: cover; border-radius: 8px; margin-bottom: 20px;">
-</div>
-<div style="padding: 0 20px 20px 20px; text-align: center;">
-<h3 style="margin: 0; color: white; font-size: 18px; font-weight: bold;">FitVibe - Modern Fitness Tracker</h3>
-<div style="display: flex; gap: 10px; margin-top: 15px; justify-content: center;">
-<a href="https://mutlukurt.github.io/FitVibe/" style="background: #4299e1; color: white; padding: 10px 20px; border-radius: 25px; text-decoration: none; font-weight: 500; font-size: 14px;">Live</a>
-<a href="https://github.com/mutlukurt/FitVibe" style="background: #2d3748; color: white; padding: 10px 20px; border-radius: 25px; text-decoration: none; font-weight: 500; font-size: 14px;">Repo</a>
-</div>
-</div>
-</div>
+![FinanceHub App](docs/financehub.png)
 
-</div>
+**FinanceHub - Modern Financial Dashboard**
+
+[Live](https://modern-financial-das-gd0a.bolt.host/) | [Repo](https://github.com/mutlukurt/financehub)
+
+---
+
+### 🔗 Project 3
+
+![Cookify App](docs/cookify.png)
+
+**Cookify Recipe App**
+
+[Live](https://mutlukurt.github.io/cookify-recipe-app/) | [Repo](https://github.com/mutlukurt/cookify-recipe-app)
+
+---
+
+### 🔗 Project 4
+
+![FitVibe App](docs/fitvibe.png)
+
+**FitVibe - Modern Fitness Tracker**
+
+[Live](https://mutlukurt.github.io/FitVibe/) | [Repo](https://github.com/mutlukurt/FitVibe)
 
 ---
 
