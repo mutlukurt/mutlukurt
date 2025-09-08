@@ -19,57 +19,27 @@ Currently, I focus on **AI-Native workflows with Bolt.new & Spline.design**, com
       </td>
       <td align="center" width="50%">
         <img src="./docs/6.png" width="350" alt="Desktop Project 2" />
+**Finora - Personal Finance Tracker**  
         <br><strong>Fitness Dashboard</strong>
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
-## 🧰 Tools & Technologies  
-
-![AI-First](https://img.shields.io/badge/AI--First-4B0082?style=for-the-badge&logo=claude&logoColor=white)  
-![Bolt.new](https://img.shields.io/badge/Bolt.new-000000?style=for-the-badge&logo=vercel&logoColor=white)  
-![Spline.design](https://img.shields.io/badge/Spline.design-FF69B4?style=for-the-badge&logo=webgl&logoColor=white)  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
-![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)  
-![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)  
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)  
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)  
-![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)  
-
----
-
-<!-- VISUAL: Futuristic AI + Coding Intro -->
-<p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExamlpcnhuZjhscGZhZGw5ZzR5ajk1ZW5hY2h1Y3dlZ211NGllZTh2YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MD0svLSDeudszrNrp0/giphy.gif" width="480" alt="AI + Coding Futuristic Intro" />
+[Live](https://finora-personal-fina-hwth.bolt.host/) | [Repo](https://github.com/mutlukurt/finora-personal-finance-tracker-mobile-app)
 </p>
 
+
+**FinanceHub - Modern Financial Dashboard**  
 ---
+[Live](https://modern-financial-das-gd0a.bolt.host/) | [Repo](https://github.com/mutlukurt/financehub)
 
-## 📈 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mutlukurt&show_icons=true&theme=radical" alt="Mutlu's GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mutlukurt&layout=compact&theme=radical&langs_count=8" alt="Top Langs" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mutlukurt&theme=react-dark&hide_border=true&v=1" alt="Contribution Activity Graph" />
-</p>
-
----
 
 ## 🌐 Connect  
+**Cookify Recipe App**  
 
+[Live](https://mutlukurt.github.io/cookify-recipe-app/) | [Repo](https://github.com/mutlukurt/cookify-recipe-app)
 - [LinkedIn](https://www.linkedin.com/in/mutlukurt)  
+
 - [Twitter / X](https://twitter.com/mutlukurtio)  
+**FitVibe - Modern Fitness Tracker**  
 - [GitHub](https://github.com/mutlukurt)  
+[Live](https://mutlukurt.github.io/FitVibe/) | [Repo](https://github.com/mutlukurt/FitVibe)
 
 ---
 
