@@ -15,19 +15,49 @@ Currently, I focus on **AI-Native workflows with Bolt.new & Spline.design**, com
 
 ## 📂 Featured Projects  
 
-<p align="center">
-  <a href="https://mutlukurt.github.io/dashboard-app/"><img src="./docs/dashpro.png" width="45%" alt="Dashboard App" /></a>
-  <a href="https://mutlukurt.github.io/cookify-recipe-app/"><img src="./docs/foodfun.png" width="45%" alt="Cookify Recipe App" /></a>
-</p>
+### 📱 Mobile Apps
 
-<p align="center">
-  <a href="https://mutlukurt.github.io/prestige-motors/"><img src="./docs/learnhub.png" width="45%" alt="Prestige Motors" /></a>
-  <img src="./docs/nexaflow.png" width="45%" alt="NexaFlow" />
-</p>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <img src="./docs/1.png" width="200" alt="Mobile App 1" />
+        <br><strong>Mobile App 1</strong>
+      </td>
+      <td align="center" width="50%">
+        <img src="./docs/2.png" width="200" alt="Mobile App 2" />
+        <br><strong>Mobile App 2</strong>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="50%">
+        <img src="./docs/3.png" width="200" alt="Mobile App 3" />
+        <br><strong>Mobile App 3</strong>
+      </td>
+      <td align="center" width="50%">
+        <img src="./docs/4.png" width="200" alt="Mobile App 4" />
+        <br><strong>Mobile App 4</strong>
+      </td>
+    </tr>
+  </table>
+</div>
 
-<p align="center">
-  <img src="./docs/nexaflow2.png" width="45%" alt="NexaFlow 2" />
-</p>
+### 🖥️ Desktop Projects
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <img src="./docs/5.png" width="400" alt="Desktop Project 1" />
+        <br><strong>Desktop Project 1</strong>
+      </td>
+      <td align="center" width="50%">
+        <img src="./docs/6.png" width="400" alt="Desktop Project 2" />
+        <br><strong>Desktop Project 2</strong>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
