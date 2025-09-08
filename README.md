@@ -15,7 +15,7 @@ Currently, I focus on **AI-Native workflows with Bolt.new & Spline.design**, com
 <h4 style="margin: 0; color: #888; font-size: 14px; font-weight: normal;">Project 1</h4>
 </div>
 <div style="padding: 20px;">
-<img src="docs/IMG_6535.jpeg" alt="Finora App" style="width: 100%; height: 300px; object-fit: cover; border-radius: 8px; margin-bottom: 20px;">
+<img src="docs/finora.png" alt="Finora App" style="width: 100%; height: 300px; object-fit: cover; border-radius: 8px; margin-bottom: 20px;">
 </div>
 <div style="padding: 0 20px 20px 20px; text-align: center;">
 <h3 style="margin: 0; color: white; font-size: 18px; font-weight: bold;">Finora - Personal Finance Tracker</h3>
@@ -31,7 +31,7 @@ Currently, I focus on **AI-Native workflows with Bolt.new & Spline.design**, com
 <h4 style="margin: 0; color: #888; font-size: 14px; font-weight: normal;">Project 2</h4>
 </div>
 <div style="padding: 20px;">
-<img src="docs/IMG_6536.jpeg" alt="FinanceHub App" style="width: 100%; height: 300px; object-fit: cover; border-radius: 8px; margin-bottom: 20px;">
+<img src="docs/financehub.png" alt="FinanceHub App" style="width: 100%; height: 300px; object-fit: cover; border-radius: 8px; margin-bottom: 20px;">
 </div>
 <div style="padding: 0 20px 20px 20px; text-align: center;">
 <h3 style="margin: 0; color: white; font-size: 18px; font-weight: bold;">FinanceHub - Modern Financial Dashboard</h3>
@@ -47,7 +47,7 @@ Currently, I focus on **AI-Native workflows with Bolt.new & Spline.design**, com
 <h4 style="margin: 0; color: #888; font-size: 14px; font-weight: normal;">Project 3</h4>
 </div>
 <div style="padding: 20px;">
-<img src="docs/IMG_6537.jpeg" alt="Cookify App" style="width: 100%; height: 300px; object-fit: cover; border-radius: 8px; margin-bottom: 20px;">
+<img src="docs/cookify.png" alt="Cookify App" style="width: 100%; height: 300px; object-fit: cover; border-radius: 8px; margin-bottom: 20px;">
 </div>
 <div style="padding: 0 20px 20px 20px; text-align: center;">
 <h3 style="margin: 0; color: white; font-size: 18px; font-weight: bold;">Cookify Recipe App</h3>
@@ -67,7 +67,7 @@ Currently, I focus on **AI-Native workflows with Bolt.new & Spline.design**, com
 <h4 style="margin: 0; color: #888; font-size: 14px; font-weight: normal;">Project 4</h4>
 </div>
 <div style="padding: 20px;">
-<img src="docs/IMG_6538.jpeg" alt="FitVibe App" style="width: 100%; height: 300px; object-fit: cover; border-radius: 8px; margin-bottom: 20px;">
+<img src="docs/fitvibe.png" alt="FitVibe App" style="width: 100%; height: 300px; object-fit: cover; border-radius: 8px; margin-bottom: 20px;">
 </div>
 <div style="padding: 0 20px 20px 20px; text-align: center;">
 <h3 style="margin: 0; color: white; font-size: 18px; font-weight: bold;">FitVibe - Modern Fitness Tracker</h3>
