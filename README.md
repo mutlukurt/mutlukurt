@@ -20,21 +20,19 @@ Currently, I focus on **AI-Native workflows with Bolt.new & Spline.design**, com
 <div align="center">
   <table>
     <tr>
-      <td align="center" width="50%">
+      <td align="center" width="25%">
         <img src="./docs/1.png" width="200" alt="Mobile App 1" />
         <br><strong>Mobile App 1</strong>
       </td>
-      <td align="center" width="50%">
+      <td align="center" width="25%">
         <img src="./docs/2.png" width="200" alt="Mobile App 2" />
         <br><strong>Mobile App 2</strong>
       </td>
-    </tr>
-    <tr>
-      <td align="center" width="50%">
+      <td align="center" width="25%">
         <img src="./docs/3.png" width="200" alt="Mobile App 3" />
         <br><strong>Mobile App 3</strong>
       </td>
-      <td align="center" width="50%">
+      <td align="center" width="25%">
         <img src="./docs/4.png" width="200" alt="Mobile App 4" />
         <br><strong>Mobile App 4</strong>
       </td>
