@@ -35,11 +35,11 @@ Currently, I focus on **AI-Native workflows with Bolt.new & Spline.design**, com
   <table>
     <tr>
       <td align="center" width="50%">
-        <img src="./docs/5.png" width="400" alt="Desktop Project 1" />
+        <img src="./docs/5.png" width="350" alt="Desktop Project 1" />
         <br><strong>Dashboard App</strong>
       </td>
       <td align="center" width="50%">
-        <img src="./docs/6.png" width="400" alt="Desktop Project 2" />
+        <img src="./docs/6.png" width="350" alt="Desktop Project 2" />
         <br><strong>Fitness Dashboard</strong>
       </td>
     </tr>
