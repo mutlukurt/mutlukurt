@@ -1,0 +1,19 @@
+{
+  "name": "mutlu-kurt-portfolio",
+  "version": "1.0.0",
+  "description": "AI-First Frontend Developer & Prompt Engineer Portfolio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "portfolio",
+    "frontend",
+    "developer",
+    "ai",
+    "react",
+    "nextjs"
+  ],
+  "author": "Mutlu Kurt",
+  "license": "MIT"
+}
