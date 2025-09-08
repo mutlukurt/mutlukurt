@@ -14,21 +14,24 @@ Currently, I focus on **AI-Native workflows with Bolt.new & Spline.design**, com
       <a href="./docs/finora.png">
         <img src="./docs/finora.png" alt="Finora – finance tracker UI" width="280">
       </a>
-      <div><sub>Mobile-first finance tracker UI</sub></div>
+      <br>
+      <sub>Mobile-first finance tracker UI</sub>
     </td>
     <td width="33%" align="center" valign="top">
       <div><b>Cookify</b></div>
       <a href="./docs/cookify.png">
         <img src="./docs/cookify.png" alt="Cookify – recipe app UI" width="280">
       </a>
-      <div><sub>Dark style recipe browser</sub></div>
+      <br>
+      <sub>Dark style recipe browser</sub>
     </td>
     <td width="33%" align="center" valign="top">
       <div><b>FinanceHub</b></div>
       <a href="./docs/financehub.png">
         <img src="./docs/financehub.png" alt="FinanceHub – banking dashboard UI" width="280">
       </a>
-      <div><sub>Modern financial dashboard</sub></div>
+      <br>
+      <sub>Modern financial dashboard</sub>
     </td>
   </tr>
 </table>
@@ -40,7 +43,8 @@ Currently, I focus on **AI-Native workflows with Bolt.new & Spline.design**, com
       <a href="./docs/fitvibe.png">
         <img src="./docs/fitvibe.png" alt="FitVibe – fitness tracker UI" width="600">
       </a>
-      <div><sub>Dark theme fitness & activity tracker</sub></div>
+      <br>
+      <sub>Dark theme fitness & activity tracker</sub>
     </td>
   </tr>
 </table>
