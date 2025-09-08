@@ -9,39 +9,34 @@ Currently, I focus on **AI-Native workflows with Bolt.new & Spline.design**, com
 
 <table>
   <tr>
-    <td width="33%" align="center" valign="top">
+    <td width="25%" align="center" valign="top">
       <div><b>Finora</b></div>
       <a href="./docs/finora.png">
-        <img src="./docs/finora.png" alt="Finora – finance tracker UI" width="280">
+        <img src="./docs/finora.png" alt="Finora – finance tracker UI" width="220">
       </a>
       <br>
       <sub>Mobile-first finance tracker UI</sub>
     </td>
-    <td width="33%" align="center" valign="top">
+    <td width="25%" align="center" valign="top">
       <div><b>Cookify</b></div>
       <a href="./docs/cookify.png">
-        <img src="./docs/cookify.png" alt="Cookify – recipe app UI" width="280">
+        <img src="./docs/cookify.png" alt="Cookify – recipe app UI" width="220">
       </a>
       <br>
       <sub>Dark style recipe browser</sub>
     </td>
-    <td width="33%" align="center" valign="top">
+    <td width="25%" align="center" valign="top">
       <div><b>FinanceHub</b></div>
       <a href="./docs/financehub.png">
-        <img src="./docs/financehub.png" alt="FinanceHub – banking dashboard UI" width="280">
+        <img src="./docs/financehub.png" alt="FinanceHub – banking dashboard UI" width="220">
       </a>
       <br>
       <sub>Modern financial dashboard</sub>
     </td>
-  </tr>
-</table>
-
-<table>
-  <tr>
-    <td width="100%" align="center" valign="top">
+    <td width="25%" align="center" valign="top">
       <div><b>FitVibe</b></div>
       <a href="./docs/fitvibe.png">
-        <img src="./docs/fitvibe.png" alt="FitVibe – fitness tracker UI" width="600">
+        <img src="./docs/fitvibe.png" alt="FitVibe – fitness tracker UI" width="220">
       </a>
       <br>
       <sub>Dark theme fitness & activity tracker</sub>
