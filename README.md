@@ -10,12 +10,12 @@ Currently, I focus on **AI-Native workflows with Bolt.new & Spline.design**, com
 | Finora | Cookify |
 |:---:|:---:|
 | <img src="./docs/finora.png" alt="Finora – finance tracker UI" width="200"> | <img src="./docs/cookify.png" alt="Cookify – recipe app UI" width="200"> |
-| Mobile-first finance tracker UI | Dark style recipe browser |
+| Mobile-first finance tracker UI | Dark style recipe app |
 
 | FinanceHub | FitVibe |
 |:---:|:---:|
 | <img src="./docs/financehub.png" alt="FinanceHub – banking dashboard UI" width="200"> | <img src="./docs/fitvibe.png" alt="FitVibe – fitness tracker UI" width="200"> |
-| Modern financial dashboard | Dark theme fitness & activity tracker |
+| Modern financial dashboard app | Dark theme fitness & activity tracker |
 
 🌐 Connect  
 
