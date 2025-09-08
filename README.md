@@ -8,7 +8,7 @@ Currently, I focus on **AI-Native workflows with Bolt.new & Spline.design**, com
 
 <!-- VISUAL: Futuristic AI + Coding Intro -->
 <p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXFicTQzc3B6Nno0dzdqdHlrZTQ5eGZncmZvNzMwaW9yOGdjdmdjcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HzPtbOKyBoBFsK4hyc/giphy.gif" width="480" alt="AI + Coding Futuristic Intro" />
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExamlpcnhuZjhscGZhZGw5ZzR5ajk1ZW5hY2h1Y3dlZ211NGllZTh2YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MD0svLSDeudszrNrp0/giphy.gif" width="480" alt="AI + Coding Futuristic Intro" />
 </p>
 
 ---
