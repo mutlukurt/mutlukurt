@@ -17,7 +17,9 @@ Currently, I focus on **AI-Native workflows with Bolt.new & Spline.design**, com
 | <img src="./docs/financehub.png" alt="FinanceHub – banking dashboard UI" width="200"> | <img src="./docs/fitvibe.png" alt="FitVibe – fitness tracker UI" width="200"> |
 | Modern financial dashboard app | Dark theme fitness & activity tracker |
 
-https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDJhcXR3c3hjNjA4cDdpcHl2Z2l1N2RzMGk1YnJ6bjl4ZGc0NmNnMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OumCa12QC9CIvBe2c1/giphy.gif
+<p align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDJhcXR3c3hjNjA4cDdpcHl2Z2l1N2RzMGk1YnJ6bjl4ZGc0NmNnMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OumCa12QC9CIvBe2c1/giphy.gif" width="500" alt="AI vibe gif" />
+</p>
 
 🌐 Connect  
 
