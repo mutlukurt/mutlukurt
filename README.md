@@ -57,11 +57,12 @@ I'm a developer who believes that **AI + Creativity** will reshape how we build 
   <img src="https://img.shields.io/badge/Netlify-0E1E25?style=for-the-badge&logo=netlify&logoColor=00C7B7" />
 
   <!-- AI / Workflow (text badges for custom tools) -->
-  <img src="https://img.shields.io/badge/Cursor-18181B?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bolt.new-111827?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Claude%20(Anthropic)-0B132B?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spline.design-0F172A?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Notion-111111?style=for-the-badge&logo=notion&logoColor=white" />
+ <p align="center">
+  <img src="./assets/icons/cursor.svg" height="40" alt="Cursor" />
+  <img src="./assets/icons/bolt.svg" height="40" alt="Bolt.new" />
+  <img src="./assets/icons/claude.svg" height="40" alt="Claude" />
+  <img src="./assets/icons/spline.svg" height="40" alt="Spline.design" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="40" alt="Notion" />
 </p>
 
 > **Not:** Cursor, Bolt.new ve Claude için resmi “logo” slug’ları olmadığı için nötr koyu rozet kullandım. İstersen /assets klasörüne SVG ekleyip aşağıdaki **Icon Strip** bölümündeki gibi özel ikonlarla değiştirebiliriz.
