@@ -42,7 +42,7 @@ I'm a developer who believes that **AI + Creativity** will reshape how we build 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" height="34" alt="Vite"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="34" alt="React Native"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="34" alt="Figma"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/framer/framer-original.svg" height="34" alt="Framer"/>
+  <img src="./docs/framer.webp" height="34" alt="Framer"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" height="34" alt="Supabase"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="34" alt="GitHub"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" height="34" alt="Vercel"/>
@@ -51,8 +51,8 @@ I'm a developer who believes that **AI + Creativity** will reshape how we build 
   <!-- Custom icons from docs/ -->
   <img src="./docs/cursor.svg" height="34" alt="Cursor"/>
   <img src="./docs/boltnew.jpg" height="34" alt="Bolt.new"/>
-  <img src="./assets/icons/claude.svg" height="34" alt="Claude"/>
-  <img src="./assets/icons/spline.svg" height="34" alt="Spline.design"/>
+  <img src="./docs/claude.svg" height="34" alt="Claude"/>
+  <img src="./docs/spline.webp" height="34" alt="Spline.design"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="34" alt="Notion"/>
 </p>
 
