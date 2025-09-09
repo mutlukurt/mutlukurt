@@ -98,6 +98,15 @@ Here are some of my highlighted projects—mixing **strong UI/UX** with **AI-pow
 
 ---
 
+## 🌟 Highlights / Achievements  
+
+- ✅ Built and launched **10+ modern web/mobile apps** using React & React Native  
+- ✅ Experienced in **AI-first workflows**, cutting development time significantly  
+- ✅ Strong focus on **UI/UX and accessibility-first design**  
+- ✅ Delivered projects with **fast iterations & clean code**  
+
+---
+
 ## 🎬 Visuals & Workflow  
 
 <p align="center">
@@ -128,7 +137,7 @@ Here are some of my highlighted projects—mixing **strong UI/UX** with **AI-pow
   <a href="https://github.com/mutlukurt"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
-💌 Looking to collaborate? Feel free to reach out — I’m open to freelance, collabs, or new opportunities.
+💌 *Looking to collaborate? Feel free to reach out — I’m open to freelance, collabs, or new opportunities.*  
 
 ---
 
