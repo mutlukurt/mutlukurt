@@ -30,19 +30,30 @@ I'm a developer who believes that **AI + Creativity** will reshape how we build 
 
 ## 📂 Featured Projects  
 
-Here are some projects I’ve worked on—mixing **strong UI/UX** with **AI-powered development**:  
+Here are some of my highlighted projects—showcasing **modern UI/UX design**, **responsive layouts**, and **AI-Native development workflows**:  
 
-- 🍼 **[Baby Growth Tracker](https://github.com/mutlukurt/baby-growth-tracker)**  
-   React Native + Expo app with WHO/CDC growth standards, chart visualizations, and PDF export  
+- 🌟 **[GlassLand](https://github.com/mutlukurt/GlassLand)**  
+   A stunning, modern landing page showcasing advanced **glassmorphism UI design principles**.  
 
-- ✍️ **[Notoria](https://github.com/mutlukurt/notoria)**  
-   A sleek note-taking app with categories, icons, and premium upgrade options  
+- 💰 **[Finora – Personal Finance Tracker](https://github.com/mutlukurt/finora-personal-finance-tracker-mobile-app)**  
+   A modern, intuitive **personal finance mobile app** built with **React Native + Expo**.  
+   Features **intelligent expense tracking, budgeting tools, and insightful analytics**.  
 
-- 🌍 **[TravelSite (AtlasVoyage)](https://github.com/mutlukurt/travelsitev1)**  
-   Next.js travel booking landing page with maps, filters, and modern animations  
+- 🏋️ **[Fitness Dashboard Recreation](https://github.com/mutlukurt/fitness-dashboard-recreation)**  
+   A comprehensive, modern **fitness tracking dashboard** built with **React, TypeScript, and Tailwind CSS**.  
+   Track workouts, monitor progress, manage calendars, and connect with friends.  
 
-- 🍔 **[FoodFun](https://github.com/mutlukurt/foodfun)**  
-   A restaurant landing page built with Vite & Vanilla JS, optimized for performance  
+- 📊 **[Dashboard App](https://github.com/mutlukurt/dashboard-app)**  
+   A fully responsive, modern **dashboard application** with **beautiful charts, analytics, and accessibility-first design**.  
+   Built using **React, Vite, and Tailwind CSS** with a **purple color system**.  
+
+- 🍲 **[Cookify – Recipe App](https://github.com/mutlukurt/cookify-recipe-app)**  
+   A modern, responsive **recipe management app** built with **Vanilla JavaScript + Vite**.  
+   Discover, save, and organize your favorite recipes with an intuitive UI.  
+
+- 🖤 **[Alex Corbin Portfolio](https://github.com/mutlukurt/alex-corbin-portfolio) · [Live Demo](https://mutlukurt.github.io/alex-corbin-portfolio/)**  
+   A modern, minimalist, dark-themed **one-page portfolio** for a Computer Engineer.  
+   Built with **semantic HTML, modern CSS (Flexbox & Grid), and Vanilla JS** for premium performance.  
 
 ---
 
