@@ -32,22 +32,22 @@ I'm a developer who believes that **AI + Creativity** will reshape how we build 
 
 Here are some of my highlighted projects—showcasing **modern UI/UX design**, **responsive layouts**, and **AI-Native development workflows**:  
 
-- 🌟 **[GlassLand](https://github.com/mutlukurt/GlassLand)**  
+- 🌟 **[GlassLand](https://github.com/mutlukurt/GlassLand) · [Live Demo](https://glassmorphism-landin-n96v.bolt.host/)**  
    A stunning, modern landing page showcasing advanced **glassmorphism UI design principles**.  
 
-- 💰 **[Finora – Personal Finance Tracker](https://github.com/mutlukurt/finora-personal-finance-tracker-mobile-app)**  
+- 💰 **[Finora – Personal Finance Tracker](https://github.com/mutlukurt/finora-personal-finance-tracker-mobile-app) · [Live Demo](https://finora-personal-fina-hwth.bolt.host/)**  
    A modern, intuitive **personal finance mobile app** built with **React Native + Expo**.  
    Features **intelligent expense tracking, budgeting tools, and insightful analytics**.  
 
-- 🏋️ **[Fitness Dashboard Recreation](https://github.com/mutlukurt/fitness-dashboard-recreation)**  
+- 🏋️ **[Fitness Dashboard Recreation](https://github.com/mutlukurt/fitness-dashboard-recreation) · [Live Demo](https://fitness-dashboard-re-ap5m.bolt.host/)**  
    A comprehensive, modern **fitness tracking dashboard** built with **React, TypeScript, and Tailwind CSS**.  
    Track workouts, monitor progress, manage calendars, and connect with friends.  
 
-- 📊 **[Dashboard App](https://github.com/mutlukurt/dashboard-app)**  
+- 📊 **[Dashboard App](https://github.com/mutlukurt/dashboard-app) · [Live Demo](https://mutlukurt.github.io/dashboard-app/)**  
    A fully responsive, modern **dashboard application** with **beautiful charts, analytics, and accessibility-first design**.  
    Built using **React, Vite, and Tailwind CSS** with a **purple color system**.  
 
-- 🍲 **[Cookify – Recipe App](https://github.com/mutlukurt/cookify-recipe-app)**  
+- 🍲 **[Cookify – Recipe App](https://github.com/mutlukurt/cookify-recipe-app) · [Live Demo](https://mutlukurt.github.io/cookify-recipe-app/)**  
    A modern, responsive **recipe management app** built with **Vanilla JavaScript + Vite**.  
    Discover, save, and organize your favorite recipes with an intuitive UI.  
 
