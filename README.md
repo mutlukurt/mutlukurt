@@ -128,6 +128,8 @@ Here are some of my highlighted projects—mixing **strong UI/UX** with **AI-pow
   <a href="https://github.com/mutlukurt"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
+💌 Looking to collaborate? Feel free to reach out — I’m open to freelance, collabs, or new opportunities.
+
 ---
 
 ✨ *Mission: build the future of software with **AI-Native development**—where human creativity meets automation.*  
