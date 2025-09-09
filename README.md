@@ -28,7 +28,7 @@ I'm a developer who believes that **AI + Creativity** will reshape how we build 
 
 ---
 
-## 🎛️ Icon Strip (Compact)
+## Tech Icons (Compact View)
 
 <p align="center">
   <!-- Devicon icons (CDN) -->
