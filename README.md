@@ -31,44 +31,6 @@ My focus is to combine **solid engineering practices** with **AI-native workflow
 
 ---
 
-## ⚡ Tech Icons  
-
-<p align="center">
-  <!-- Core -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="38" alt="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="38" alt="Next.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="38" alt="TypeScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="38" alt="Tailwind"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="38" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="38" alt="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="38" alt="CSS3"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" height="38" alt="Vite"/>
-
-  <!-- Mobile -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="38" alt="React Native"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/expo/expo-original.svg" height="38" alt="Expo"/>
-
-  <!-- Design -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="38" alt="Figma"/>
-  <img src="./docs/framer.webp" height="38" alt="Framer"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="38" alt="Canva"/>
-
-  <!-- Infra -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" height="38" alt="Supabase"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="38" alt="GitHub"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" height="38" alt="Vercel"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-original.svg" height="38" alt="Netlify"/>
-
-  <!-- AI / Workflow -->
-  <img src="./docs/cursor.svg" height="38" alt="Cursor"/>
-  <img src="./docs/boltnew.jpg" height="38" alt="Bolt.new"/>
-  <img src="./docs/claude.svg" height="38" alt="Claude"/>
-  <img src="./docs/spline.webp" height="38" alt="Spline.design"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="38" alt="Notion"/>
-</p>
-
----
-
 ## 📂 Featured Projects  
 
 Here are some of my highlighted projects—mixing **strong UI/UX** with **AI-powered development**:  
@@ -105,27 +67,6 @@ Here are some of my highlighted projects—mixing **strong UI/UX** with **AI-pow
 - ✅ Strong focus on **UI/UX and accessibility-first design**  
 - ✅ Delivered projects with **fast iterations & clean code**  
 
----
-
-## 🎬 Visuals & Workflow  
-
-<p align="center">
-  <img src="https://media.giphy.com/media/OumCa12QC9CIvBe2c1/giphy.gif" width="450" alt="Coding animation"/>
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/l0MYOUI5XfRk0hXAA/giphy.gif" width="450" alt="AI creativity"/>
-</p>
-
----
-
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mutlukurt&show_icons=true&theme=radical" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mutlukurt&theme=radical" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mutlukurt&layout=compact&theme=radical" height="170"/>
-</p>
 
 ---
 
