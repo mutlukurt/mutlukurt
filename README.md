@@ -40,7 +40,7 @@ My focus is to combine **solid engineering practices** with **AI-native workflow
 ## Featured Projects  
 
 Here are some of my highlighted projects—mixing **strong UI/UX** with **AI-powered development**:  
-- **[Orbify – AI-Powered Analytics Dashboard](https://github.com/yourusername/orbify-saas-landing) · [Live Demo](https://orbify-saas-landing-l9p0.bolt.host/)**  
+- **[Orbify – AI-Powered Analytics Dashboard](https://github.com/mutlukurt/orbify-saas-landing-page) · [Live Demo](https://orbify-saas-landing-l9p0.bolt.host/)**  
    Futuristic **SaaS landing page** with **dark UI, glowing purple accents, and 3D Spline integration**.  
    Built using **React, TypeScript, Vite, Tailwind, and Framer Motion**.  
    Features include **responsive design, pricing plans, testimonials, and smooth animations**.  
