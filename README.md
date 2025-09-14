@@ -6,7 +6,7 @@
 
 </div>
 
-**AI-First Frontend Developer & Prompt Engineer**  
+**AI-First Front-end Developer & Prompt Engineer**  
 Crafting **modern, responsive, production-ready** web & mobile experiences with an **AI-Native workflow** mindset.  
 
 ---
