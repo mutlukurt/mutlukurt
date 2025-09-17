@@ -9,7 +9,7 @@
 **AI-First Front-end Developer & Prompt Engineer**  
 Crafting **modern, responsive, production-ready** web & mobile experiences with an **AI-Native workflow** mindset.  
 
-## GitHub Highlights
+## Highlights
 
 ![Stars](https://img.shields.io/github/stars/mutlukurt?affiliations=OWNER&style=for-the-badge)
 ![Followers](https://img.shields.io/github/followers/mutlukurt?style=for-the-badge)
