@@ -42,7 +42,7 @@ You can support me in different ways:
 
 <div align="center">
 
-<img src="docs/web3wallet.JPG" alt="Web3 Wallet" width="400" />
+<img src="public/web3wallet.jpg" alt="Web3 Wallet" width="400" />
 
 **USDT (TRON Network)**  
 `TMd3f11UtjmS7m83USTD4eU26ts5JW4CtK`
