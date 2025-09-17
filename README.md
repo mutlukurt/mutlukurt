@@ -40,7 +40,7 @@ My focus is to combine **solid engineering practices** with **AI-native workflow
 ## Featured Projects  
 
 Here are some of my highlighted projects—mixing **strong UI/UX** with **AI-powered development**:  
-- **[NeonGhost Lab – Production React SPA](https://github.com/mutlukurt/neonghost-lab) · [Live Demo](https://neonghost-lab.bolt.host/)**  
+- **[NeonGhost Lab – Production React SPA](https://github.com/mutlukurt/lenis-gsap-spline3d-neonghostlab) · [Live Demo](https://neonghost-lab-produc-ewhl.bolt.host/)**  
    A **production-ready single-page application** showcasing **AI-native motion systems** with **Spline 3D hero integration**, **Lenis smooth scrolling**, and **GSAP-powered animations**.  
    Built using **React, TypeScript, Vite, Tailwind, Lenis, and GSAP**.  
    Features include **horizontal scroll with progress indicator, sticky step reveals, parallax playground, accessibility compliance, and 90+ Lighthouse performance**.
