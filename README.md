@@ -44,6 +44,8 @@ Here are some of my highlighted projects—mixing **strong UI/UX** with **AI-pow
    A **production-ready single-page application** showcasing **AI-native motion systems** with **Spline 3D hero integration**, **Lenis smooth scrolling**, and **GSAP-powered animations**.  
    Built using **React, TypeScript, Vite, Tailwind, Lenis, and GSAP**.  
    Features include **horizontal scroll with progress indicator, sticky step reveals, parallax playground, accessibility compliance, and 90+ Lighthouse performance**.
+
+  **Note: Instead of a heavy vertical-to-horizontal pinning technique, this project uses native scroll-snap with GSAP enhancements for performance and mobile compatibility.**
   
 - **[Orbify – AI-Powered Analytics Dashboard](https://github.com/mutlukurt/orbify-saas-landing-page) · [Live Demo](https://orbify-saas-landing-l9p0.bolt.host/)**  
    Futuristic **SaaS landing page** with **dark UI, glowing purple accents, and 3D Spline integration**.  
