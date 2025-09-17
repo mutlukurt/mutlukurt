@@ -21,7 +21,12 @@ Crafting **modern, responsive, production-ready** web & mobile experiences with 
 
 ## ☕ Support
 
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Support-yellow?style=for-the-badge&logo=buymeacoffee&logoColor=white)](https://www.buymeacoffee.com/mutlukurt)
+<p align="center">
+  <!-- Buy Me a Coffee -->
+  <a href="https://www.buymeacoffee.com/mutlukurt" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me a Coffee" height="50" />
+  </a>
+</p>
 
 ---
 
