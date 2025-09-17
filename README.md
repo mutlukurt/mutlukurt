@@ -9,7 +9,7 @@
 **AI-First Front-end Developer & Prompt Engineer**  
 Crafting **modern, responsive, production-ready** web & mobile experiences with an **AI-Native workflow** mindset.  
 
-![Mutlu's GitHub stats](https://github-readme-stats.vercel.app/api?username=mutlukurt&show_icons=true&theme=radical)
+![Total Stars](https://img.shields.io/github/stars/mutlukurt?affiliations=OWNER&style=social)
 ---
 
 ## About Me  
