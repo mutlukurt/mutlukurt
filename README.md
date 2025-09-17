@@ -18,15 +18,6 @@ Crafting **modern, responsive, production-ready** web & mobile experiences with 
 
 ---
 
-## Support My Work
-
-You can support me in different ways:
-
-- Star my repositories  
-- Give feedback or open issues
-
----
-
 ## About Me  
 
 I’m a developer who believes that **AI + Creativity** is reshaping how we build digital products.  
@@ -37,6 +28,15 @@ My focus is to combine **solid engineering practices** with **AI-native workflow
 - **AI Workflows** → Bolt.new · Spline.design · Claude Code CLI · Cursor  
 - **Design** → Figma · Framer · Canva  
 - **Mission** → Build digital products that are not only functional, but delightful to use.  
+
+---
+
+## Support My Work
+
+You can support me in different ways:
+
+- Star my repositories  
+- Give feedback or open issues
 
 ---
 
