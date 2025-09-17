@@ -20,7 +20,7 @@ Crafting **modern, responsive, production-ready** web & mobile experiences with 
 
 ## About Me  
 
-I’m a developer who believes that **AI + Creativity** is reshaping how we build digital products.  
+I'm a developer who believes that **AI + Creativity** is reshaping how we build digital products.  
 My focus is to combine **solid engineering practices** with **AI-native workflows** to deliver **clean, efficient, and future-proof solutions**.  
 
 - **Web** → React · Next.js · Tailwind CSS · TypeScript  
@@ -134,7 +134,6 @@ Here are some of my highlighted projects—mixing **strong UI/UX** with **AI-pow
 - Strong focus on **UI/UX and accessibility-first design**  
 - Delivered projects with **fast iterations & clean code**  
 
-
 ---
 
 ## Connect  
@@ -145,8 +144,51 @@ Here are some of my highlighted projects—mixing **strong UI/UX** with **AI-pow
   <a href="https://github.com/mutlukurt"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
-*Looking to collaborate? Feel free to reach out — I’m open to freelance, collabs, or new opportunities.*  
+*Looking to collaborate? Feel free to reach out — I'm open to freelance, collabs, or new opportunities.*  
 
 ---
 
-*Mission: build the future of software with **AI-Native development**—where human creativity meets automation.*  
+## Support My Work
+
+You can support me in different ways:
+
+- Star my repositories  
+- Give feedback or open issues
+
+### 💰 Crypto Support (Web3 Wallet)
+
+<div align="center">
+
+<img src="docs/web3wallet.JPG" alt="Web3 Wallet" width="400" />
+
+**USDT (TRON Network)**  
+`TMd3f11UtjmS7m83USTD4eU26ts5JW4CtK`
+
+</div>
+
+#### 🔐 Important Security Information:
+
+- **ONLY send TRON network assets** to this address
+- **Supported tokens:** USDT-TRC20, TRX, and other TRC20 tokens
+- **DO NOT send:** Bitcoin, Ethereum, BSC, or other network tokens
+- **Warning:** Sending assets from other networks will result in **permanent loss**
+- **Verify address:** Always double-check the wallet address before sending
+- **Small test:** Consider sending a small amount first to verify the transaction
+
+#### 📱 How to Send:
+
+1. **Binance Users:** Use Binance Web3 Wallet or regular Binance withdrawal
+2. **Other Wallets:** Ensure you select **TRON (TRC20)** network
+3. **Scan QR Code:** Use the QR code in the image above for easy transfer
+4. **Manual Entry:** Copy the wallet address exactly as shown
+
+#### ⚠️ Disclaimer:
+
+- Cryptocurrency transactions are **irreversible**
+- Always verify the network and address before sending
+- I am not responsible for funds sent to wrong addresses or networks
+- This is a voluntary support method - no obligation to contribute
+
+---
+
+*Mission: build the future of software with **AI-Native development**—where human creativity meets automation.*
