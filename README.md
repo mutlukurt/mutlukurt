@@ -13,6 +13,8 @@ Crafting **modern, responsive, production-ready** web & mobile experiences with 
 
 ![Mutlu's GitHub Stats](https://github-stats-alpha.vercel.app/api?username=mutlukurt&cc=22272e&tc=37BCF6&ic=fff&bc=0000)
 
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mutlukurt&repo=lenis-gsap-spline3d-neonghostlab&theme=radical)
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=mutlukurt&theme=radical&no-frame=true&no-bg=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
