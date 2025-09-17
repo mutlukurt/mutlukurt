@@ -10,12 +10,14 @@
 Crafting **modern, responsive, production-ready** web & mobile experiences with an **AI-Native workflow** mindset.  
 
 ## GitHub Highlights
-![Stars](https://img.shields.io/github/stars/mutlukurt?affiliations=OWNER&style=for-the-badge&logo=github&color=blue)
-![Followers](https://img.shields.io/github/followers/mutlukurt?style=for-the-badge&logo=github&color=green)
+## 📊 GitHub Highlights
 
+![Stars](https://img.shields.io/github/stars/mutlukurt?affiliations=OWNER&style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/mutlukurt?style=for-the-badge)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=mutlukurt&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=mutlukurt&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
+[![Pinned Repo](https://github-readme-stats.vercel.app/api/pin/?username=mutlukurt&repo=lenis-gsap-spline3d-neonghostlab&theme=tokyonight)](https://github.com/mutlukurt/lenis-gsap-spline3d-neonghostlab)
 ---
 
 ## About Me  
