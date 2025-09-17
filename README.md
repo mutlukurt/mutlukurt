@@ -19,9 +19,8 @@ Crafting **modern, responsive, production-ready** web & mobile experiences with 
 
 ---
 
-## ☕ Support & Connect
+## ☕ Support
 
-[![Topmate](https://img.shields.io/badge/Topmate-Connect-orange?style=for-the-badge&logo=googlemeet&logoColor=white)](https://topmate.io/mutlukurt)
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Support-yellow?style=for-the-badge&logo=buymeacoffee&logoColor=white)](https://www.buymeacoffee.com/mutlukurt)
 
 ---
