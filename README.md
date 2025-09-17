@@ -11,7 +11,7 @@ Crafting **modern, responsive, production-ready** web & mobile experiences with 
 
 ## GitHub Highlights
 
-![Mutlu's GitHub stats](https://github-readme-stats.vercel.app/api?username=mutlukurt&show_icons=true&theme=tokyonight)
+[![trophy](https://github-profile-trophy.vercel.app/?username=mutlukurt&theme=radical&no-frame=true&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=mutlukurt&theme=radical&no-frame=true&no-bg=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
