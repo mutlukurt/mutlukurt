@@ -17,7 +17,10 @@ Crafting **modern, responsive, production-ready** web & mobile experiences with 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=mutlukurt&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
+## Featured Project
+
 [![Pinned Repo](https://github-readme-stats.vercel.app/api/pin/?username=mutlukurt&repo=lenis-gsap-spline3d-neonghostlab&theme=tokyonight)](https://github.com/mutlukurt/lenis-gsap-spline3d-neonghostlab)
+
 ---
 
 ## About Me  
