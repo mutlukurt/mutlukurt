@@ -10,7 +10,6 @@
 Crafting **modern, responsive, production-ready** web & mobile experiences with an **AI-Native workflow** mindset.  
 
 ## GitHub Highlights
-## 📊 GitHub Highlights
 
 ![Stars](https://img.shields.io/github/stars/mutlukurt?affiliations=OWNER&style=for-the-badge)
 ![Followers](https://img.shields.io/github/followers/mutlukurt?style=for-the-badge)
@@ -19,7 +18,7 @@ Crafting **modern, responsive, production-ready** web & mobile experiences with 
 
 ---
 
-## ☕ Support
+## Support
 
 <p align="center">
   <!-- Buy Me a Coffee -->
