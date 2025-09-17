@@ -18,14 +18,12 @@ Crafting **modern, responsive, production-ready** web & mobile experiences with 
 
 ---
 
-## Support
+## Support My Work
 
-<p align="center">
-  <!-- Buy Me a Coffee -->
-  <a href="https://www.buymeacoffee.com/mutlukurt" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me a Coffee" height="50" />
-  </a>
-</p>
+You can support me in different ways:
+
+- Star my repositories  
+- Give feedback or open issues
 
 ---
 
