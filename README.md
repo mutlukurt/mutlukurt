@@ -31,49 +31,6 @@ My focus is to combine **solid engineering practices** with **AI-native workflow
 
 ---
 
-## Support My Work
-
-You can support me in different ways:
-
-- Star my repositories  
-- Give feedback or open issues
-
-### 💰 Crypto Support (Web3 Wallet)
-
-<div align="center">
-
-<img src="public/web3wallet.jpg" alt="Web3 Wallet" width="400" />
-
-**USDT (TRON Network)**  
-`TMd3f11UtjmS7m83USTD4eU26ts5JW4CtK`
-
-</div>
-
-#### 🔐 Important Security Information:
-
-- **ONLY send TRON network assets** to this address
-- **Supported tokens:** USDT-TRC20, TRX, and other TRC20 tokens
-- **DO NOT send:** Bitcoin, Ethereum, BSC, or other network tokens
-- **Warning:** Sending assets from other networks will result in **permanent loss**
-- **Verify address:** Always double-check the wallet address before sending
-- **Small test:** Consider sending a small amount first to verify the transaction
-
-#### 📱 How to Send:
-
-1. **Binance Users:** Use Binance Web3 Wallet or regular Binance withdrawal
-2. **Other Wallets:** Ensure you select **TRON (TRC20)** network
-3. **Scan QR Code:** Use the QR code in the image above for easy transfer
-4. **Manual Entry:** Copy the wallet address exactly as shown
-
-#### ⚠️ Disclaimer:
-
-- Cryptocurrency transactions are **irreversible**
-- Always verify the network and address before sending
-- I am not responsible for funds sent to wrong addresses or networks
-- This is a voluntary support method - no obligation to contribute
-
----
-
 ## Tech Toolbox  
 
 | Area          | Tools & Frameworks |
