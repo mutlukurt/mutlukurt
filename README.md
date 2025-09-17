@@ -14,6 +14,8 @@ Crafting **modern, responsive, production-ready** web & mobile experiences with 
 ![Stars](https://img.shields.io/github/stars/mutlukurt?affiliations=OWNER&style=for-the-badge&logo=github&color=blue)
 ![Followers](https://img.shields.io/github/followers/mutlukurt?style=for-the-badge&logo=github&color=green)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=mutlukurt&theme=radical&no-frame=true&no-bg=true&margin-w=15&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+
 ---
 
 ## About Me  
