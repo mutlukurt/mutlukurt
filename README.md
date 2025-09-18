@@ -53,11 +53,6 @@ Here are some of my highlighted projects—mixing **strong UI/UX** with **AI-pow
    Features include **horizontal scroll with progress indicator, sticky step reveals, parallax playground, accessibility compliance, and 90+ Lighthouse performance**.
 
   **Note: Instead of a heavy vertical-to-horizontal pinning technique, this project uses native scroll-snap with GSAP enhancements for performance and mobile compatibility.**
-  
-- **[Orbify – AI-Powered Analytics Dashboard](https://github.com/mutlukurt/orbify-saas-landing-page) · [Live Demo](https://orbify-saas-landing-l9p0.bolt.host/)**  
-   Futuristic **SaaS landing page** with **dark UI, glowing purple accents, and 3D Spline integration**.  
-   Built using **React, TypeScript, Vite, Tailwind, and Framer Motion**.  
-   Features include **responsive design, pricing plans, testimonials, and smooth animations**.  
 
 - **[GlassLand](https://github.com/mutlukurt/GlassLand) · [Live Demo](https://glassmorphism-landin-n96v.bolt.host/)**  
    Modern landing page showcasing **advanced glassmorphism design principles**.  
