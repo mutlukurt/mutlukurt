@@ -55,7 +55,6 @@ Here are some of my highlighted projects—mixing **strong UI/UX** with **AI-pow
 
    **Note: Instead of heavy state management or server coupling, this project ships with a lightweight Zustand slice architecture + localStorage persistence, ensuring offline-first usage with instant feedback.**
 
-Here are some of my highlighted projects—mixing **strong UI/UX** with **AI-powered development**:  
 - **[NeonGhost Lab – Production React SPA](https://github.com/mutlukurt/lenis-gsap-spline3d-neonghostlab) · [Live Demo](https://neonghost-lab-produc-ewhl.bolt.host/)**  
    A **production-ready single-page application** showcasing **AI-native motion systems** with **Spline 3D hero integration**, **Lenis smooth scrolling**, and **GSAP-powered animations**.  
    Built using **React, TypeScript, Vite, Tailwind, Lenis, and GSAP**.  
