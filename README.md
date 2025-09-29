@@ -44,7 +44,16 @@ My focus is to combine **solid engineering practices** with **AI-native workflow
 
 ---
 
-## Featured Projects  
+## Featured Projects
+
+Here are some of my highlighted projects—mixing **strong UI/UX** with **AI-powered development**:  
+
+- **[Finverse – Personal Finance Tracker](https://github.com/mutlukurt/finverse) · [Live Demo](https://stately-babka-65a988.netlify.app/)**  
+   A **production-ready finance dashboard** blending a **premium dark UI** with **real-time cash-flow analytics**. Capture income and expenses, manage wallet cards, and visualise trends across daily, weekly, and monthly views.  
+   Built using **React 18, TypeScript, Vite, Zustand, Tailwind, shadcn/ui, Recharts, and Framer Motion**.  
+   Features include **persistent local storage, import/export utilities, responsive layouts with adaptive mobile sheets, animated wallet cards, and accessible charts**.  
+
+   **Note: Instead of heavy state management or server coupling, this project ships with a lightweight Zustand slice architecture + localStorage persistence, ensuring offline-first usage with instant feedback.**
 
 Here are some of my highlighted projects—mixing **strong UI/UX** with **AI-powered development**:  
 - **[NeonGhost Lab – Production React SPA](https://github.com/mutlukurt/lenis-gsap-spline3d-neonghostlab) · [Live Demo](https://neonghost-lab-produc-ewhl.bolt.host/)**  
