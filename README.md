@@ -25,7 +25,7 @@ My focus is to combine **solid engineering practices** with **AI-native workflow
 
 - **Web** → React · Next.js · Tailwind CSS · TypeScript  
 - **Mobile** → React Native · Expo  
-- **AI Workflows** → Codex · Spline.design
+- **AI Workflows** → Codex · Claude Code CLI · Cursor · Bolt.new · Lovable · Rork · Spline.design  
 - **Design** → Figma · Framer · Canva  
 - **Mission** → Build digital products that are not only functional, but delightful to use.  
 
