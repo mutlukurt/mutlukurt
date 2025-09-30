@@ -48,7 +48,7 @@ My focus is to combine **solid engineering practices** with **AI-native workflow
 
 Here are some of my highlighted projects—mixing **strong UI/UX** with **AI-powered development**:  
 
-- **[Finverse – Personal Finance Tracker](https://github.com/mutlukurt/finverse) · [Live Demo](https://stately-babka-65a988.netlify.app/)**  
+- **[Finverse – Personal Finance Tracker](https://github.com/mutlukurt/finverse) · [Live Demo](https://zingy-gingersnap-55ad27.netlify.app/)**  
    A **production-ready finance dashboard** blending a **premium dark UI** with **real-time cash-flow analytics**. Capture income and expenses, manage wallet cards, and visualise trends across daily, weekly, and monthly views.  
    Built using **React 18, TypeScript, Vite, Zustand, Tailwind, shadcn/ui, Recharts, and Framer Motion**.  
    Features include **persistent local storage, import/export utilities, responsive layouts with adaptive mobile sheets, animated wallet cards, and accessible charts**.  
