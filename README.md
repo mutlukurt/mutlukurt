@@ -25,7 +25,7 @@ My focus is to combine **solid engineering practices** with **AI-native workflow
 
 - **Web** → React · Next.js · Tailwind CSS · TypeScript  
 - **Mobile** → React Native · Expo  
-- **AI Workflows** → Codex · Claude Code CLI · Cursor · Bolt.new · Lovable · Rork · Spline.design  
+- **AI Workflows** → Bolt.new · Spline.design  
 - **Design** → Figma · Framer · Canva  
 - **Mission** → Build digital products that are not only functional, but delightful to use.  
 
@@ -37,7 +37,7 @@ My focus is to combine **solid engineering practices** with **AI-native workflow
 |---------------|--------------------|
 | **Frontend**  | React · Next.js · Tailwind CSS · TypeScript |
 | **Mobile**    | React Native · Expo |
-| **AI-Native** | Codex · Claude Code CLI · Cursor · Bolt.new · Lovable · Rork · Spline.design |
+| **AI-Native** | Bolt.new · Spline.design |
 | **Backend**   | Supabase · Firebase (basics) |
 | **Design**    | Figma · Framer · Canva |
 | **Delivery**  | GitHub · Vercel · Netlify |
@@ -47,6 +47,14 @@ My focus is to combine **solid engineering practices** with **AI-native workflow
 ## Featured Projects
 
 Here are some of my highlighted projects—mixing **strong UI/UX** with **AI-powered development**:  
+
+- **[Project Board – Modern Project Management Dashboard](https://github.com/mutlukurt/projectboard) · [Live Demo](https://modern-premium-proje-obwr.bolt.host/)**  
+   A **production-ready project management board** that combines **modern minimal UI**, **offline-first architecture**, and **exceptional Lighthouse performance** across mobile and desktop.  
+   Designed for **developers, designers, freelancers, and teams** to visually organize tasks, manage priorities, and track progress seamlessly across devices.  
+   Built using **React 18, TypeScript, Vite, Zustand, Tailwind CSS, dnd-kit, Lucide React, Framer Motion, and vite-plugin-pwa**.  
+   Features include **drag-and-drop task management, CRUD cards and columns, dark/light/system themes, Lite Mode for low-end devices, offline PWA support, and full keyboard accessibility (WCAG 2.1 AA compliant)**.  
+
+   **Note: Instead of relying on complex integrations or heavy frameworks, this project emphasizes a lightweight, performance-first frontend architecture using Zustand slices and localStorage persistence — ensuring instant feedback and smooth interactions even on mobile devices.**
 
 - **[Finverse – Personal Finance Tracker](https://github.com/mutlukurt/finverse) · [Live Demo](https://zingy-gingersnap-55ad27.netlify.app/)**  
    A **production-ready finance dashboard** blending a **premium dark UI** with **real-time cash-flow analytics**. Capture income and expenses, manage wallet cards, and visualise trends across daily, weekly, and monthly views.  
