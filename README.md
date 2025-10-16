@@ -6,8 +6,11 @@
 
 </div>
 
-**AI-First Front-end Developer & Prompt Engineer**  
-Crafting **modern, responsive, production-ready** web & mobile experiences with an **AI-Native workflow** mindset.  
+# Mutlu Kurt – AI-First Front-End Developer & Prompt Engineer  
+
+**AI-First Front-End Developer & Prompt Engineer**  
+Building **modern, responsive, and production-ready** web experiences through an **AI-Native workflow** — where **design, performance, and creativity** converge.  
+
 
 ## Highlights
 
@@ -20,14 +23,16 @@ Crafting **modern, responsive, production-ready** web & mobile experiences with 
 
 ## About Me  
 
-I'm a developer who believes that **AI + Creativity** is reshaping how we build digital products.  
-My focus is to combine **solid engineering practices** with **AI-native workflows** to deliver **clean, efficient, and future-proof solutions**.  
+I'm a **Vibe Coder** who believes that **AI × Creativity** is redefining how we build digital experiences.  
+My mission is to blend **AI-Native workflows** with **solid engineering practices** to craft products that are **fast, scalable, and emotionally engaging**.  
 
 - **Web** → React · Next.js · Tailwind CSS · TypeScript  
 - **Mobile** → React Native · Expo  
-- **AI Workflows** → Bolt.new · Rork · Spline.design  
-- **Design** → Figma · Framer · Canva  
-- **Mission** → Build digital products that are not only functional, but delightful to use.  
+- **AI Stack** → Bolt.new · Claude · Cursor · Codex · Qwen · Qoder · Windsurf· Spline.design  
+- **Design Tools** → Figma · Framer · Canva  
+- **Focus** → Building **dashboards, booking platforms, portfolio websites, and landing pages** with **95+ Lighthouse scores**.  
+
+_Pushing the boundaries of what’s possible with AI-First development._
 
 ---
 
