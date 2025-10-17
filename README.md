@@ -9,7 +9,7 @@
 # Mutlu Kurt – AI-First Front-End Developer & Prompt Engineer  
 
 **AI-First Front-End Developer & Prompt Engineer**  
-Building **modern, responsive, and production-ready** web experiences through an **AI-Native workflow** — where **design, performance, and creativity** converge.  
+Building **modern, responsive, and production-ready** web and mobile experiences through an **AI-Native workflow** — where **design, performance, and creativity** converge.  
 
 
 ## Highlights
