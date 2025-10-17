@@ -28,7 +28,7 @@ My mission is to blend **AI-Native workflows** with **solid engineering practice
 
 - **Web** → React · Next.js · Tailwind CSS · TypeScript  
 - **Mobile** → React Native · Expo  
-- **AI Stack** → Bolt.new · Claude · Cursor · Codex · Qwen · Qoder · Windsurf · Spline.design  
+- **AI Stack** → Bolt.new · Claude · Cursor · Lovable · Codex · Rork · Qwen · Qoder · Windsurf · Spline.design  
 - **Design Tools** → Figma · Framer · Canva  
 - **Focus** → Building **dashboards, booking platforms, portfolio websites, and landing pages** with **95+ Lighthouse scores**.  
 
@@ -42,7 +42,7 @@ _Pushing the boundaries of what’s possible with AI-First development._
 |---------------|--------------------|
 | **Frontend**  | React · Next.js · Tailwind CSS · TypeScript |
 | **Mobile**    | React Native · Expo |
-| **AI-Native** | Bolt.new · Rork · Spline.design |
+| **AI-Native** | Bolt.new · Cursor · Claude · Codex · Lovable · Qwen · Qoder · Windsurf · Rork · Spline.design |
 | **Backend**   | Supabase · Firebase (basics) |
 | **Design**    | Figma · Framer · Canva |
 | **Delivery**  | GitHub · Vercel · Netlify |
