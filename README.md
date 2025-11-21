@@ -1,167 +1,100 @@
-# Hi, I'm Mutlu Kurt  
-
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=1800&pause=600&color=F97316&center=true&vCenter=true&width=800&lines=AI-First+Front-end+Developer;Vibe+Coder;Prompt+Engineer)](https://git.io/typing-svg)
-
-</div>
-
-# Mutlu Kurt – AI-First Front-End Developer & Prompt Engineer  
-
-**AI-First Front-End Developer & Prompt Engineer**  
-Building **modern, responsive, and production-ready** web and mobile experiences through an **AI-Native workflow** — where **design, performance, and creativity** converge.  
-
-
-## Highlights
-
-![Stars](https://img.shields.io/github/stars/mutlukurt?affiliations=OWNER&style=for-the-badge)
-![Followers](https://img.shields.io/github/followers/mutlukurt?style=for-the-badge)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=mutlukurt&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=1)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
-## About Me  
-
-I'm a **Vibe Coder** who believes that **AI × Creativity** is redefining how we build digital experiences.  
-My mission is to blend **AI-Native workflows** with **solid engineering practices** to craft products that are **fast, scalable, and emotionally engaging**.  
-
-- **Web** → React · Next.js · Tailwind CSS · TypeScript  
-- **Mobile** → React Native · Expo  
-- **AI Stack** → Bolt.new · Claude · Cursor · Lovable · Codex · Rork · Qwen · Qoder · Windsurf · Spline.design  
-- **Design Tools** → Figma · Framer · Canva  
-- **Focus** → Building **dashboards, booking platforms, portfolio websites, and landing pages** with **95+ Lighthouse scores**.  
-
-_Pushing the boundaries of what’s possible with AI-First development._
-
----
-
-## Tech Toolbox  
-
-| Area          | Tools & Frameworks |
-|---------------|--------------------|
-| **Frontend**  | React · Next.js · Tailwind CSS · TypeScript |
-| **Mobile**    | React Native · Expo |
-| **AI-Native** | Bolt.new · Cursor · Claude · Codex · Lovable · Qwen · Qoder · Windsurf · Rork · Spline.design |
-| **Backend**   | Supabase · Firebase (basics) |
-| **Design**    | Figma · Framer · Canva |
-| **Delivery**  | GitHub · Vercel · Netlify |
-
----
-
-## Featured Projects
-
-Here are some of my highlighted projects—mixing **strong UI/UX** with **AI-powered development**:  
-
-- **[Project Board – Modern Project Management Dashboard](https://github.com/mutlukurt/projectboard) · [Live Demo](https://modern-premium-proje-obwr.bolt.host/)**  
-   A **production-ready project management board** that combines **modern minimal UI**, **offline-first architecture**, and **exceptional Lighthouse performance** across mobile and desktop.  
-   Designed for **developers, designers, freelancers, and teams** to visually organize tasks, manage priorities, and track progress seamlessly across devices.  
-   Built using **React 18, TypeScript, Vite, Zustand, Tailwind CSS, dnd-kit, Lucide React, Framer Motion, and vite-plugin-pwa**.  
-   Features include **drag-and-drop task management, CRUD cards and columns, dark/light/system themes, Lite Mode for low-end devices, offline PWA support, and full keyboard accessibility (WCAG 2.1 AA compliant)**.  
-
-   **Note: Instead of relying on complex integrations or heavy frameworks, this project emphasizes a lightweight, performance-first frontend architecture using Zustand slices and localStorage persistence — ensuring instant feedback and smooth interactions even on mobile devices.**
-
-- **[Finverse – Personal Finance Tracker](https://github.com/mutlukurt/finverse) · [Live Demo](https://zingy-gingersnap-55ad27.netlify.app/)**  
-   A **production-ready finance dashboard** blending a **premium dark UI** with **real-time cash-flow analytics**. Capture income and expenses, manage wallet cards, and visualise trends across daily, weekly, and monthly views.  
-   Built using **React 18, TypeScript, Vite, Zustand, Tailwind, shadcn/ui, Recharts, and Framer Motion**.  
-   Features include **persistent local storage, import/export utilities, responsive layouts with adaptive mobile sheets, animated wallet cards, and accessible charts**.  
-
-   **Note: Instead of heavy state management or server coupling, this project ships with a lightweight Zustand slice architecture + localStorage persistence, ensuring offline-first usage with instant feedback.**
-
-- **[NeonGhost Lab – Production React SPA](https://github.com/mutlukurt/lenis-gsap-spline3d-neonghostlab) · [Live Demo](https://neonghost-lab-produc-ewhl.bolt.host/)**  
-   A **production-ready single-page application** showcasing **AI-native motion systems** with **Spline 3D hero integration**, **Lenis smooth scrolling**, and **GSAP-powered animations**.  
-   Built using **React, TypeScript, Vite, Tailwind, Lenis, and GSAP**.  
-   Features include **horizontal scroll with progress indicator, sticky step reveals, parallax playground, accessibility compliance, and 90+ Lighthouse performance**.
-
-  **Note: Instead of a heavy vertical-to-horizontal pinning technique, this project uses native scroll-snap with GSAP enhancements for performance and mobile compatibility.**
-
-- **[GlassLand](https://github.com/mutlukurt/GlassLand) · [Live Demo](https://glassmorphism-landin-n96v.bolt.host/)**  
-   Modern landing page showcasing **advanced glassmorphism design principles**.  
-
-- **[Finora – Personal Finance Tracker](https://github.com/mutlukurt/finora-personal-finance-tracker-mobile-app) · [Live Demo](https://finora-personal-fina-hwth.bolt.host/)**  
-   Intuitive **mobile app** built with **React Native + Expo**.  
-   Track expenses, manage budgets, and gain **financial insights**.  
-
-- **[Fitness Dashboard Recreation](https://github.com/mutlukurt/fitness-dashboard-recreation) · [Live Demo](https://fitness-dashboard-re-ap5m.bolt.host/)**  
-   **Fitness tracking dashboard** built with **React, TS, Tailwind**.  
-   Track workouts, monitor progress, and connect with friends.  
-
-- **[Dashboard App](https://github.com/mutlukurt/dashboard-app) · [Live Demo](https://mutlukurt.github.io/dashboard-app/)**  
-   Fully responsive **dashboard** with **beautiful charts, analytics, and accessibility-first design**.  
-   Built with **React, Vite, Tailwind CSS**.  
-
-- **[Cookify – Recipe App](https://github.com/mutlukurt/cookify-recipe-app) · [Live Demo](https://mutlukurt.github.io/cookify-recipe-app/)**  
-   **Recipe management app** with **Vanilla JS + Vite**.  
-   Discover, save, and organize your favorite recipes.  
-
-- **[Alex Corbin Portfolio](https://github.com/mutlukurt/alex-corbin-portfolio) · [Live Demo](https://mutlukurt.github.io/alex-corbin-portfolio/)**  
-   Minimalist, dark-themed **portfolio site**.  
-   Built with **semantic HTML, CSS Grid/Flexbox, Vanilla JS**.  
-
----
-
-## Highlights / Achievements  
-
-- Built and launched **10+ modern web/mobile apps** using React & React Native  
-- Experienced in **AI-first workflows**, cutting development time significantly  
-- Strong focus on **UI/UX and accessibility-first design**  
-- Delivered projects with **fast iterations & clean code**  
-
----
-
-## Connect  
+<h1 align="center">Hi, I'm Mutlu 👋</h1>
+<h3 align="center">AI-First Front-End Developer • Vibe Coder • Multilingual Builder</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mutlukurt"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://twitter.com/mutlukurtio"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-  <a href="https://github.com/mutlukurt"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  I build modern, high-performance, and AI-assisted digital experiences using <b>React</b>, <b>Next.js</b>, <b>TypeScript</b>, and an <b>AI-native workflow</b>.  
+  My projects focus on <b>premium UI/UX</b>, <b>95–100 Lighthouse</b> performance, and <b>clean architecture</b>.
 </p>
 
-*Looking to collaborate? Feel free to reach out — I'm open to freelance, collabs, or new opportunities.*  
+---
+
+## 🚀 Tech Stack
+
+### 🖥 Front-End
+<p align="left">
+  <img src="https://img.shields.io/badge/React-00d8ff?style=for-the-badge&logo=react&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-38bdf8?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vite-6c5ce7?style=for-the-badge&logo=vite&logoColor=yellow"/>
+</p>
+
+### 📱 Mobile
+<p align="left">
+  <img src="https://img.shields.io/badge/React_Native-61dafb?style=for-the-badge&logo=react&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white"/>
+</p>
+
+### ⚡ AI Tools & Coding Workflow
+<p align="left">
+  <img src="https://img.shields.io/badge/Bolt.new-f97316?style=for-the-badge&logo=thunderbolt&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Claude_Sonnet_4.5-9a4fff?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Gemini_Pro-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Qwen_AI-00b894?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Lovable_AI-e84393?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Windsurf-0fbcf9?style=for-the-badge"/>
+</p>
+
+### 🗄 Backend (Basics)
+<p align="left">
+  <img src="https://img.shields.io/badge/Supabase-00c16a?style=for-the-badge&logo=supabase&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"/>
+</p>
+
+### 🎨 Design & Motion
+<p align="left">
+  <img src="https://img.shields.io/badge/Figma-ff5c4d?style=for-the-badge&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Framer-000000?style=for-the-badge&logo=framer&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GSAP-88ce02?style=for-the-badge&logo=greensock&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spline_3D-0a7cff?style=for-the-badge"/>
+</p>
 
 ---
 
-## Support My Work
+## 🧠 About Me
 
-You can support me in different ways:
+I’m an **AI-First Front-End Developer** who builds:
 
-- Star my repositories  
-- Give feedback or open issues
+- Modern **dashboards & analytics apps**  
+- Multilingual **academic platforms**  
+- Premium **marketing / landing pages**  
+- Offline-first **PWA tools**  
+- Finance & productivity apps  
 
-### Crypto Support (Web3 Wallet)
+My workflow combines **AI-assisted development** + **senior-level frontend architecture** to ship cleaner, faster, and more scalable interfaces.
 
-<div align="center">
+I prioritize:
 
-<img src="public/web3wallet.jpg" alt="Web3 Wallet" width="400" />
-
-**USDT (TRON Network)**  
-`TMd3f11UtjmS7m83USTD4eU26ts5JW4CtK`
-
-</div>
-
-#### Important Security Information:
-
-- **ONLY send TRON network assets** to this address
-- **Supported tokens:** USDT-TRC20, TRX, and other TRC20 tokens
-- **DO NOT send:** Bitcoin, Ethereum, BSC, or other network tokens
-- **Warning:** Sending assets from other networks will result in **permanent loss**
-- **Verify address:** Always double-check the wallet address before sending
-- **Small test:** Consider sending a small amount first to verify the transaction
-
-#### How to Send:
-
-1. **Binance Users:** Use Binance Web3 Wallet or regular Binance withdrawal
-2. **Other Wallets:** Ensure you select **TRON (TRC20)** network
-3. **Scan QR Code:** Use the QR code in the image above for easy transfer
-4. **Manual Entry:** Copy the wallet address exactly as shown
-
-#### Disclaimer:
-
-- Cryptocurrency transactions are **irreversible**
-- Always verify the network and address before sending
-- I am not responsible for funds sent to wrong addresses or networks
-- This is a voluntary support method - no obligation to contribute
+- **Minimal & future-oriented UI**
+- **Performance-first engineering**
+- **Accessibility (WCAG 2.1 AA)**
+- **Micro-interactions & motion**
+- **Strong design system thinking**
 
 ---
 
-*Mission: build the future of software with **AI-Native development**—where human creativity meets automation.*
+## 📈 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mutlukurt&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mutlukurt&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+</p>
+
+---
+
+## 🔗 Connect  
+<p align="left">
+  <a href="https://www.linkedin.com/in/mutlukurt">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://twitter.com/mutlukurtio">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+  </a>
+  <a href="https://github.com/mutlukurt">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<h3 align="center"><i>Building the future of the web with an AI-Native mindset.</i></h3>
