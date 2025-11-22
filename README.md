@@ -28,9 +28,9 @@
 ### ⚡ AI Tools & Coding Workflow
 <p align="left">
   <img src="https://img.shields.io/badge/Gemini_Pro-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Claude_Sonnet_4.5-9a4fff?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Bolt.new-f97316?style=for-the-badge&logo=thunderbolt&logoColor=white"/>
   <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Claude_Sonnet_4.5-9a4fff?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Qwen_AI-00b894?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Lovable_AI-e84393?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Windsurf-0fbcf9?style=for-the-badge"/>
