@@ -1,5 +1,18 @@
-<h1 align="center">Hi, I'm Mutlu 👋</h1>
+<h1 align="center">Hi, I'm Mutlu </h1>
+
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=AI-Native+Frontend+Development;Vibe+coding;i18n+Web+Experience" alt="Typing SVG" />
+  </a>
+</div>
+
+
 <h3 align="center">AI-First Front-End Developer • Vibe Coder • Multilingual Builder</h3>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/OumCa12QC9CIvBe2c1/giphy.gif" width="600" alt="WUFFI Vibes Lofi" />
+</div>
+
 
 <p align="center">
   I build modern, high-performance, and AI-assisted digital experiences using <b>React</b>, <b>Next.js</b>, <b>TypeScript</b>, and an <b>AI-native workflow</b>.  
@@ -71,14 +84,6 @@ I prioritize:
 - **Accessibility (WCAG 2.1 AA)**
 - **Micro-interactions & motion**
 - **Strong design system thinking**
-
----
-
-## 📈 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mutlukurt&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mutlukurt&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
-</p>
 
 ---
 
