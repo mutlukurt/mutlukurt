@@ -2,12 +2,12 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=F57C00&center=true&vCenter=true&width=450&lines=AI-Native+Frontend+Development;Vibe+coding;i18n+Web+Experience" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=F57C00&center=true&vCenter=true&width=450&lines=Agentic+Front-End+Developer;AI-Native+Frontend+Development;Vibe+coding;i18n+Web+Experience" alt="Typing SVG" />
   </a>
 </div>
 
 
-<h3 align="center">Agentic Front-End Developer • AI-Native Front-End Developer • Vibe Coder • Multilingual Builder</h3>
+<h3 align="center">AI-First Front-End Developer • Vibe Coder • Multilingual Builder</h3>
 
 <div align="center">
   <img src="https://media.giphy.com/media/OumCa12QC9CIvBe2c1/giphy.gif" width="600" alt="WUFFI Vibes Lofi" />
