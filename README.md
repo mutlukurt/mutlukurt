@@ -7,7 +7,7 @@
 </div>
 
 
-<h3 align="center">AI-First Front-End Developer • Vibe Coder • Multilingual Builder</h3>
+<h3 align="center">Agentic Front-End Developer • AI-Native Front-End Developer • Vibe Coder • Multilingual Builder</h3>
 
 <div align="center">
   <img src="https://media.giphy.com/media/OumCa12QC9CIvBe2c1/giphy.gif" width="600" alt="WUFFI Vibes Lofi" />
