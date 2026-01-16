@@ -56,7 +56,6 @@ skills that translate directly into clarity, consistency, and endurance in my wo
 <img src="https://img.shields.io/badge/Zustand-State_Management-orange?style=for-the-badge" />
 
 <img src="https://img.shields.io/badge/AI--Native_Workflow-Enabled-6E56CF?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Design-Neo--Brutalism-black?style=for-the-badge" />
 
 </div>
 
