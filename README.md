@@ -48,30 +48,23 @@ I approach frontend development as a **system design problem**, where AI plays a
 
 ---
 
-## What “AI-Native” Means in My Work
+##  What “AI-Native” Means in My Work
 
 AI-Native is not about adding an AI feature to an existing product.  
 It’s about **designing the product, workflow, and architecture around AI from day one**.
 
 In practice, this means:
 
-- **AI-First Architecture**  
-  Interfaces and systems are designed assuming AI participation from the start.
+- **AI-First Architecture** — interfaces and systems are designed assuming AI participation from the start.
+- **Prompt-Driven Development** — prompts are treated as structured, reusable, evolving assets (similar to code).
+- **Agentic Coding** — I collaborate with autonomous and semi-autonomous agents to:
+  - scaffold features
+  - refactor components
+  - explore alternative implementations
+  - accelerate repetitive or exploratory tasks
+- **Human-in-the-Loop Control** — AI accelerates execution, but decisions, trade-offs, and quality control remain human-led.
 
-- **Prompt-Driven Development**  
-  Prompts are treated as structured, reusable, and evolving assets — similar to code.
-
-- **Agentic Coding**  
-  I work with autonomous and semi-autonomous agents to:
-  - scaffold features  
-  - refactor components  
-  - explore alternative implementations  
-  - accelerate repetitive or exploratory tasks  
-
-- **Human-in-the-Loop Control**  
-  AI accelerates execution, but decisions, trade-offs, and quality control remain human-led.
-
-> The result: faster delivery, higher creative bandwidth, and more resilient systems.
+**Result:** faster delivery, higher creative bandwidth, and more resilient systems.
 
 ---
 
@@ -79,13 +72,12 @@ In practice, this means:
 
 I specialize in building **AI-augmented frontend systems**, including:
 
-- Intelligent dashboards and interfaces  
-- AI-assisted content and interaction layers  
-- Prompt-driven UI logic  
-- High-performance, scalable web applications  
+- Intelligent dashboards and interfaces
+- AI-assisted content and interaction layers
+- Prompt-driven UI logic
+- High-performance, scalable web applications
 
-Every project prioritizes:
-**performance · clarity · maintainability · user experience**
+Every project prioritizes: **performance · clarity · maintainability · user experience**
 
 ---
 
