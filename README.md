@@ -90,10 +90,65 @@ Every project prioritizes: **performance · clarity · maintainability · user e
 
 ---
 
-## Technical Foundation
+## Technology Stack & Tools
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,redux,nodejs,git,github,vscode,reactnative,expo&perline=7" />
+
+<table>
+  <tr>
+    <td align="left" width="220"><b>Frontend Development</b></td>
+    <td align="left">
+      <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,framer&perline=12" />
+    </td>
+  </tr>
+
+  <tr>
+    <td align="left"><b>State & UI Systems</b></td>
+    <td align="left">
+      <img src="https://skillicons.dev/icons?i=redux&perline=12" />
+      <img src="https://img.shields.io/badge/Zustand-18181B?style=for-the-badge" />
+    </td>
+  </tr>
+
+  <tr>
+    <td align="left"><b>Mobile</b></td>
+    <td align="left">
+      <img src="https://skillicons.dev/icons?i=react,reactnative,expo&perline=12" />
+    </td>
+  </tr>
+
+  <tr>
+    <td align="left"><b>Backend & APIs</b></td>
+    <td align="left">
+      <img src="https://skillicons.dev/icons?i=nodejs,express&perline=12" />
+    </td>
+  </tr>
+
+  <tr>
+    <td align="left"><b>AI Development Tools</b></td>
+    <td align="left">
+      <!-- AI-native / agentic coding tools (brand-safe via icons where available) -->
+      <img src="https://skillicons.dev/icons?i=github&perline=12" />
+      <img src="https://img.shields.io/badge/Agentic_Coding-0B0F19?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/Prompt--Driven_Dev-0B0F19?style=for-the-badge" />
+    </td>
+  </tr>
+
+  <tr>
+    <td align="left"><b>DevOps & Cloud</b></td>
+    <td align="left">
+      <img src="https://skillicons.dev/icons?i=git,github,vercel,netlify&perline=12" />
+    </td>
+  </tr>
+
+  <tr>
+    <td align="left"><b>Tools & Productivity</b></td>
+    <td align="left">
+      <img src="https://skillicons.dev/icons?i=vscode,figma&perline=12" />
+    </td>
+  </tr>
+</table>
+
 </div>
 
 ---
