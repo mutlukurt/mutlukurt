@@ -1,11 +1,11 @@
 <div align="center">
 
-<h1>Hi, I'm Mutlu 👋</h1>
+<h1>Hi, I’m Mutlu 👋</h1>
 
-<h3>AI-Native Frontend Developer · Digital Polymath</h3>
+<h3>AI-Native Frontend Developer · Agentic Coding Practitioner</h3>
 
 <p>
-<i>Bridging <b>Labor Economics</b> with <b>Creative, High-Performance Frontend Engineering</b>.</i>
+<i>Designing intelligent, high-performance interfaces with AI at the core.</i>
 </p>
 
 <a href="https://linkedin.com/in/mutlukurt">
@@ -19,32 +19,46 @@
 
 ---
 
-## 🧠 About Me
+## 🧠 About
 
-I’m a **Frontend Developer based in Turkey** with a background in  
-**Labor Economics & Industrial Relations**.
+I’m an **AI-Native Frontend Developer based in Turkey**, focused on building modern web experiences where  
+**AI is not an add-on, but a first-class architectural component**.
 
-That perspective shapes how I build software:  
-interfaces that are not only visually strong, but **human-aware, intentional, and scalable**.
+My work is shaped around **AI-First thinking**:
+- prompts as interfaces  
+- agents as collaborators  
+- workflows optimized for speed, clarity, and iteration  
 
-I work with **AI-Native workflows**, treating AI as a creative accelerator rather than a replacement.  
-For me, *how software feels* is as important as how it functions.
+I don’t use AI to *replace* development —  
+I use it to **compress time, expand creativity, and increase system intelligence**.
 
-Outside of code, I’m a **TESOL-certified instructor** and a disciplined **long-distance runner**—  
-skills that translate directly into clarity, consistency, and endurance in my work.
+Every interface I build is designed to feel:
+**fast · intentional · alive**
+
+---
+
+## 🤖 AI-Native Philosophy
+
+- **AI-First** → Systems designed *around* AI, not patched with it  
+- **Agentic Coding** → Delegating tasks to autonomous agents with clear intent  
+- **Prompt-Driven Architecture** → Prompts as reusable, evolving assets  
+- **Human-in-the-Loop** → AI accelerates, human judgment decides  
+
+> Code is the output.  
+> **Intent is the source.**
 
 ---
 
 ## 🚀 Current Focus
 
-- 🔭 **Project:** **UMBRA** — an experimental, horror-themed web experience  
-- 🌱 **Exploring:** AI-augmented frontend workflows & agent-assisted development  
-- 🎨 **Design Language:** Neo-Brutalism, minimalism, bold contrasts  
-- ⚡ **Principle:** Flow > Features. Vibe is a first-class citizen.
+- 🔭 **Building:** AI-Native frontend systems with agent-assisted workflows  
+- 🧪 **Experimenting:** Multi-agent coding, prompt pipelines, AI-driven UI logic  
+- ⚡ **Optimizing:** Performance-first interfaces with intelligent behavior  
+- 🎨 **Design Ethos:** Minimal, bold, functional — vibe matters  
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 Core Stack
 
 <div align="center">
 
@@ -55,9 +69,22 @@ skills that translate directly into clarity, consistency, and endurance in my wo
 <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 <img src="https://img.shields.io/badge/Zustand-State_Management-orange?style=for-the-badge" />
 
-<img src="https://img.shields.io/badge/AI--Native_Workflow-Enabled-6E56CF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/AI--Native_Workflows-Enabled-6E56CF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Agentic_Coding-Practitioner-black?style=for-the-badge" />
 
 </div>
+
+---
+
+## 🧩 What I Actually Build
+
+- AI-augmented dashboards & interfaces  
+- Prompt-driven UI systems  
+- Agent-assisted frontend architectures  
+- High-performance, scalable web apps  
+
+Each project is designed with:
+**speed · clarity · intelligence · feel**
 
 ---
 
@@ -72,5 +99,5 @@ skills that translate directly into clarity, consistency, and endurance in my wo
 ---
 
 <p align="center">
-<i>Building interfaces that feel alive.</i>
+<i>AI-Native by design. Human-driven by intent.</i>
 </p>
