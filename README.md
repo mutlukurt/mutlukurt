@@ -107,11 +107,26 @@ Every project prioritizes: **performance · clarity · maintainability · user e
 
 ---
 
-## GitHub Activity
+## GitHub Activity & Signals
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mutlukurt&theme=github-dark&hide_border=true" />
+<img 
+  src="https://github-readme-activity-graph.vercel.app/graph?username=mutlukurt&theme=github-dark&hide_border=true" 
+  alt="GitHub Activity Graph"
+/>
+
+<br/><br/>
+
+<img 
+  src="https://github-readme-stats.vercel.app/api?username=mutlukurt&show_icons=true&theme=github_dark&hide_border=true&count_private=true" 
+  height="160"
+/>
+
+<img 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=mutlukurt&layout=compact&theme=github_dark&hide_border=true" 
+  height="160"
+/>
 
 </div>
 
