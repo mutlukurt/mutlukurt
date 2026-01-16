@@ -39,6 +39,13 @@ My focus is not only on *what* is built, but *how* it is built:
 
 I approach frontend development as a **system design problem**, where AI plays an active role in ideation, execution, and refinement.
 
+<div align="center">
+
+<img 
+  src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3NseTBoZ3F5OXVoN3B0bnlwNmpvbnh3azZsNHoycTRjN2JhNG5jZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uhXxGTTyBfKk7iBU40/giphy.gif"
+  width="400"
+/>
+
 ---
 
 ## What “AI-Native” Means in My Work
