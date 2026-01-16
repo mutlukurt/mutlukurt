@@ -16,7 +16,7 @@ I design and build intelligent, high-performance web interfaces by treating AI a
 </p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1100&color=58A6FF&center=true&vCenter=true&width=820&lines=AI-First+Frontend+Systems;AI-Native+UI+Engineering;Agentic+Coding+Workflows;Prompt-Driven+Development" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1100&color=FFA500&center=true&vCenter=true&width=820&lines=AI-First+Frontend+Systems;AI-Native+UI+Engineering;Agentic+Coding+Workflows;Prompt-Driven+Development" />
 </div>
 
 <a href="https://linkedin.com/in/mutlukurt">
