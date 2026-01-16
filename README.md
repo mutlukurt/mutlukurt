@@ -93,9 +93,7 @@ Every project prioritizes: **performance · clarity · maintainability · user e
 ## Technical Foundation
 
 <div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,framer,redux,reactnative,expo,nodejs,git,github,vscode&perline=8" />
-
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,redux,nodejs,git,github,vscode,reactnative,expo&perline=7" />
 </div>
 
 ---
