@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcW12b3NweGc2aDN2b3NweGc2aDN2b3NweGc2aDM/xT9IgzoKnwFNmISR8I/giphy.gif" width="100%" height="200" alt="Glitch Header" style="border-radius:12px; object-fit:cover;" />
-
 <h1>Hi, I'm Mutlu 👋</h1>
 
 <h3>AI-Native Frontend Developer · Digital Polymath</h3>
@@ -23,14 +21,14 @@
 
 ## 🧠 About Me
 
-I’m a **Frontend Developer based in Turkey** with an unconventional background in  
+I’m a **Frontend Developer based in Turkey** with a background in  
 **Labor Economics & Industrial Relations**.
 
-That perspective shapes how I build interfaces:  
-not just visually appealing, but **human-aware, scalable, and intention-driven**.
+That perspective shapes how I build software:  
+interfaces that are not only visually strong, but **human-aware, intentional, and scalable**.
 
-I specialize in **AI-Native workflows**, where development is fast, expressive, and deeply iterative.  
-I care about *how software feels* as much as how it functions.
+I work with **AI-Native workflows**, treating AI as a creative accelerator rather than a replacement.  
+For me, *how software feels* is as important as how it functions.
 
 Outside of code, I’m a **TESOL-certified instructor** and a disciplined **long-distance runner**—  
 skills that translate directly into clarity, consistency, and endurance in my work.
@@ -67,16 +65,21 @@ skills that translate directly into clarity, consistency, and endurance in my wo
 ## 📊 GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mutlukurt&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00bcd4&icon_color=00bcd4&text_color=ffffff" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mutlukurt&layout=compact&hide_border=true&bg_color=0d1117&title_color=00bcd4&text_color=ffffff" height="150" />
+
+<img
+  src="https://github-readme-stats.vercel.app/api?username=mutlukurt&show_icons=true&hide_border=true&theme=dark"
+  height="150"
+/>
+
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=mutlukurt&layout=compact&hide_border=true&theme=dark"
+  height="150"
+/>
+
 </div>
 
 ---
 
-<div align="center">
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" height="150" alt="Footer" style="border-radius:12px; object-fit:cover;" />
-
+<p align="center">
 <i>Building interfaces that feel alive.</i>
-
-</div>
+</p>
