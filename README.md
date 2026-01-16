@@ -1,6 +1,15 @@
 <div align="center">
 
-<h1>Hi, I’m Mutlu 👋</h1>
+<img 
+  src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXI5dnVyd3c2MjYydnR2YzVpemhqc3ZvNzE3anl6b2tudTZ2cGZ3NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4DCQOPji9PdF6x0rXM/giphy.gif"
+  width="100%"
+  height="240"
+  style="object-fit: cover; border-radius: 10px;"
+/>
+
+<div align="center">
+
+<h1>Hi, I’m Mutlu</h1>
 
 <h3>AI-Native Frontend Developer · AI-First Systems Builder</h3>
 
@@ -21,7 +30,7 @@ I design and build intelligent, high-performance web interfaces by treating AI a
 
 ---
 
-## 👋 Introduction
+## Introduction
 
 I’m an **AI-Native Frontend Developer based in Turkey**, working at the intersection of  
 **modern frontend engineering, AI-first workflows, and agent-assisted development**.
@@ -36,7 +45,7 @@ I approach frontend development as a **system design problem**, where AI plays a
 
 ---
 
-## 🧠 What “AI-Native” Means in My Work
+## What “AI-Native” Means in My Work
 
 AI-Native is not about adding an AI feature to an existing product.  
 It’s about **designing the product, workflow, and architecture around AI from day one**.
@@ -63,7 +72,7 @@ In practice, this means:
 
 ---
 
-## 🧩 What I Build
+## What I Build
 
 I specialize in building **AI-augmented frontend systems**, including:
 
@@ -77,7 +86,7 @@ Every project prioritizes:
 
 ---
 
-## ⚙️ Technical Foundation
+## Technical Foundation
 
 <div align="center">
 
@@ -95,7 +104,7 @@ Every project prioritizes:
 
 ---
 
-## 🚀 Current Focus
+## Current Focus
 
 - Designing **AI-first frontend architectures**
 - Exploring **agent-based development workflows**
@@ -104,7 +113,7 @@ Every project prioritizes:
 
 ---
 
-## 📊 GitHub Activity
+## GitHub Activity
 
 <div align="center">
 
@@ -114,7 +123,7 @@ Every project prioritizes:
 
 ---
 
-## 🤝 Working Philosophy
+## Working Philosophy
 
 - AI is a **collaborator**, not a shortcut  
 - Readability beats cleverness  
