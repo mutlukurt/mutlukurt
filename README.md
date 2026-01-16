@@ -166,17 +166,22 @@ Every project prioritizes: **performance · clarity · maintainability · user e
 
 <div align="center">
 
-<img 
-  src="https://github-stats-mu-nine.vercel.app/api?username=mutlukurt&show=reviews,discussions_started,discussions_answered,prs_merged&show_icons=true&include_all_commits=true&bg_color=0D1117&theme=algolia&hide_border=true"
-  height="230"
-/>
-
-<br/><br/>
-
-<img 
-  src="https://github-stats-mu-nine.vercel.app/api/top-langs/?username=mutlukurt&theme=algolia&hide_border=true&layout=pie&langs_count=8&bg_color=0D1117"
-  height="230"
-/>
+<table>
+  <tr>
+    <td align="center">
+      <img 
+        src="https://github-stats-mu-nine.vercel.app/api?username=mutlukurt&show=reviews,discussions_started,discussions_answered,prs_merged&show_icons=true&include_all_commits=true&bg_color=0D1117&theme=algolia&hide_border=true"
+        height="230"
+      />
+    </td>
+    <td align="center">
+      <img 
+        src="https://github-stats-mu-nine.vercel.app/api/top-langs/?username=mutlukurt&theme=algolia&hide_border=true&layout=pie&langs_count=8&bg_color=0D1117"
+        height="230"
+      />
+    </td>
+  </tr>
+</table>
 
 </div>
 
