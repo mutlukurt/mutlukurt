@@ -167,14 +167,15 @@ Every project prioritizes: **performance · clarity · maintainability · user e
 <div align="center">
 
 <img 
-  src="https://github-readme-activity-graph.vercel.app/graph?username=mutlukurt&theme=github-dark&hide_border=true" 
+  src="https://github-stats-mu-nine.vercel.app/api?username=mutlukurt&show=reviews,discussions_started,discussions_answered,prs_merged&show_icons=true&include_all_commits=true&bg_color=0D1117&theme=algolia&hide_border=true"
+  height="230"
 />
 
 <br/><br/>
 
 <img 
-  src="https://github-readme-stats.vercel.app/api?username=mutlukurt&theme=github_dark&hide_border=true&count_private=true" 
-  height="150"
+  src="https://github-stats-mu-nine.vercel.app/api/top-langs/?username=mutlukurt&theme=algolia&hide_border=true&layout=pie&langs_count=8&bg_color=0D1117"
+  height="230"
 />
 
 </div>
