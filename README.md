@@ -2,7 +2,7 @@
 
 <img 
   src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXI5dnVyd3c2MjYydnR2YzVpemhqc3ZvNzE3anl6b2tudTZ2cGZ3NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4DCQOPji9PdF6x0rXM/giphy.gif"
-  width="800"
+  width="400"
 />
 
 <h1>Hi, I’m Mutlu</h1>
