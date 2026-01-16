@@ -66,15 +66,11 @@ skills that translate directly into clarity, consistency, and endurance in my wo
 
 <div align="center">
 
-<img
-  src="https://github-readme-stats.vercel.app/api?username=mutlukurt&show_icons=true&hide_border=true&theme=dark"
-  height="150"
-/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mutlukurt&theme=github-dark&hide_border=true" />
 
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=mutlukurt&layout=compact&hide_border=true&theme=dark"
-  height="150"
-/>
+<br />
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=mutlukurt&theme=dark&hide_border=true" />
 
 </div>
 
