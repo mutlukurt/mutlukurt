@@ -8,7 +8,7 @@
 <i>Bridging <b>Labor Economics</b> with <b>Creative, High-Performance Frontend Engineering</b>.</i>
 </p>
 
-<a href="https://linkedin.com/in/your-linkedin">
+<a href="https://linkedin.com/in/mutlukurt">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
 </a>
 <a href="mailto:mutlu@techie.com">
