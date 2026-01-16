@@ -55,8 +55,8 @@ I don't just write code; I focus on the **"Vibe"**—the flow, the feeling, and 
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mutlukurt&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="Mutlu's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mutlukurt&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mutlukurt&show_icons=true&theme=transparent&hide_border=true&title_color=00bcd4&text_color=ffffff&icon_color=00bcd4&bg_color=0d1117" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mutlukurt&layout=compact&theme=transparent&hide_border=true&title_color=00bcd4&text_color=ffffff" height="150" alt="languages graph" />
 </div>
 
 <br />
