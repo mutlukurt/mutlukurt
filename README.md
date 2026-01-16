@@ -2,10 +2,12 @@
 
 <h1>Hi, I’m Mutlu 👋</h1>
 
-<h3>AI-Native Frontend Developer · Agentic Coding Practitioner</h3>
+<h3>AI-Native Frontend Developer · AI-First Systems Builder</h3>
 
 <p>
-<i>Designing intelligent, high-performance interfaces with AI at the core.</i>
+<i>
+I design and build intelligent, high-performance web interfaces by treating AI as a core system component — not a feature.
+</i>
 </p>
 
 <a href="https://linkedin.com/in/mutlukurt">
@@ -19,46 +21,63 @@
 
 ---
 
-## 🧠 About
+## 👋 Introduction
 
-I’m an **AI-Native Frontend Developer based in Turkey**, focused on building modern web experiences where  
-**AI is not an add-on, but a first-class architectural component**.
+I’m an **AI-Native Frontend Developer based in Turkey**, working at the intersection of  
+**modern frontend engineering, AI-first workflows, and agent-assisted development**.
 
-My work is shaped around **AI-First thinking**:
-- prompts as interfaces  
-- agents as collaborators  
-- workflows optimized for speed, clarity, and iteration  
+My focus is not only on *what* is built, but *how* it is built:
 
-I don’t use AI to *replace* development —  
-I use it to **compress time, expand creativity, and increase system intelligence**.
+- faster iteration cycles  
+- clearer intent → output pipelines  
+- systems that scale in complexity without losing clarity  
 
-Every interface I build is designed to feel:
-**fast · intentional · alive**
+I approach frontend development as a **system design problem**, where AI plays an active role in ideation, execution, and refinement.
 
 ---
 
-## 🤖 AI-Native Philosophy
+## 🧠 What “AI-Native” Means in My Work
 
-- **AI-First** → Systems designed *around* AI, not patched with it  
-- **Agentic Coding** → Delegating tasks to autonomous agents with clear intent  
-- **Prompt-Driven Architecture** → Prompts as reusable, evolving assets  
-- **Human-in-the-Loop** → AI accelerates, human judgment decides  
+AI-Native is not about adding an AI feature to an existing product.  
+It’s about **designing the product, workflow, and architecture around AI from day one**.
 
-> Code is the output.  
-> **Intent is the source.**
+In practice, this means:
+
+- **AI-First Architecture**  
+  Interfaces and systems are designed assuming AI participation from the start.
+
+- **Prompt-Driven Development**  
+  Prompts are treated as structured, reusable, and evolving assets — similar to code.
+
+- **Agentic Coding**  
+  I work with autonomous and semi-autonomous agents to:
+  - scaffold features  
+  - refactor components  
+  - explore alternative implementations  
+  - accelerate repetitive or exploratory tasks  
+
+- **Human-in-the-Loop Control**  
+  AI accelerates execution, but decisions, trade-offs, and quality control remain human-led.
+
+> The result: faster delivery, higher creative bandwidth, and more resilient systems.
 
 ---
 
-## 🚀 Current Focus
+## 🧩 What I Build
 
-- 🔭 **Building:** AI-Native frontend systems with agent-assisted workflows  
-- 🧪 **Experimenting:** Multi-agent coding, prompt pipelines, AI-driven UI logic  
-- ⚡ **Optimizing:** Performance-first interfaces with intelligent behavior  
-- 🎨 **Design Ethos:** Minimal, bold, functional — vibe matters  
+I specialize in building **AI-augmented frontend systems**, including:
+
+- Intelligent dashboards and interfaces  
+- AI-assisted content and interaction layers  
+- Prompt-driven UI logic  
+- High-performance, scalable web applications  
+
+Every project prioritizes:
+**performance · clarity · maintainability · user experience**
 
 ---
 
-## 🛠 Core Stack
+## ⚙️ Technical Foundation
 
 <div align="center">
 
@@ -69,22 +88,19 @@ Every interface I build is designed to feel:
 <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 <img src="https://img.shields.io/badge/Zustand-State_Management-orange?style=for-the-badge" />
 
-<img src="https://img.shields.io/badge/AI--Native_Workflows-Enabled-6E56CF?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Agentic_Coding-Practitioner-black?style=for-the-badge" />
+<img src="https://img.shields.io/badge/AI--Native_Workflows-Core-6E56CF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Agentic_Coding-Active_Practice-black?style=for-the-badge" />
 
 </div>
 
 ---
 
-## 🧩 What I Actually Build
+## 🚀 Current Focus
 
-- AI-augmented dashboards & interfaces  
-- Prompt-driven UI systems  
-- Agent-assisted frontend architectures  
-- High-performance, scalable web apps  
-
-Each project is designed with:
-**speed · clarity · intelligence · feel**
+- Designing **AI-first frontend architectures**
+- Exploring **agent-based development workflows**
+- Building systems that balance **speed, quality, and adaptability**
+- Creating interfaces that feel **intentional and responsive**, not mechanical
 
 ---
 
@@ -98,6 +114,20 @@ Each project is designed with:
 
 ---
 
+## 🤝 Working Philosophy
+
+- AI is a **collaborator**, not a shortcut  
+- Readability beats cleverness  
+- Performance is a feature  
+- Tools evolve — fundamentals stay  
+
+I care deeply about building software that is:
+**understandable today, adaptable tomorrow, and pleasant to use always**.
+
+---
+
 <p align="center">
-<i>AI-Native by design. Human-driven by intent.</i>
+<i>
+AI-Native by architecture. Human-driven by intent.
+</i>
 </p>
