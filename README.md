@@ -7,16 +7,17 @@
 
 <h1>Hi, I’m Mutlu</h1>
 
-<h3>AI-Native Frontend Engineer · System Architect</h3>
+<h3>AI-Native Frontend Developer</h3>
 
 <p>
 <i>
-I design and build intelligent, high-performance web interfaces by treating AI as a core system component — not just a tool.
+Crafting scalable UI systems with React & Next.js.<br>
+Combining Economic Strategy with Agentic Coding.
 </i>
 </p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1100&color=FFA500&center=true&vCenter=true&width=820&lines=AI-First+Frontend+Systems;Bridging+Economics+%26+Code;Agentic+Coding+Workflows;System+Architecture+%26+Design" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1100&color=FFA500&center=true&vCenter=true&width=820&lines=AI-Native+Frontend+Developer;Economic+Strategy+%2B+Code;Agentic+Coding+Workflows;Scalable+UI+Systems" />
 </div>
 
 <a href="https://linkedin.com/in/mutlukurt">
@@ -32,9 +33,9 @@ I design and build intelligent, high-performance web interfaces by treating AI a
 
 ### ⚡ The Engineering Mindset
 
-I operate at the intersection of **modern frontend engineering, AI-first workflows, and agent-assisted development**. 
+I operate at the intersection of **modern frontend engineering, AI-first workflows, and economic strategy**. 
 
-My approach treats frontend development not merely as implementation, but as a **system design problem** where AI plays an active role in ideation, execution, and refinement. I focus less on *writing* syntax and more on *architecting* outcomes.
+My approach treats frontend development not merely as implementation, but as a **system design problem** where Agentic Coding plays an active role in ideation, execution, and refinement. I focus less on *writing* syntax and more on *architecting* outcomes.
 
 **My Core Priorities:**
 - **Hyper-Efficient Iteration:** Leveraging AI to accelerate the loop from concept to deployment.
@@ -47,7 +48,7 @@ My approach treats frontend development not merely as implementation, but as a *
 <img 
   src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3NseTBoZ3F5OXVoN3B0bnlwNmpvbnh3azZsNHoycTRjN2JhNG5jZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uhXxGTTyBfKk7iBU40/giphy.gif"
   width="50%"
-  style="max-width: 400px;"
+  style="max-width: 600px;"
 />
 </div>
 
