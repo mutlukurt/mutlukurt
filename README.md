@@ -46,7 +46,7 @@ My approach treats frontend development not merely as implementation, but as a *
 <div align="center">
 <img 
   src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3NseTBoZ3F5OXVoN3B0bnlwNmpvbnh3azZsNHoycTRjN2JhNG5jZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uhXxGTTyBfKk7iBU40/giphy.gif"
-  width="100%"
+  width="50%"
   style="max-width: 400px;"
 />
 </div>
