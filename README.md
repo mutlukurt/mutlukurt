@@ -32,16 +32,20 @@ I design and build intelligent, high-performance web interfaces by treating AI a
 
 ## Introduction
 
-I’m an **AI-Native Frontend Developer based in Turkey**, working at the intersection of  
-**modern frontend engineering, AI-first workflows, and agent-assisted development**.
+### AI-Native Frontend Engineer | React & Next.js Architecture
 
-My focus is not only on *what* is built, but *how* it is built:
+I operate at the intersection of **modern frontend engineering, AI-first workflows, and agent-assisted development**.
 
-- faster iteration cycles  
-- clearer intent → output pipelines  
-- systems that scale in complexity without losing clarity  
+My approach treats frontend development not just as implementation, but as a **system design problem**, where AI plays an active role in ideation, execution, and refinement.
 
-I approach frontend development as a **system design problem**, where AI plays an active role in ideation, execution, and refinement.
+#### ⚡ Engineering Philosophy
+My focus is not only on *what* is built, but *how* it is built. I prioritize:
+
+- **Hyper-Efficient Iteration:** Leveraging AI to accelerate the loop from concept to deployment.
+- **Intent → Output Pipelines:** reducing friction between logic and code.
+- **Scalable Complexity:** Building systems that grow in capability without losing structural clarity.
+
+---
 
 <div align="center">
 
