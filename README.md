@@ -134,13 +134,13 @@ In practice, this means:
     <td align="center">
       <img 
         src="https://github-stats-mu-nine.vercel.app/api?username=mutlukurt&show=reviews,discussions_started,discussions_answered,prs_merged&show_icons=true&include_all_commits=true&bg_color=0D1117&title_color=FFA500&text_color=ffffff&icon_color=FFA500&theme=algolia&hide_border=true"
-        height="220"
+        height="150"
       />
     </td>
     <td align="center">
       <img 
         src="https://github-stats-mu-nine.vercel.app/api/top-langs/?username=mutlukurt&theme=algolia&hide_border=true&layout=pie&langs_count=6&bg_color=0D1117&title_color=FFA500&text_color=ffffff"
-        height="220"
+        height="150"
       />
     </td>
   </tr>
