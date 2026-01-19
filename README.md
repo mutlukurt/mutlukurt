@@ -17,7 +17,7 @@ Combining Economic Strategy with Agentic Coding.
 </p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1100&color=FFA500&center=true&vCenter=true&width=820&lines=AI-Native+Frontend+Developer;Economic+Strategy+%2B+Code;Agentic+Coding+Workflows;Scalable+UI+Systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1100&color=FFA500&center=true&vCenter=true&width=1000&lines=AI-Native+Frontend+Developer;Economic+Strategy+%2B+Code;Agentic+Coding+Workflows;Scalable+UI+Systems" />
 </div>
 
 <a href="https://linkedin.com/in/mutlukurt">
