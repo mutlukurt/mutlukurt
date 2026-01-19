@@ -71,48 +71,10 @@ In practice, this means:
 
 ## 🛠 Technology Stack & Tools
 
-<div align="center">
-
-<table>
-  <tr>
-    <td align="left" width="220"><b>Frontend Architecture</b></td>
-    <td align="left">
-      <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,framer&perline=12" />
-    </td>
-  </tr>
-
-  <tr>
-    <td align="left"><b>Mobile Frontend</b></td>
-    <td align="left">
-      <img src="https://skillicons.dev/icons?i=react,expo&perline=12" />
-    </td>
-  </tr>
-
-  <tr>
-    <td align="left"><b>Deployment & Git</b></td>
-    <td align="left">
-      <img src="https://skillicons.dev/icons?i=git,github,vercel,netlify&perline=12" />
-    </td>
-  </tr>
-
-  <tr>
-    <td align="left"><b>Design & Productivity</b></td>
-    <td align="left">
-      <img src="https://skillicons.dev/icons?i=vscode,figma,notion&perline=12" />
-    </td>
-  </tr>
-
-  <tr>
-    <td align="left"><b>Specific Libs & AI</b></td>
-    <td align="left">
-      <img src="https://img.shields.io/badge/Zustand-State-18181B?style=flat-square&logo=react" />
-      <img src="https://img.shields.io/badge/shadcn%2Fui-UI-000000?style=flat-square&logo=shadcnui" />
-      <img src="https://img.shields.io/badge/Google_Antigravity-IDE-4285F4?style=flat-square&logo=google" />
-    </td>
-  </tr>
-</table>
-
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,git,github,vercel,vscode,figma,notion&perline=15" />
 </div>
+
 ---
 
 ## 📊 GitHub Activity
