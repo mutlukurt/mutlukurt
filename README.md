@@ -84,32 +84,14 @@ In practice, this means:
   <tr>
     <td align="left"><b>Mobile Frontend</b></td>
     <td align="left">
-      <img src="https://skillicons.dev/icons?i=react,reactnative,expo&perline=12" />
+      <img src="https://skillicons.dev/icons?i=react,expo&perline=12" />
     </td>
   </tr>
 
   <tr>
-    <td align="left"><b>UI & State Systems</b></td>
-    <td align="left">
-      <img src="https://img.shields.io/badge/Zustand-State_Mgmt-18181B?style=flat-square&logo=react" />
-      <img src="https://img.shields.io/badge/shadcn%2Fui-Component_Lib-000000?style=flat-square&logo=shadcnui" />
-      <img src="https://img.shields.io/badge/Framer_Motion-Animation-0055FF?style=flat-square&logo=framer" />
-    </td>
-  </tr>
-
-  <tr>
-    <td align="left"><b>Deployment & Version Control</b></td>
+    <td align="left"><b>Deployment & Git</b></td>
     <td align="left">
       <img src="https://skillicons.dev/icons?i=git,github,vercel,netlify&perline=12" />
-    </td>
-  </tr>
-
-  <tr>
-    <td align="left"><b>AI & Agentic Tools</b></td>
-    <td align="left">
-      <img src="https://img.shields.io/badge/Cursor-AI_IDE-000000?style=flat-square&logo=cursor" />
-      <img src="https://img.shields.io/badge/Google_Antigravity-IDE-4285F4?style=flat-square&logo=google" />
-      <img src="https://img.shields.io/badge/Agentic_Coding-Workflow-0B0F19?style=flat-square" />
     </td>
   </tr>
 
@@ -117,6 +99,15 @@ In practice, this means:
     <td align="left"><b>Design & Productivity</b></td>
     <td align="left">
       <img src="https://skillicons.dev/icons?i=vscode,figma,notion&perline=12" />
+    </td>
+  </tr>
+
+  <tr>
+    <td align="left"><b>Specific Libs & AI</b></td>
+    <td align="left">
+      <img src="https://img.shields.io/badge/Zustand-State-18181B?style=flat-square&logo=react" />
+      <img src="https://img.shields.io/badge/shadcn%2Fui-UI-000000?style=flat-square&logo=shadcnui" />
+      <img src="https://img.shields.io/badge/Google_Antigravity-IDE-4285F4?style=flat-square&logo=google" />
     </td>
   </tr>
 </table>
