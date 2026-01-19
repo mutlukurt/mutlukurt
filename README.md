@@ -82,39 +82,39 @@ In practice, this means:
   </tr>
 
   <tr>
-    <td align="left"><b>State & UI Systems</b></td>
-    <td align="left">
-      <img src="https://skillicons.dev/icons?i=redux&perline=12" />
-      <img src="https://img.shields.io/badge/Zustand-State_Mgmt-18181B?style=flat-square&logo=react" />
-      <img src="https://img.shields.io/badge/shadcn%2Fui-Component_Lib-000000?style=flat-square&logo=shadcnui" />
-    </td>
-  </tr>
-
-  <tr>
-    <td align="left"><b>Mobile Development</b></td>
+    <td align="left"><b>Mobile Frontend</b></td>
     <td align="left">
       <img src="https://skillicons.dev/icons?i=react,reactnative,expo&perline=12" />
     </td>
   </tr>
 
   <tr>
-    <td align="left"><b>Backend & DevOps</b></td>
+    <td align="left"><b>UI & State Systems</b></td>
     <td align="left">
-      <img src="https://skillicons.dev/icons?i=nodejs,express,git,github,vercel,netlify&perline=12" />
+      <img src="https://img.shields.io/badge/Zustand-State_Mgmt-18181B?style=flat-square&logo=react" />
+      <img src="https://img.shields.io/badge/shadcn%2Fui-Component_Lib-000000?style=flat-square&logo=shadcnui" />
+      <img src="https://img.shields.io/badge/Framer_Motion-Animation-0055FF?style=flat-square&logo=framer" />
+    </td>
+  </tr>
+
+  <tr>
+    <td align="left"><b>Deployment & Version Control</b></td>
+    <td align="left">
+      <img src="https://skillicons.dev/icons?i=git,github,vercel,netlify&perline=12" />
     </td>
   </tr>
 
   <tr>
     <td align="left"><b>AI & Agentic Tools</b></td>
     <td align="left">
+      <img src="https://img.shields.io/badge/Cursor-AI_IDE-000000?style=flat-square&logo=cursor" />
       <img src="https://img.shields.io/badge/Google_Antigravity-IDE-4285F4?style=flat-square&logo=google" />
       <img src="https://img.shields.io/badge/Agentic_Coding-Workflow-0B0F19?style=flat-square" />
-      <img src="https://img.shields.io/badge/Prompt_Driven_Dev-Methodology-0B0F19?style=flat-square" />
     </td>
   </tr>
 
   <tr>
-    <td align="left"><b>Productivity</b></td>
+    <td align="left"><b>Design & Productivity</b></td>
     <td align="left">
       <img src="https://skillicons.dev/icons?i=vscode,figma,notion&perline=12" />
     </td>
@@ -122,7 +122,6 @@ In practice, this means:
 </table>
 
 </div>
-
 ---
 
 ## 📊 GitHub Activity
