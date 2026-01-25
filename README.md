@@ -20,16 +20,6 @@
 
 ---
 
-## 🧠 The Thesis: Economics x AI-Native Development
-
-My engineering philosophy is rooted in the optimization principles of **Labor Economics**. I don't just write code; I design systems that maximize resource efficiency and human-agent collaboration.
-
-- **Systemic Efficiency:** Applying economic optimization to frontend performance and state management.
-- **Agentic Workflow:** Leveraging AI agents as a force multiplier to accelerate the "Intent → Deployment" pipeline.
-- **Scalable Architecture:** Building resilient systems that bridge the gap between complex business logic and intuitive user interfaces.
-
----
-
 ## 🛠 Tech Stack & Tools
 
 <div align="left">
@@ -64,9 +54,3 @@ My engineering philosophy is rooted in the optimization principles of **Labor Ec
 </div>
 
 ---
-
-<p align="center">
-<i>
-"AI-Native by architecture. Human-driven by intent. Strategically grounded by Economics."
-</i>
-</p>
