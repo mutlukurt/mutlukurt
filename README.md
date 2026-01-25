@@ -1,11 +1,3 @@
-<div align="center">
-
-<img 
-  src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYW5nZ3E4dnFjc3hocjVncWh1ZzA3N3Q2cXpjOHo3c2Rua2Q3eXFveSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OumCa12QC9CIvBe2c1/giphy.gif"
-  width="400"
-  style="border-radius: 20px;"
-/>
-
 # Mutlu Kurt
 ### AI-First Frontend Developer | Economics Strategist
 
