@@ -64,7 +64,7 @@ My engineering philosophy is rooted in the optimization principles of **Labor Ec
 - **[Studio Dance](https://github.com/mutlukurt/studio-dance-class-tickets):** High-performance ticketing platform built with **React 19**, **TypeScript**, and **Tailwind 4**. Featuring a vibrant neon UI and complex schedule logic.
 - **[Bostan](https://github.com/mutlukurt/bostan):** Premium e-commerce v1.4. Optimizing UX with Lucide icons and Next.js performance patterns.
 - **[Bloom Gold](https://github.com/mutlukurt/bloomgold):** High-end jewelry store frontend with a focus on aesthetic precision.
-- **[Inked](https://github.com/mutlukurt/inked-premium-tattoo-studio-website):** A sophisticated, dark-themed tattoo studio interface leveraging **Luxury Aesthetics** and **Glassmorphism**.
+- **[Inked](https://github.com/mutlukurt/inked-premium-tattoo-studio-website):** A sophisticated Premium Noir tattoo studio interface. Featuring a high-contrast dark aesthetic with gold accents, a cinematic portfolio gallery, and a custom React-based pricing estimator.
 - **[UMBRA](https://github.com/mutlukurt/umbra):** Immersive, high-performance haunted house attraction platform.
 
 ---
