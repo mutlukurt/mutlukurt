@@ -1,4 +1,3 @@
----
 
 ## 📜 Verified Expertise
 
