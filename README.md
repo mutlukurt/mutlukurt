@@ -63,7 +63,7 @@ My engineering philosophy is rooted in the optimization principles of **Labor Ec
 
 - **[Bostan](https://github.com/mutlukurt/bostan):** Premium e-commerce v1.4. Optimizing UX with Lucide icons and Next.js performance patterns.
 - **[Bloom Gold](https://github.com/mutlukurt/bloomgold):** High-end jewelry store frontend with a focus on aesthetic precision.
-- **[Inked](https://github.com/mutlukurt/inked):** Modern, neo-brutalist tattoo studio interface.
+- **[Inked](https://github.com/mutlukurt/inked-premium-tattoo-studio-website):** Modern, neo-brutalist tattoo studio interface.
 - **[UMBRA](https://github.com/mutlukurt/umbra):** Immersive, high-performance haunted house attraction platform.
 
 ---
