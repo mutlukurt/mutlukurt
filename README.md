@@ -3,13 +3,14 @@
 
 ### 🤖 Generative AI & Cloud
 - **Google Cloud:** [Introduction to Generative AI](https://www.skills.google/public_profiles/c404825c-d4d6-4a45-8571-d0542041fc5f/badges/21632878?locale=tr)
-- **AWS Educate:** [Introduction to Generative AI (Credly Badge)](https://www.credly.com/badges/b3722db4-6138-4342-b154-0ca62c1a3553)
-- **NASBA (National Association of State Boards of Accountancy) from LinkedIn Learning:** [AI Ethics & Business Leadership](https://www.linkedin.com/learning/certificates/8be259e7266c51851ca9c62b8b1421e732ff2841477750733e2c93ae322bbbb0?trk=share_certificate)
-- **Duke University:** [Generative AI Specialization](https://www.coursera.org/account/accomplishments/verify/XHL74FO0APRS)
+- **AWS Educate:** [AWS Educate Introduction to Generative AI - Training Badge](https://www.credly.com/badges/b3722db4-6138-4342-b154-0ca62c1a3553)
+- **NASBA (National Association of State Boards of Accountancy) from LinkedIn Learning:** [Using Generative AI Ethically at Work](https://www.linkedin.com/learning/certificates/8be259e7266c51851ca9c62b8b1421e732ff2841477750733e2c93ae322bbbb0?trk=share_certificate)
+- **Duke University:** [Large Language Model Operations (LLMOps) Specialization : Introduction to Generative AI](https://www.coursera.org/account/accomplishments/verify/XHL74FO0APRS)
 
 ### 💻 Engineering & Design
-- **University of London:** Responsive Web Design
-- **University of California, Irvine (UC Irvine):** [Advanced English Grammar for Professional Success](https://www.coursera.org/account/accomplishments/verify/G4A7B6Q6MRLB)
+- **University of London:** Responsive Website Basics: Code with HTML, CSS, and JavaScript
+- **University of California, Irvine (UC Irvine):** [
+Advanced Grammar and Punctuation : Verb Tenses and Passives](https://www.coursera.org/account/accomplishments/verify/G4A7B6Q6MRLB)
 
 ---
 
