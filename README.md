@@ -1,6 +1,3 @@
-# Mutlu Kurt
-### AI-First Frontend Developer | Economics Strategist
-
 <p>
 <i>
 Architecting scalable UI systems with React & Next.js.<br>
