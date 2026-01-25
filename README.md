@@ -9,7 +9,7 @@
 
 ### 💻 Engineering & Design
 - **University of London:** Responsive Web Design
-- **UC Irvine:** [Advanced English Grammar for Professional Success](https://www.coursera.org/account/accomplishments/verify/G4A7B6Q6MRLB)
+- **University of California, Irvine (UC Irvine):** [Advanced English Grammar for Professional Success](https://www.coursera.org/account/accomplishments/verify/G4A7B6Q6MRLB)
 
 ---
 
