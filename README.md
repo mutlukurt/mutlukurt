@@ -1,10 +1,3 @@
-<p>
-<i>
-Architecting scalable UI systems with React & Next.js.<br>
-Synthesizing <b>Industrial Economics</b> with <b>Agentic Coding Workflows</b>.
-</i>
-</p>
-
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1100&color=FFA500&center=true&vCenter=true&width=450&lines=AI-Native+Frontend+Architecture;Labor+Economics+%2B+Code;Agentic+Workflow+Specialist;Scalable+UI+Systems" />
 </div>
