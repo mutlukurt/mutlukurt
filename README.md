@@ -1,3 +1,18 @@
+---
+
+## 📜 Verified Expertise
+
+### 🤖 Generative AI & Cloud
+- **Google Cloud:** [Introduction to Generative AI](https://www.skills.google/public_profiles/c404825c-d4d6-4a45-8571-d0542041fc5f/badges/21632878?locale=tr)
+- **AWS Educate:** [Introduction to Generative AI (Credly Badge)](https://www.credly.com/badges/b3722db4-6138-4342-b154-0ca62c1a3553)
+- **LinkedIn Learning:** [AI Ethics & Business Leadership](https://www.linkedin.com/learning/certificates/8be259e7266c51851ca9c62b8b1421e732ff2841477750733e2c93ae322bbbb0?trk=share_certificate)
+- **Duke University:** [Generative AI Specialization](https://www.coursera.org/account/accomplishments/verify/XHL74FO0APRS)
+
+### 💻 Engineering & Design
+- **University of London:** Responsive Web Design
+- **UC Irvine:** [Advanced English Grammar for Professional Success](https://www.coursera.org/account/accomplishments/verify/G4A7B6Q6MRLB)
+
+---
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/mutlukurt)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail)](mailto:mutlu@techie.com)
@@ -13,20 +28,6 @@ My engineering philosophy is rooted in the optimization principles of **Labor Ec
 - **Systemic Efficiency:** Applying economic optimization to frontend performance and state management.
 - **Agentic Workflow:** Leveraging AI agents as a force multiplier to accelerate the "Intent → Deployment" pipeline.
 - **Scalable Architecture:** Building resilient systems that bridge the gap between complex business logic and intuitive user interfaces.
-
----
-
-## 📜 Verified Expertise
-
-### 🤖 Generative AI & Cloud
-- **Google Cloud:** [Introduction to Generative AI](https://www.skills.google/public_profiles/c404825c-d4d6-4a45-8571-d0542041fc5f/badges/21632878?locale=tr)
-- **AWS Educate:** [Introduction to Generative AI (Credly Badge)](https://www.credly.com/badges/b3722db4-6138-4342-b154-0ca62c1a3553)
-- **LinkedIn Learning:** [AI Ethics & Business Leadership](https://www.linkedin.com/learning/certificates/8be259e7266c51851ca9c62b8b1421e732ff2841477750733e2c93ae322bbbb0?trk=share_certificate)
-- **Duke University:** [Generative AI Specialization](https://www.coursera.org/account/accomplishments/verify/XHL74FO0APRS)
-
-### 💻 Engineering & Design
-- **University of London:** Responsive Web Design
-- **UC Irvine:** [Advanced English Grammar for Professional Success](https://www.coursera.org/account/accomplishments/verify/G4A7B6Q6MRLB)
 
 ---
 
