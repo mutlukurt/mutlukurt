@@ -3,119 +3,90 @@
 <img 
   src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYW5nZ3E4dnFjc3hocjVncWh1ZzA3N3Q2cXpjOHo3c2Rua2Q3eXFveSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OumCa12QC9CIvBe2c1/giphy.gif"
   width="400"
+  style="border-radius: 20px;"
 />
 
-<h1>Hi, I’m Mutlu</h1>
-
-<h3>AI-Native Frontend Developer</h3>
+# Mutlu Kurt
+### AI-First Frontend Developer | Economics Strategist
 
 <p>
 <i>
-Crafting scalable UI systems with React & Next.js.<br>
-Combining Economic Strategy with Agentic Coding.
+Architecting scalable UI systems with React & Next.js.<br>
+Synthesizing <b>Industrial Economics</b> with <b>Agentic Coding Workflows</b>.
 </i>
 </p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1100&color=FFA500&center=true&vCenter=true&width=400&lines=AI-Native+Frontend+Developer;Economic+Strategy+%2B+Code;Agentic+Coding+Workflows;Scalable+UI+Systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1100&color=FFA500&center=true&vCenter=true&width=450&lines=AI-Native+Frontend+Architecture;Labor+Economics+%2B+Code;Agentic+Workflow+Specialist;Scalable+UI+Systems" />
 </div>
 
-<a href="https://linkedin.com/in/mutlukurt">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
-</a>
-<a href="mailto:mutlu@techie.com">
-  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail" />
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/mutlukurt)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail)](mailto:mutlu@techie.com)
 
 </div>
 
 ---
 
-### ⚡ The Engineering Mindset
+## 🧠 The Thesis: Economics x AI-Native Development
 
-I operate at the intersection of **modern frontend engineering, AI-first workflows, and economic strategy**. 
+My engineering philosophy is rooted in the optimization principles of **Labor Economics**. I don't just write code; I design systems that maximize resource efficiency and human-agent collaboration.
 
-My approach treats frontend development not merely as implementation, but as a **system design problem** where Agentic Coding plays an active role in ideation, execution, and refinement. I focus less on *writing* syntax and more on *architecting* outcomes.
-
-**My Core Priorities:**
-- **Hyper-Efficient Iteration:** Leveraging AI to accelerate the loop from concept to deployment.
-- **Intent → Output Pipelines:** Reducing friction between business logic and technical execution.
-- **Scalable Complexity:** Building systems that grow in capability without losing structural clarity.
+- **Systemic Efficiency:** Applying economic optimization to frontend performance and state management.
+- **Agentic Workflow:** Leveraging AI agents as a force multiplier to accelerate the "Intent → Deployment" pipeline.
+- **Scalable Architecture:** Building resilient systems that bridge the gap between complex business logic and intuitive user interfaces.
 
 ---
 
-<div align="center">
-<img 
-  src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3NseTBoZ3F5OXVoN3B0bnlwNmpvbnh3azZsNHoycTRjN2JhNG5jZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uhXxGTTyBfKk7iBU40/giphy.gif"
-  width="50%"
-  style="max-width: 600px;"
-/>
-</div>
+## 📜 Verified Expertise
 
-<br />
+### 🤖 Generative AI & Cloud
+- **Google Cloud:** Introduction to Generative AI.
+- **AWS Educate:** Introduction to Generative AI (Credly Badge).
+- **LinkedIn Learning:** NASBA-Accredited certifications in AI Ethics & Business Leadership.
+- **Duke University:** Generative AI Professional Path (In Progress).
 
-## 🧠 What “AI-Native” Means in My Work
-
-AI-Native is not about adding an AI chatbot to an existing product. It’s about **designing the product, workflow, and architecture around AI from day one**.
-
-In practice, this means:
-
-- **AI-First Architecture:** Interfaces and systems designed assuming AI participation from the start.
-- **Prompt-Driven Development:** Prompts are treated as structured, reusable, evolving assets—just like code.
-- **Agentic Coding:** Collaborating with autonomous agents to scaffold features, refactor components, and explore alternative implementations.
-- **Human-in-the-Loop Control:** AI accelerates execution, but decisions, trade-offs, and quality control remain strictly human-led.
-
-**The Result:** Faster delivery, higher creative bandwidth, and resilient systems.
+### 💻 Engineering & Design
+- **University of London:** Responsive Web Design.
+- **UC Irvine:** Advanced English Grammar for Professional Success.
 
 ---
 
-## 🛠 Technology Stack & Tools
+## 🛠 Tech Stack & Tools
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,git,github,vercel,vscode,figma,notion&perline=15" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,css,html,git,github,vercel,vscode,figma,notion,aws,gcp&perline=15" />
 </div>
 
 ---
 
-## 📊 GitHub Activity
+## 🚀 Featured Projects
+
+- **[Bostan](https://github.com/mutlukurt/bostan):** Premium e-commerce v1.4. Optimizing UX with Lucide icons and Next.js performance patterns.
+- **[Bloom Gold](https://github.com/mutlukurt/bloomgold):** High-end jewelry store frontend with a focus on aesthetic precision.
+- **[Inked](https://github.com/mutlukurt/inked):** Modern, neo-brutalist tattoo studio interface.
+- **[UMBRA](https://github.com/mutlukurt/umbra):** Immersive, high-performance haunted house attraction platform.
+
+---
+
+## 📊 Engineering Metrics
 
 <div align="center">
-
 <table>
   <tr>
     <td align="center">
-      <img 
-        src="https://github-stats-mu-nine.vercel.app/api?username=mutlukurt&show=reviews,discussions_started,discussions_answered,prs_merged&show_icons=true&include_all_commits=true&bg_color=0D1117&title_color=FFA500&text_color=ffffff&icon_color=FFA500&theme=algolia&hide_border=true"
-        height="400"
-      />
+      <img src="https://github-stats-mu-nine.vercel.app/api?username=mutlukurt&show_icons=true&include_all_commits=true&theme=algolia&hide_border=true" height="180" />
     </td>
     <td align="center">
-      <img 
-        src="https://github-stats-mu-nine.vercel.app/api/top-langs/?username=mutlukurt&theme=algolia&hide_border=true&layout=pie&langs_count=6&bg_color=0D1117&title_color=FFA500&text_color=ffffff"
-        height="400"
-      />
+      <img src="https://github-stats-mu-nine.vercel.app/api/top-langs/?username=mutlukurt&theme=algolia&hide_border=true&layout=pie&langs_count=5" height="180" />
     </td>
   </tr>
 </table>
-
 </div>
-
----
-
-## 📌 Working Philosophy
-
-- **AI is a collaborator**, not a shortcut.
-- **Readability beats cleverness** every time.
-- **Performance is a feature**, not an afterthought.
-- **Tools evolve**, but fundamentals stay.
-
-> I care deeply about building software that is:
-> **understandable today, adaptable tomorrow, and pleasant to use always.**
 
 ---
 
 <p align="center">
 <i>
-AI-Native by architecture. Human-driven by intent.
+"AI-Native by architecture. Human-driven by intent. Strategically grounded by Economics."
 </i>
 </p>
