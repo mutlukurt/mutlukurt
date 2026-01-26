@@ -8,9 +8,8 @@
 - **Duke University:** [Large Language Model Operations (LLMOps) Specialization : Introduction to Generative AI](https://www.coursera.org/account/accomplishments/verify/XHL74FO0APRS)
 
 ### 💻 Engineering & Design
-- **University of London:** Responsive Website Basics: Code with HTML, CSS, and JavaScript
-- **University of California, Irvine (UC Irvine):** [
-Advanced Grammar and Punctuation : Verb Tenses and Passives](https://www.coursera.org/account/accomplishments/verify/G4A7B6Q6MRLB)
+* **University of London:** [Responsive Website Basics: Code with HTML, CSS, and JavaScript](https://coursera.org/share/13d528dd37727615a90ec19562d1469e)
+* **University of California, Irvine (UC Irvine):** [Advanced Grammar and Punctuation: Verb Tenses and Passives](https://www.coursera.org/account/accomplishments/verify/G4A7B6Q6MRLB)
 
 ---
 
