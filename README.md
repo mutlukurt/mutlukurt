@@ -9,8 +9,7 @@ I bridge the gap between traditional software engineering and the next era of ag
 | Category | Technologies and Tools |
 | :--- | :--- |
 | **Development Environments** | Cursor, Bolt, Lovable, v0, Google Antigravity |
-| **Foundation Models** | Claude Code, Codex, Gemini 3.0 (Antigravity), GPT 5.2 (o-series), Qwen 3, DeepSeek-V4 |
-| **AI Agents and Assistants** | ChatGPT (Advanced Voice/Reasoning), GitHub Copilot |
+| **AI Agents and Assistants** | Claude Code, Codex, Gemini 3.0 (Antigravity), ChatGPT (Advanced Voice/Reasoning), GitHub Copilot, GPT 5.2 (o-series), Qwen 3, DeepSeek-V4 |
 | **Front-End Mastery** | React 19, Vite 6, Next.js, Vanilla CSS (Bespoke Animations) |
 | **Design Philosophy** | Minimalism, Glassmorphism, Neo-Brutalism, Bento Grid Layouts, Modern Skeuomorphism, Fluid Motion Design |
 
