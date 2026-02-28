@@ -1,26 +1,48 @@
-# AI-Native Developer | Agentic Systems Architect | Vibe Coder
+# Mutlu Kurt
 
-I am an AI-Native Developer focused on the synergy between human intuition and agentic systems. My workflow, defined as Vibe Coding, leverages the world's most advanced AI models to prioritize the aesthetic flow and functional excellence of digital products.
-
-I bridge the gap between traditional software engineering and the next era of agentic orchestration.
-
-### The Agentic Tech Stack
-
-| Category | Technologies and Tools |
-| :--- | :--- |
-| **Development Environments** | Cursor, Google Antigravity, Bolt, Lovable, v0 |
-| **AI Agents and Assistants** | Claude Code, Codex, Gemini 3.0 (Antigravity), ChatGPT (Advanced Voice/Reasoning), GitHub Copilot, GPT 5.2 (o-series), Qwen 3, DeepSeek-V4 |
-| **Front-End Mastery** | React 19, Vite 6, Next.js, Vanilla CSS (Bespoke Animations) |
-| **Design Philosophy** | Minimalism, Glassmorphism, Neo-Brutalism, Bento Grid Layouts, Modern Skeuomorphism, Fluid Motion Design |
-
-### Education and Background
-
-My technical work is informed by a unique perspective on industrial dynamics and workforce efficiency.
-
-* Web Design and Coding: High Honors Graduate (2022).
-* Labor Economics and Industrial Relations: Final Year Student (Expected 2026).
-* Global Certifications: Generative AI (Duke University), HTML and CSS Development (University of Washington), Responsive Website Basics (University of London).
+Indie Builder · AI-Native Product Developer  
+Founder of **Modigrad**
 
 ---
 
-I am building the future, one prompt and one pixel at a time.
+I build focused, performance-driven productivity apps.
+
+Currently building:
+
+# 🚀 Modigrad
+
+An AI-powered productivity ecosystem built around:
+
+- Habit formation
+- Deep work systems
+- Structured daily planning
+
+Offline-first.  
+Performance-obsessed.  
+Designed for clarity.
+
+🔗 Organization: https://github.com/modigrad
+
+---
+
+## Products
+
+- **Habit Tracker**
+- **Focus Flow**
+- **Daily Planner**
+
+All part of the Modigrad ecosystem.
+
+---
+
+## Tech Focus
+
+React Native · Expo · TypeScript  
+Offline-first architecture · Supabase  
+AI-assisted development workflows  
+
+---
+
+Building in public.  
+Shipping consistently.  
+Optimizing systems.
