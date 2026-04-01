@@ -9,7 +9,7 @@ I build focused, performance-driven productivity apps.
 
 Currently building:
 
-# 🚀 Modigrad
+# Modigrad
 
 An AI-powered productivity ecosystem built around:
 
