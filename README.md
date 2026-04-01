@@ -21,7 +21,7 @@ Offline-first.
 Performance-obsessed.  
 Designed for clarity.
 
-🔗 Organization: https://github.com/modigrad
+Organization: https://github.com/modigrad
 
 ---
 
