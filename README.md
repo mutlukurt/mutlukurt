@@ -8,8 +8,8 @@ Building practical digital products for focus, habits, planning, local workflows
 
 [![GitHub](https://img.shields.io/badge/GitHub-mutlukurt-171717?style=for-the-badge&logo=github)](https://github.com/mutlukurt)
 [![Organization](https://img.shields.io/badge/Organization-Modigrad-2F5D50?style=for-the-badge&logo=github)](https://github.com/modigrad)
+[![Google Play](https://img.shields.io/badge/Modigrad-Google%20Play-2F5D50?style=for-the-badge&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.mutlukurt.modigrad)
 [![TypeScript](https://img.shields.io/badge/TypeScript-Production%20First-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](#)
-[![React Native](https://img.shields.io/badge/React%20Native-Mobile%20Apps-61DAFB?style=for-the-badge&logo=react&logoColor=171717)](#)
 
 </div>
 
@@ -93,6 +93,13 @@ Modigrad is a habit tracking product focused on clarity, consistency, and patter
 
 It is designed around the idea that habit tracking should not only count streaks, but help users understand their behavior over time.
 
+<div align="center">
+
+[![Website](https://img.shields.io/badge/Website-modigrad.app-171717?style=for-the-badge&logo=googlechrome&logoColor=white)](https://modigrad.app/)
+[![Google Play](https://img.shields.io/badge/Get%20it%20on-Google%20Play-2F5D50?style=for-the-badge&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.mutlukurt.modigrad)
+
+</div>
+
 **Focus areas:**
 
 - Habit tracking
@@ -102,8 +109,6 @@ It is designed around the idea that habit tracking should not only count streaks
 - Premium analytics
 - Multi-language product experience
 - Clean, distraction-free mobile UX
-
-[Visit Modigrad →](https://modigrad.app/)
 
 ---
 
@@ -232,6 +237,6 @@ Optimizing systems.
 
 Privacy-first tools, offline-first apps, and AI-assisted product systems.
 
-[GitHub Organization](https://github.com/modigrad) · [Wendarca](https://wendarca.vercel.app/) · [Modigrad](https://modigrad.app/)
+[GitHub Organization](https://github.com/modigrad) · [Modigrad on Google Play](https://play.google.com/store/apps/details?id=com.mutlukurt.modigrad) · [Wendarca](https://wendarca.vercel.app/) · [Modigrad Website](https://modigrad.app/)
 
 </div>
