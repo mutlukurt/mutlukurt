@@ -275,19 +275,6 @@ I am building a connected ecosystem of small but useful products:
 
 </div>
 
----
-
-## GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=mutlukurt&show_icons=true&hide_border=true&theme=default" alt="Mutlu's GitHub Stats" />
-
-<br />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mutlukurt&layout=compact&hide_border=true&theme=default" alt="Top Languages" />
-
-</div>
 
 ---
 
