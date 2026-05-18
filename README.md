@@ -4,7 +4,7 @@
 
 ### Privacy-first tools, offline-first apps, and AI-assisted product systems.
 
-Building practical digital products for focus, habits, planning, file workflows, and modern productivity.
+Building practical digital products for focus, habits, planning, local workflows, and modern productivity.
 
 [![GitHub](https://img.shields.io/badge/GitHub-mutlukurt-171717?style=for-the-badge&logo=github)](https://github.com/mutlukurt)
 [![Organization](https://img.shields.io/badge/Organization-Modigrad-2F5D50?style=for-the-badge&logo=github)](https://github.com/modigrad)
@@ -17,7 +17,7 @@ Building practical digital products for focus, habits, planning, file workflows,
 
 ## About
 
-**Modigrad** is a product and open-source organization founded by **Mutlu Kurt**.
+**Modigrad** is a product brand founded by **Mutlu Kurt**.
 
 The focus is simple: build useful, privacy-conscious, performance-focused software products with modern web and mobile technologies.
 
@@ -46,20 +46,20 @@ The core direction is:
 
 ---
 
-## Featured Project
+## Featured Independent Project
 
 ## Wendarca
 
 **Privacy-first local file conversion web app**
 
-Wendarca is a browser-based file conversion tool built with **Next.js, React, TypeScript, and Tailwind CSS**.
+Wendarca is an independent open-source browser-based file conversion tool built with **Next.js, React, TypeScript, and Tailwind CSS**.
 
 It converts images, videos, and PDFs directly inside the user's browser without uploading files to a server.
 
 <div align="center">
 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-Wendarca-2F5D50?style=for-the-badge&logo=vercel&logoColor=white)](https://wendarca.vercel.app/)
-[![Source Code](https://img.shields.io/badge/Source%20Code-GitHub-171717?style=for-the-badge&logo=github)](https://github.com/mutlukurt/Wendarca)
+[![Source Code](https://img.shields.io/badge/Open%20Source-GitHub-171717?style=for-the-badge&logo=github)](https://github.com/mutlukurt/Wendarca)
 
 </div>
 
@@ -89,7 +89,7 @@ Wendarca keeps supported conversion workflows local whenever the browser can han
 
 **AI-powered habit tracker and performance coach**
 
-Modigrad is a habit tracking system focused on clarity, consistency, and pattern awareness.
+Modigrad is a habit tracking product focused on clarity, consistency, and pattern awareness.
 
 It is designed around the idea that habit tracking should not only count streaks, but help users understand their behavior over time.
 
@@ -194,7 +194,7 @@ I am building a connected ecosystem of small but useful products:
 - Privacy-first browser utilities
 - AI-assisted creator/developer workflows
 - Polished frontend experiences
-- Open-source tools that solve practical problems
+- Practical tools that solve real workflow problems
 
 ---
 
