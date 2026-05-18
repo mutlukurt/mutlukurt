@@ -141,27 +141,6 @@ Daily Planner is a React Native / Expo productivity app designed for everyday or
 - Import/export support
 - Local-first data model
 
-[Source Code →](https://github.com/mutlukurt/dailyplanner)
-
----
-
-### NeonVault
-
-**Cinematic frontend experience**
-
-NeonVault is a visual web project focused on strong art direction, modern frontend composition, and polished responsive design.
-
-**Focus areas:**
-
-- Next.js frontend
-- Visual landing page design
-- Responsive layout
-- Dark cinematic UI
-- Modern web presentation
-
-[Live Demo →](https://neonvault-five.vercel.app/)  
-[Source Code →](https://github.com/mutlukurt/neonvault)
-
 ---
 
 ## How I Build
