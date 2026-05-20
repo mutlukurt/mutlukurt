@@ -73,7 +73,7 @@ It converts images, videos, and PDFs directly inside the user's browser without 
 <div align="center">
 
 <p>
-  <a href="https://wendarca.vercel.app/">
+  <a href="https://wendarca.app/">
     <img src="https://img.shields.io/badge/Live%20Demo-Wendarca-2F5D50?style=for-the-badge&logo=vercel&logoColor=white" alt="Wendarca Live Demo" />
   </a>
   <a href="https://github.com/mutlukurt/Wendarca">
@@ -300,7 +300,7 @@ Privacy-first tools, offline-first apps, and AI-assisted product systems.
   <a href="https://github.com/modigrad">GitHub Organization</a> ·
   <a href="https://modigrad.app/">Modigrad Website</a> ·
   <a href="https://play.google.com/store/apps/details?id=com.mutlukurt.modigrad">Google Play</a> ·
-  <a href="https://wendarca.vercel.app/">Wendarca</a> ·
+  <a href="https://wendarca.app/">Wendarca</a> ·
   <a href="https://github.com/mutlukurt/Wendarca">Wendarca Source</a>
 </p>
 
