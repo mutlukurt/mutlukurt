@@ -10,22 +10,32 @@
 
 **Kairnly** is a free, open-source, local-first desktop workspace for personal notes, pages, documents, tasks, ideas, structured writing, and local knowledge management.
 
-It is built for people who want a calm writing-first workspace without accounts, cloud sync, subscriptions, team workspaces, billing, tracking, or remote databases.
+It is built for people who want a calm writing-first workspace without accounts, cloud sync, subscriptions, billing, tracking, team workspaces, or remote databases.
 
 **Kairnly exists because private thinking should not require a subscription, an account, or a cloud server.**
 
 <div align="center">
 
 <p>
+
   <a href="https://kairnly.space/">
+
     <img src="https://img.shields.io/badge/Website-kairnly.space-171717?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Kairnly Website" />
+
   </a>
+
   <a href="https://github.com/mutlukurt/Kairnly">
+
     <img src="https://img.shields.io/badge/Source%20Code-GitHub-2F5D50?style=for-the-badge&logo=github" alt="Kairnly Source Code" />
+
   </a>
+
   <a href="https://github.com/mutlukurt/Kairnly/blob/main/LICENSE">
+
     <img src="https://img.shields.io/badge/License-MIT-171717?style=for-the-badge" alt="MIT License" />
+
   </a>
+
 </p>
 
 </div>
@@ -55,41 +65,69 @@ The app helps users stack notes, references, tasks, documents, and ideas into a 
 The interface aims to feel:
 
 - Calm
+
 - Private
+
 - Local-first
+
 - Writing-first
+
 - Minimal but useful
+
 - Warm and focused
+
 - Professional without being heavy
+
 - Accessible to people who just want to write and organize
 
 ### What Kairnly Does
 
 - Create pages and nested subpages
+
 - Write rich notes and documents
+
 - Add todos, headings, lists, quotes, dividers, tables, code blocks, links, images, videos, files, embeds, and bookmarks
+
 - Search pages and note content quickly
+
 - Use a command palette for fast navigation and actions
+
 - Keep workspace data locally on the device
+
 - Export notes as Markdown, HTML, and PDF
+
 - Export one page, a page with subpages, or all notes as PDF ZIP archives
+
 - Export and import the entire workspace as JSON backup
+
 - Use light and dark themes
+
 - Run as a macOS desktop app through a downloadable DMG
+
 - Preview the project from the website without needing to clone the repository
 
 ### Kairnly Stack
 
 | Layer | Tools |
+
 | --- | --- |
+
 | **Desktop** | Tauri 2 · Rust |
+
 | **Frontend** | React 19 · TypeScript · Vite |
+
 | **Styling** | Tailwind CSS · CSS Variables |
+
 | **State** | Zustand |
+
 | **Editor** | Tiptap · ProseMirror |
+
 | **Database** | SQLite · rusqlite · FTS5 |
+
 | **Export** | html2canvas · jsPDF · JSZip |
+
 | **Interaction** | Framer Motion · dnd-kit · Lucide React |
+
 | **Distribution** | macOS DMG · Website preview |
 
 ### Access and Ownership
@@ -97,13 +135,18 @@ The interface aims to feel:
 Kairnly is intentionally not built as a cloud SaaS product.
 
 It does not ask users to create an account before they can write.  
+
 It does not put personal notes behind a subscription.  
+
 It does not require remote sync to be useful.  
+
 It does not treat private writing as a recurring billing opportunity.
 
 The goal is simple:
 
 **Give people a capable, private, local-first workspace they can actually own.**
+
+---
 
 ---
 
