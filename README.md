@@ -1,5 +1,112 @@
 <div align="center">
 
+---
+
+## Featured Public-Good Project
+
+# Kairnly
+
+### A private, local-first workspace for people who deserve ownership over their notes, ideas, and knowledge.
+
+**Kairnly** is a free, open-source, local-first desktop workspace for personal notes, pages, documents, tasks, ideas, structured writing, and local knowledge management.
+
+It is built for people who want a calm writing-first workspace without accounts, cloud sync, subscriptions, team workspaces, billing, tracking, or remote databases.
+
+**Kairnly exists because private thinking should not require a subscription, an account, or a cloud server.**
+
+<div align="center">
+
+<p>
+  <a href="https://kairnly.space/">
+    <img src="https://img.shields.io/badge/Website-kairnly.space-171717?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Kairnly Website" />
+  </a>
+  <a href="https://github.com/mutlukurt/Kairnly">
+    <img src="https://img.shields.io/badge/Source%20Code-GitHub-2F5D50?style=for-the-badge&logo=github" alt="Kairnly Source Code" />
+  </a>
+  <a href="https://github.com/mutlukurt/Kairnly/blob/main/LICENSE">
+    <img src="https://img.shields.io/badge/License-MIT-171717?style=for-the-badge" alt="MIT License" />
+  </a>
+</p>
+
+</div>
+
+### Why Kairnly Matters
+
+Many modern productivity tools are powerful, but they often depend on cloud accounts, subscriptions, remote databases, team-oriented workflows, or platform lock-in.
+
+Kairnly takes a different position.
+
+It is designed as a privacy-first, local-first workspace that gives users direct ownership over their own notes and knowledge. The data lives on the user’s device. The app does not require an account. The core experience does not depend on a company server.
+
+The project is open source so people can inspect it, learn from it, modify it, and keep using it freely.
+
+This matters especially for students, independent learners, people in resource-constrained environments, and anyone who simply needs a private place to think, write, study, organize, and preserve their work without paying rent to the cloud.
+
+Kairnly is not only a software project. It is part of a broader belief:
+
+> Useful digital tools should not only be available to people who can afford subscriptions.
+
+### Product Philosophy
+
+Kairnly is inspired by the idea of a cairn: small stones stacked as path markers.
+
+The app helps users stack notes, references, tasks, documents, and ideas into a private knowledge path that belongs to them.
+
+The interface aims to feel:
+
+- Calm
+- Private
+- Local-first
+- Writing-first
+- Minimal but useful
+- Warm and focused
+- Professional without being heavy
+- Accessible to people who just want to write and organize
+
+### What Kairnly Does
+
+- Create pages and nested subpages
+- Write rich notes and documents
+- Add todos, headings, lists, quotes, dividers, tables, code blocks, links, images, videos, files, embeds, and bookmarks
+- Search pages and note content quickly
+- Use a command palette for fast navigation and actions
+- Keep workspace data locally on the device
+- Export notes as Markdown, HTML, and PDF
+- Export one page, a page with subpages, or all notes as PDF ZIP archives
+- Export and import the entire workspace as JSON backup
+- Use light and dark themes
+- Run as a macOS desktop app through a downloadable DMG
+- Preview the project from the website without needing to clone the repository
+
+### Kairnly Stack
+
+| Layer | Tools |
+| --- | --- |
+| **Desktop** | Tauri 2 · Rust |
+| **Frontend** | React 19 · TypeScript · Vite |
+| **Styling** | Tailwind CSS · CSS Variables |
+| **State** | Zustand |
+| **Editor** | Tiptap · ProseMirror |
+| **Database** | SQLite · rusqlite · FTS5 |
+| **Export** | html2canvas · jsPDF · JSZip |
+| **Interaction** | Framer Motion · dnd-kit · Lucide React |
+| **Distribution** | macOS DMG · Website preview |
+
+### Access and Ownership
+
+Kairnly is intentionally not built as a cloud SaaS product.
+
+It does not ask users to create an account before they can write.  
+It does not put personal notes behind a subscription.  
+It does not require remote sync to be useful.  
+It does not treat private writing as a recurring billing opportunity.
+
+The goal is simple:
+
+**Give people a capable, private, local-first workspace they can actually own.**
+
+---
+
 # Modigrad
 
 ### Privacy-first tools, offline-first apps, and AI-assisted product systems.
