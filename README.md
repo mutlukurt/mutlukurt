@@ -1,5 +1,3 @@
-<div align="center">
-
 ---
 
 ## Featured Public-Good Project
@@ -147,7 +145,7 @@ The goal is simple:
 **Give people a capable, private, local-first workspace they can actually own.**
 
 ---
-
+<div align="center">
 ---
 
 # Modigrad
