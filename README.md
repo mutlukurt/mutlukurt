@@ -1,5 +1,14 @@
 <div align="center">
 
+<a href="https://buymeacoffee.com/mutlukurt">
+  <img src="https://img.shields.io/badge/☕%20Support%20Open%20Source-Buy%20Me%20a%20Coffee-FF813F?style=for-the-badge" alt="Buy Me a Coffee" />
+</a>
+
+<br />
+<br />
+
+> Supporting free, privacy-first, and open-source software development.
+
 # Modigrad
 
 ### Privacy-first tools, offline-first apps, and AI-assisted product systems.
