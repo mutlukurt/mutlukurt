@@ -1,5 +1,48 @@
 <div align="center">
 
+# Velora PDF
+
+### Private, local-first PDF reading and annotation workspace.
+
+Velora PDF is a privacy-first PDF reader designed for students, researchers, professionals, and everyday readers.
+
+It focuses on distraction-free reading, local document ownership, lightweight annotations, and a calm reading experience without accounts, subscriptions, or cloud dependency.
+
+### Core Principles
+
+- Local-first
+- Privacy-first
+- Reading-focused
+- No accounts required
+- No subscriptions required
+- Fast native desktop experience
+- Built for study and deep work
+
+### Why Velora Exists
+
+Many PDF tools have become increasingly dependent on subscriptions, accounts, cloud services, and complex collaboration features.
+
+Velora PDF takes a different approach.
+
+The goal is simple:
+
+> Open a PDF. Read. Learn. Think. Own your documents.
+
+### Stack
+
+| Layer | Tools |
+| --- | --- |
+| **Desktop** | Tauri 2 · Rust |
+| **Frontend** | React 19 · TypeScript |
+| **Styling** | Tailwind CSS |
+| **State** | Zustand |
+| **PDF Engine** | PDF.js |
+| **Distribution** | macOS DMG |
+
+<a href="https://github.com/mutlukurt/VeloraPDF/">
+  <img src="https://img.shields.io/badge/Open%20Source-Velora%20PDF-2F5D50?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Velora PDF" />
+</a>
+
 <a href="https://buymeacoffee.com/mutlukurt">
   <img src="https://img.shields.io/badge/☕%20Support%20Open%20Source-Buy%20Me%20a%20Coffee-FF813F?style=for-the-badge" alt="Buy Me a Coffee" />
 </a>
