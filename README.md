@@ -12,8 +12,6 @@ It focuses on distraction-free reading, local document ownership, lightweight an
 
 <b>Core Principles</b>
 
-<br><br>
-
 Local-first<br>
 Privacy-first<br>
 Reading-focused<br>
