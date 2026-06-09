@@ -439,3 +439,14 @@ Privacy-first tools, offline-first apps, and AI-assisted product systems.
 </a>
 
 </div>
+---
+
+## Support Open Source
+
+If my projects help you, consider supporting future development.
+
+Your support helps me continue building privacy-first, local-first, and open-source software that remains accessible to everyone.
+
+<a href="https://buymeacoffee.com/mutlukurt">
+  <img src="https://img.shields.io/badge/☕%20Buy%20Me%20a%20Coffee-Support%20Development-FF813F?style=for-the-badge" alt="Buy Me a Coffee" />
+</a>
