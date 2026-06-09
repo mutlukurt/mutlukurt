@@ -7,20 +7,23 @@
 Velora PDF is a privacy-first PDF reader designed for students, researchers, professionals, and everyday readers.
 
 It focuses on distraction-free reading, local document ownership, lightweight annotations, and a calm reading experience without accounts, subscriptions, or cloud dependency.
-
-<div align="center">
   
-### Core Principles
-
-- Local-first
-- Privacy-first
-- Reading-focused
-- No accounts required
-- No subscriptions required
-- Fast native desktop experience
-- Built for study and deep work
-
 <div align="center">
+
+<b>Core Principles</b>
+
+<br><br>
+
+Local-first<br>
+Privacy-first<br>
+Reading-focused<br>
+No accounts required<br>
+No subscriptions required<br>
+Fast native desktop experience<br>
+Built for study and deep work
+
+</div>
+
   
 ### Why Velora Exists
 
