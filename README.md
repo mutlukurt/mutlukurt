@@ -27,7 +27,6 @@ Kurumsal Finans & Muhasebe · Endüstri İlişkileri & İş Hukuku · Sosyal Pol
 | 2024 – 2025 | **TÜBİTAK 2209-A Araştırma Projesi** | "Türkiye'de eğitim ve istihdam ilişkisinin analiz edilmesi." Dr. Öğr. Üyesi Ruhal Samanlı danışmanlığında; araştırma metodolojisi, veri toplama ve analiz deneyimi. |
 | 2025 | **SGK Stajı: Sosyal Güvenlik & Sosyal Politika** | Cumhurbaşkanlığı Kariyer Kapısı Ulusal Staj Programı. Bağ-Kur emeklilik ve sigorta işlemleri üzerinde uygulamalı deneyim. |
 | 2025 – 2026 | **OmbudsGenç Konferansı** | Kamu Denetçiliği Kurumu odaklı, Gençlik ve Spor Bakanlığı destekli etkinlik; idari başvuru yolları ve sosyal politika boyutu. |
-| 2026 – | **Anadolu Üniversitesi: AI-Assisted Coding** | Yapay zeka destekli yazılım geliştirme üzerine ikinci yükseköğrenim programı (devam ediyor). |
 | Hedef | **Lisansüstü Eğitim ve Akademik Kariyer** | YDS/YÖKDİL hazırlığı, yüksek lisans ve doktora; uzun vadede araştırma görevliliği. |
 
 ## Odak Alanlarım
@@ -42,7 +41,7 @@ Kurumsal Finans & Muhasebe · Endüstri İlişkileri & İş Hukuku · Sosyal Pol
 
 ## Yazılım: Akademik Üretkenlik İçin Bir Araç
 
-Yazılım geliştirme benim için bir meslek değil; akademik çalışmalarımı desteklemek, araştırma ve öğrenme süreçlerimi verimli hale getirmek için kullandığım bir araçtır. Sosyal bilimler kökenli bir araştırmacı olarak, ihtiyaç duyduğum araçları hazır çözümlerde bulamadığımda yapay zeka destekli geliştirme yöntemleriyle kendim üretiyorum. Bu yaklaşımı Anadolu Üniversitesi'ndeki AI-Assisted Coding programıyla resmi bir eğitim zeminine de taşıdım.
+Yazılım geliştirme benim için bir meslek değil; akademik çalışmalarımı desteklemek, araştırma ve öğrenme süreçlerimi verimli hale getirmek için kullandığım bir araçtır. Sosyal bilimler kökenli bir araştırmacı olarak, ihtiyaç duyduğum araçları hazır çözümlerde bulamadığımda yapay zeka destekli geliştirme yöntemleriyle kendim üretiyorum.
 
 Bu depodaki projeler, "teknolojiyi kendi araştırma ve çalışma pratiğime nasıl hizmet ettiririm" sorusunun ürünleridir.
 
@@ -63,7 +62,7 @@ Bu depodaki projeler, "teknolojiyi kendi araştırma ve çalışma pratiğime na
 | **[Velora PDF](https://github.com/mutlukurt/VeloraPDF)** | Yerel çalışan PDF okuyucu ve not alma aracı | Akademik makale okuma ve literatür notları; öğrencilerin PDF araçlarına ücret ödememesi için açık kaynak |
 | **[Kairnly](https://github.com/mutlukurt/Kairnly)** | Yerel öncelikli not ve bilgi yönetimi masaüstü uygulaması | Literatür ve ders notlarının yapılandırılmış arşivi |
 | **[Wendarca](https://github.com/mutlukurt/Wendarca)** | Tarayıcı içinde çalışan dosya dönüştürme aracı | Belge ve veri formatı dönüşümlerinde günlük yardımcı |
-| **[NexoraAI](https://github.com/mutlukurt/NexoraAIEnvironment)** | Tamamen yerel çalışan, yapay zeka destekli geliştirme ortamı | AI-Assisted Coding eğitimimin uygulama sahası; internet ve abonelik bağımlılığı olmadan üretim |
+| **[NexoraAI](https://github.com/mutlukurt/NexoraAIEnvironment)** | Tamamen yerel çalışan, yapay zeka destekli geliştirme ortamı | Yapay zeka destekli geliştirme pratiğimin uygulama sahası; internet ve abonelik bağımlılığı olmadan üretim |
 | **Modigrad, Focus Flow, Daily Planner, Decision Log** | Alışkanlık, odak, planlama ve karar günlüğü uygulamaları | Uzun soluklu akademik çalışmanın gerektirdiği disiplin ve düzenin kendi hayatımdaki altyapısı |
 
 ## Eğitim
@@ -72,7 +71,6 @@ Bu depodaki projeler, "teknolojiyi kendi araştırma ve çalışma pratiğime na
 |---|---|---|---|
 | Lisans | Çalışma Ekonomisi ve Endüstri İlişkileri | Çankırı Karatekin Üniversitesi | Mezun, Haziran 2026 |
 | Ön Lisans | Web Tasarım ve Kodlama | Anadolu Üniversitesi | Mezun |
-| İkinci Öğrenim | AI-Assisted Coding | Anadolu Üniversitesi | Devam ediyor |
 
 ## İletişim
 
