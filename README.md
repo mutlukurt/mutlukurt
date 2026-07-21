@@ -63,7 +63,7 @@ Bu depodaki projeler, "teknolojiyi kendi araştırma ve çalışma pratiğime na
 | **[Kairnly](https://github.com/mutlukurt/Kairnly)** | Yerel öncelikli not ve bilgi yönetimi masaüstü uygulaması | Literatür ve ders notlarının yapılandırılmış arşivi |
 | **[Wendarca](https://github.com/mutlukurt/Wendarca)** | Tarayıcı içinde çalışan dosya dönüştürme aracı | Belge ve veri formatı dönüşümlerinde günlük yardımcı |
 | **[NexoraAI](https://github.com/mutlukurt/NexoraAIEnvironment)** | Tamamen yerel çalışan, yapay zeka destekli geliştirme ortamı | Yapay zeka destekli geliştirme pratiğimin uygulama sahası; internet ve abonelik bağımlılığı olmadan üretim |
-| **Modigrad, Focus Flow, Daily Planner, Decision Log** | Alışkanlık, odak, planlama ve karar günlüğü uygulamaları | Uzun soluklu akademik çalışmanın gerektirdiği disiplin ve düzenin kendi hayatımdaki altyapısı |
+| **Modigrad, Focus Flow, Daily Planner** | Alışkanlık, odak, planlama ve karar günlüğü uygulamaları | Uzun soluklu akademik çalışmanın gerektirdiği disiplin ve düzenin kendi hayatımdaki altyapısı |
 
 ## Eğitim
 
